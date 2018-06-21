@@ -6,7 +6,7 @@
 <externallink></externallink>
   <fanart>https://i.imgur.com/crjtqJr.jpg</fanart> 
   <thumbnail>https://i.imgur.com/xFJbHfA.jpg</thumbnail>
- <info>[COLOR lime][B]Peliculas extraidas de YouTube...No han sido subidas ni distribuidas por el Creador del Addon, solo es una recopilacion de busqueda en dicho canal,[/B][/COLOR]</title></info>
+ <info>[COLOR white][B]Peliculas extraidas de YouTube...No han sido subidas ni distribuidas por el Creador del Addon, solo es una recopilacion de busqueda en dicho canal,[/B][/COLOR]</title></info>
 </item>
 
 
@@ -58,8 +58,8 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <page></page>
 <cookieJar></cookieJar>
 </regex>
-<thumbnail>https://i.imgur.com/xeFZ8DI.jpg</thumbnail>
-<fanart>https://i.imgur.com/crjtqJr.jpg</fanart> 
+<thumbnail>https://i.imgur.com/NCXc8kh.jpg</thumbnail>
+<fanart>https://i.imgur.com/NCXc8kh.jpg</fanart> 
   <info>[COLOR white][B] Entrar[/B][/COLOR]</info>
 </item>
 <item>
@@ -82,8 +82,8 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <page></page>
 <cookieJar></cookieJar>
 </regex>
-<thumbnail>https://i.imgur.com/4QbrsYR.jpg</thumbnail>
-<fanart>  <fanart>https://i.imgur.com/crjtqJr.jpg</fanart> </fanart>
+<thumbnail>https://i.imgur.com/9sL7KeF.jpg</thumbnail>
+<fanart>https://i.imgur.com/9sL7KeF.jpg</fanart> </fanart>
 
 <info>[COLOR blue[B]Importante leer para el buen fincionamiento del Addon.[/B][/COLOR]</info>
 </item>
