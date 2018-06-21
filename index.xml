@@ -3,7 +3,7 @@
 <item>
 <title>[COLOR white][COLOR black][B] Tesla:[/B][/COLOR][B] Peliculas[/B][/COLOR]</title>
 <link>nolink</link>
-<externallink>https://bit.ly/2HJQomJ</externallink>
+<externallink></externallink>
   <fanart>https://i.imgur.com/crjtqJr.jpg</fanart> 
   <thumbnail>https://i.imgur.com/xFJbHfA.jpg</thumbnail>
  <info>[COLOR lime][B]Peliculas extraidas de YouTube...No han sido subidas ni distribuidas por el Creador del Addon, solo es una recopilacion de busqueda en dicho canal,[/B][/COLOR]</title></info>
@@ -13,7 +13,7 @@
 <item>
 <title>[COLOR white][COLOR black][B] Tesla:[/B][/COLOR][B] Los Mejores Documentales del Genero [/B][/COLOR]</title>
 <link>nolink</link>
-<externallink>https://bit.ly/2LHZAuA</externallink>
+<externallink></externallink>
    <fanart>https://i.imgur.com/crjtqJr.jpg</fanart> 
   <thumbnail>https://i.imgur.com/l69DnyO.jpg</thumbnail>
  <info>[COLOR lime][B]Documentales de calidad ordenados por contenido para mentes inquietas...[/B][/COLOR]</title></info>
@@ -22,35 +22,16 @@
 <item>
 <title>[COLOR white][COLOR black][B] Tesla:[/B][/COLOR][B] Canales YouTuber [/B][/COLOR]</title>
 <link>nolink</link>
-<externallink>https://bit.ly/2MmFZAZ</externallink>
+<externallink></externallink>
    <fanart>https://i.imgur.com/crjtqJr.jpg</fanart> 
   <thumbnail>https://i.imgur.com/WlhZJBg.jpg</thumbnail>
  <info>[COLOR lime][B]Canales On-line y Canales Youtuber de difusion y actualizados a diario...[/B][/COLOR]</title></info>
 </item>
 
 <item>
-
-<title>[COLOR lime][COLOR yellow][B] O.V.N.I:[/B][/COLOR][B] Razas Alienigenas [/B][/COLOR]</title>
-<link>nolink</link>
-<externallink>https://bit.ly/2JP3TH6</externallink>
-   <fanart>https://i.imgur.com/crjtqJr.jpg</fanart> 
-  <thumbnail>https://i.imgur.com/OxN5RyN.jpg</thumbnail>
- <info>[COLOR lime][B]Que Sabemos de las distintas razas de alienigenas que nos visitan..? Salgamos de dudas...[/B][/COLOR]</title></info>
-</item>
-
-<item>
-<title>[COLOR lime][COLOR yellow][B] O.V.N.I:[/B][/COLOR][B] Contenido Extra... [/B][/COLOR]</title>
-<link>ignore</link>
-<externallink>https://bit.ly/2JRxJKQ</externallink>
-   <fanart>https://i.imgur.com/crjtqJr.jpg</fanart> 
-  <thumbnail>https://i.imgur.com/vC8jyvX.jpg</thumbnail> 
- <info>[COLOR lime][B]Seccion con mucho mas contenido perfectamente ordenado que seguro encuentras interesante...[/B][/COLOR]</title></info>
-</item>
-
-<item>
 <title>[COLOR white][COLOR black][B] Tesla:[/B][/COLOR][B] Ultimas Noticas..!!! [/B][/COLOR]</title>
 <link>ignore</link>
-<jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=ultimas+noticias+sobre+ovnis+y+extraterrestres&sp=CAJCBAgBEgA%253D</jsonrpc>
+<jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=x+x+x+xxxx&sp=xxxxxx</jsonrpc>
 <thumbnail>https://i.imgur.com/YkHKWrT.jpg</thumbnail>
    <fanart>https://i.imgur.com/crjtqJr.jpg</fanart> 
   <info>[COLOR lime][B]Ultimas Noticias: Que esta pasando? En este preciso instante en algun lugar de nuestro planeta seguro hay alguna noticia nueva de nuestro interes. A que esperas para estar al dia.[/B][/COLOR]</title></info>
@@ -78,7 +59,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <cookieJar></cookieJar>
 </regex>
 <thumbnail>https://i.imgur.com/xeFZ8DI.jpg</thumbnail>
-<fanart>https://i.imgur.com/xeFZ8DI.jpg</fanart>
+<fanart>https://i.imgur.com/crjtqJr.jpg</fanart> 
   <info>[COLOR lime][B] Entrar[/B][/COLOR]</info>
 </item>
 <item>
