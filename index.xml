@@ -57,17 +57,17 @@
 </item>
 
 <item>
-<title>[COLOR blue][COLOR white][B] Tesla:[/B][/COLOR][B] Prueba..!!! [/B][/COLOR]</title>
+<title>[COLOR blue][COLOR white][B] Tesla:[/B][/COLOR][B] Instalar Imput Stream Helper (Complemento necesario)  [/B][/COLOR]</title>
 <link>action="RunPlugin(plugin://plugin.video.youtube/maintain/inputstreamhelper/install/)"</link>
-<jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=x+x+x+xxxx&sp=xxxxxx</jsonrpc>
+<jsonrpc>plugin://plugin.video.youtube/maintain/inputstreamhelper/install/</jsonrpc>
 <thumbnail>https://i.imgur.com/bKWN6Vc.jpg</thumbnail>
    <fanart>https://i.imgur.com/crjtqJr.jpg</fanart> 
-  <info>[COLOR white][B]Ultimas Noticias: Que esta pasando? En este preciso instante en algun lugar de nuestro planeta seguro hay alguna noticia nueva de nuestro interes. A que esperas para estar al dia.[/B][/COLOR]</title></info>
+  <info>[COLOR white][B][/B][/COLOR]</title></info>
 </item>
-action="RunPlugin(plugin://plugin.video.youtube/maintain/inputstreamhelper/install/)"
+
 
 <item>
-<title>[COLOR blue][B] Agradecimientos [/B][/COLOR]</title>
+<title>[COLOR blue][B] Agradecimientos... [/B][/COLOR]</title>
 <link>$doregex[openDialog]</link>
 <regex>
 <name>openDialog</name>
