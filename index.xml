@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 
 <item>
-<title>[COLOR white][COLOR black][B] Tesla:[/B][/COLOR][B] Peliculas[/B][/COLOR]</title>
+<title>[COLOR white][COLOR gray][B] Tesla:[/B][/COLOR][B] Peliculas[/B][/COLOR]</title>
 <link>nolink</link>
 <externallink></externallink>
   <fanart>https://i.imgur.com/crjtqJr.jpg</fanart> 
@@ -11,7 +11,7 @@
 
 
 <item>
-<title>[COLOR white][COLOR black][B] Tesla:[/B][/COLOR][B] Los Mejores Documentales del Genero [/B][/COLOR]</title>
+<title>[COLOR white][COLOR dimgray][B] Tesla:[/B][/COLOR][B] Los Mejores Documentales del Genero [/B][/COLOR]</title>
 <link>nolink</link>
 <externallink></externallink>
    <fanart>https://i.imgur.com/crjtqJr.jpg</fanart> 
@@ -29,7 +29,7 @@
 </item>
 
 <item>
-<title>[COLOR white][COLOR black][B] Tesla:[/B][/COLOR][B] Ultimas Noticas..!!! [/B][/COLOR]</title>
+<title>[COLOR white][COLOR indigo][B] Tesla:[/B][/COLOR][B] Ultimas Noticas..!!! [/B][/COLOR]</title>
 <link>ignore</link>
 <jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=x+x+x+xxxx&sp=xxxxxx</jsonrpc>
 <thumbnail>https://i.imgur.com/YkHKWrT.jpg</thumbnail>
