@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 
 <item>
-<title>[COLOR white][COLOR gray][B] Tesla:[/B][/COLOR][B] Peliculas[/B][/COLOR]</title>
+<title>[COLOR blue][COLOR white][B] Tesla:[/B][/COLOR][B] Peliculas[/B][/COLOR]</title>
 <link>nolink</link>
 <externallink></externallink>
   <fanart>https://i.imgur.com/crjtqJr.jpg</fanart> 
@@ -11,35 +11,35 @@
 
 
 <item>
-<title>[COLOR white][COLOR dimgray][B] Tesla:[/B][/COLOR][B] Los Mejores Documentales del Genero [/B][/COLOR]</title>
+<title>[COLOR blue][COLOR white][B] Tesla:[/B][/COLOR][B] Los Mejores Documentales del Genero [/B][/COLOR]</title>
 <link>nolink</link>
 <externallink></externallink>
    <fanart>https://i.imgur.com/crjtqJr.jpg</fanart> 
   <thumbnail>https://i.imgur.com/l69DnyO.jpg</thumbnail>
- <info>[COLOR lime][B]Documentales de calidad ordenados por contenido para mentes inquietas...[/B][/COLOR]</title></info>
+ <info>[COLOR white][B]Documentales de calidad ordenados por contenido para mentes inquietas...[/B][/COLOR]</title></info>
 </item>
 
 <item>
-<title>[COLOR white][COLOR black][B] Tesla:[/B][/COLOR][B] Canales YouTuber [/B][/COLOR]</title>
+<title>[COLOR blue][COLOR white][B] Tesla:[/B][/COLOR][B] Canales YouTuber [/B][/COLOR]</title>
 <link>nolink</link>
 <externallink></externallink>
    <fanart>https://i.imgur.com/crjtqJr.jpg</fanart> 
   <thumbnail>https://i.imgur.com/WlhZJBg.jpg</thumbnail>
- <info>[COLOR lime][B]Canales On-line y Canales Youtuber de difusion y actualizados a diario...[/B][/COLOR]</title></info>
+ <info>[COLOR white][B]Canales On-line y Canales Youtuber de difusion y actualizados a diario...[/B][/COLOR]</title></info>
 </item>
 
 <item>
-<title>[COLOR white][COLOR indigo][B] Tesla:[/B][/COLOR][B] Ultimas Noticas..!!! [/B][/COLOR]</title>
+<title>[COLOR blue][COLOR white][B] Tesla:[/B][/COLOR][B] Ultimas Noticas..!!! [/B][/COLOR]</title>
 <link>ignore</link>
 <jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=x+x+x+xxxx&sp=xxxxxx</jsonrpc>
 <thumbnail>https://i.imgur.com/YkHKWrT.jpg</thumbnail>
    <fanart>https://i.imgur.com/crjtqJr.jpg</fanart> 
-  <info>[COLOR lime][B]Ultimas Noticias: Que esta pasando? En este preciso instante en algun lugar de nuestro planeta seguro hay alguna noticia nueva de nuestro interes. A que esperas para estar al dia.[/B][/COLOR]</title></info>
+  <info>[COLOR white][B]Ultimas Noticias: Que esta pasando? En este preciso instante en algun lugar de nuestro planeta seguro hay alguna noticia nueva de nuestro interes. A que esperas para estar al dia.[/B][/COLOR]</title></info>
 </item>
 
 
 <item>
-<title>[COLOR yellow][B] Agradecimientos [/B][/COLOR]</title>
+<title>[COLOR blue][B] Agradecimientos [/B][/COLOR]</title>
 <link>$doregex[openDialog]</link>
 <regex>
 <name>openDialog</name>
@@ -60,10 +60,10 @@ def GetLSProData(page_data,Cookie_Jar,m):
 </regex>
 <thumbnail>https://i.imgur.com/xeFZ8DI.jpg</thumbnail>
 <fanart>https://i.imgur.com/crjtqJr.jpg</fanart> 
-  <info>[COLOR lime][B] Entrar[/B][/COLOR]</info>
+  <info>[COLOR white][B] Entrar[/B][/COLOR]</info>
 </item>
 <item>
-<title>[COLOR yellow][B] Si Tienes Problema Leeme... [/B][/COLOR]</title>
+<title>[COLOR blue][B] Si Tienes Problema Leeme... [/B][/COLOR]</title>
 <link>$doregex[openDialog]</link>
 <regex>
 <name>openDialog</name>
@@ -85,5 +85,5 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <thumbnail>https://i.imgur.com/4QbrsYR.jpg</thumbnail>
 <fanart>  <fanart>https://i.imgur.com/crjtqJr.jpg</fanart> </fanart>
 
-<info>[COLOR yellow[B]Importante leer para el buen fincionamiento del Addon.[/B][/COLOR]</info>
+<info>[COLOR blue[B]Importante leer para el buen fincionamiento del Addon.[/B][/COLOR]</info>
 </item>
