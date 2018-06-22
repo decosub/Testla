@@ -1,0 +1,253 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+ 
+ 
+<item>
+<title>[COLOR white][COLOR red] [/COLOR] Buscador de Documentales de Ciencias y Tecnología </title>
+<link>$doregex[makelist]</link>
+<thumbnail>https://pbs.twimg.com/profile_images/887800080052432900/AibeE5p1_400x400.jpg</thumbnail>
+<fanart>http://1.bp.blogspot.com/-Y7IIGOMzpqY/UEEp-SKfs2I/AAAAAAAACkg/1lP8pmMMT2I/s1600/alejandria_biblioteca.jpg</fanart>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+<title>[COLOR yellow] Agora [/COLOR][COLOR white][makelist.param2][/COLOR]</title>
+<link>$doregex[resolve]</link>
+<thumbnail>https://4.bp.blogspot.com/-lk5Yi68CocA/WDvDIx4hQeI/AAAAAAAAeJk/xhaCwNItuKU-kZjO8pf30hYJlqnWcMkMQCLcB/s1600/Tecnologia%2BRobotica.png</thumbnail>
+<fanart>http://1.bp.blogspot.com/-Y7IIGOMzpqY/UEEp-SKfs2I/AAAAAAAACkg/1lP8pmMMT2I/s1600/alejandria_biblioteca.jpg</fanart>
+]]></listrepeat>
+<expres>u'(.+?)', u'(.+?)'</expres>
+<page>$doregex[search]</page>
+</regex>
+ 
+<regex>
+<name>resolve</name>
+<expres><![CDATA[#$pyFunction
+import urlresolver
+def GetLSProData(page_data,Cookie_Jar,m):
+ url = 'https://www.youtube.com/watch?v=[makelist.param1]'
+ streamLink = urlresolver.resolve(url)
+ return streamLink
+]]></expres>
+<page></page>
+</regex>
+ 
+<regex>
+<name>search</name>
+<expres><![CDATA[#$pyFunction
+import requests,xbmcgui,xbmc, re,time, xbmcaddon
+def GetLSProData(page_data,Cookie_Jar,m):
+ 
+ text=takeInputFortext('[COLOR yellow] Agora/[/COLOR] [COLOR white]Buscar Documental[/COLOR]')
+ url = 'https://www.youtube.com/results?search_query=Documental de' + text.replace(' ', '+')
+ req = requests.get(url)
+ list1 = re.findall('yt-lockup-c.+?a\shref=".watch.v=([^"]+)".+?\s\stitle="([^"]+)"\s', req.text)
+ 
+ count = 50
+ while count > 1:
+   try:
+     url = 'https://www.youtube.com' + re.findall('a href="([^"]+)".+<\/a>\n <\/div>', req.text)[0]
+   except:
+     return list1
+   req = requests.get(url)
+   list2 = re.findall('yt-lockup-c.+?a\shref=".watch.v=([^"]+)".+?\s\stitle="([^"]+)"\s', req.text)
+   list1 = list1 + list2
+   count = count - 1
+ return list1
+ 
+def takeInputFortext(txt):
+ addon = xbmcaddon.Addon('plugin.video.Agora')
+ addon_version = addon.getAddonInfo('version')
+ profile = xbmc.translatePath(addon.getAddonInfo('profile').decode('utf-8'))
+ 
+ solver = InputWindow( txt=txt)
+ solution = solver.get()
+ return solution
+ 
+class InputWindow(xbmcgui.WindowDialog):
+    def __init__(self, *args, **kwargs):
+       
+        self.txt = kwargs.get('txt','')
+ 
+        xbmcgui.WindowXMLDialog.__init__(self)
+        #self.addControl(self.txt)
+        path = xbmcaddon.Addon().getAddonInfo('path')
+        self.kbd = xbmc.Keyboard()
+        self.kbd.setHeading( self.txt)
+ 
+    def get(self):
+        self.show()
+        time.sleep(2)
+        self.kbd.doModal()
+        if (self.kbd.isConfirmed()):
+            text = self.kbd.getText()
+            self.close()
+            return text
+        self.close()
+        return False
+]]></expres>
+<page></page>
+</regex>
+</item>
+
+<item>
+<title>[COLOR yellow][B] Documentales: Ciencias y Tecnología [/B][/COLOR]</title>
+<link>ignore</link>
+<jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=ciencia%20y%20tecnologia&search_type=playlist</jsonrpc>
+<thumbnail>https://4.bp.blogspot.com/-lk5Yi68CocA/WDvDIx4hQeI/AAAAAAAAeJk/xhaCwNItuKU-kZjO8pf30hYJlqnWcMkMQCLcB/s1600/Tecnologia%2BRobotica.png</thumbnail>
+<fanart>http://1.bp.blogspot.com/-Y7IIGOMzpqY/UEEp-SKfs2I/AAAAAAAACkg/1lP8pmMMT2I/s1600/alejandria_biblioteca.jpg</fanart>
+</item>
+
+
+<item>
+<title>[COLOR yellow][B] Documentales: Ciencias Sociales [/B][/COLOR]</title>
+<link>ignore</link>
+<jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=Ciencia%20Sociales&search_type=playlist</jsonrpc>
+<thumbnail>https://itzelmayelilopezmerino.files.wordpress.com/2014/05/biologiagral.jpg</thumbnail>
+<fanart>http://1.bp.blogspot.com/-Y7IIGOMzpqY/UEEp-SKfs2I/AAAAAAAACkg/1lP8pmMMT2I/s1600/alejandria_biblioteca.jpg</fanart>
+</item>
+
+
+<item>
+<title>[COLOR yellow][B] Documentales: Fisica [/B][/COLOR]</title>
+<link>ignore</link>
+<jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=DOCUMENTALES%20FISICA&search_type=playlist</jsonrpc>
+<thumbnail>https://cafpe.ugr.es/img/puzzle-circ.png</thumbnail>
+<fanart>http://1.bp.blogspot.com/-Y7IIGOMzpqY/UEEp-SKfs2I/AAAAAAAACkg/1lP8pmMMT2I/s1600/alejandria_biblioteca.jpg</fanart>
+</item>
+
+
+<item>
+<title>[COLOR yellow][B] Documentales: Matematicas [/B][/COLOR]</title>
+<link>ignore</link>
+<jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=documentales+de++matematicas&search_type=playlist</jsonrpc>
+<thumbnail>http://ladobe.com.mx/wp-content/uploads/2015/06/Cerebro-y-matem%C3%A1ticas.jpg</thumbnail>
+<fanart>http://1.bp.blogspot.com/-Y7IIGOMzpqY/UEEp-SKfs2I/AAAAAAAACkg/1lP8pmMMT2I/s1600/alejandria_biblioteca.jpg</fanart>
+</item>
+
+
+
+
+<item>
+<title>[COLOR yellow][B] Documentales: Economia [/B][/COLOR]</title>
+<link>ignore</link>
+<jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=documental+economia&sp=EgIQAw%253D%253D&search_type=playlist</jsonrpc>
+<thumbnail>https://4.bp.blogspot.com/-mECWfm84CtI/WDs48rhZzkI/AAAAAAAAKGM/sdJ6frX6cQ0p678TNm_a2G5U6RJveMcJQCLcB/s1600/1%2BA%2BECONOM%25C3%258DA%2B4.jpg</thumbnail>
+<fanart>http://1.bp.blogspot.com/-Y7IIGOMzpqY/UEEp-SKfs2I/AAAAAAAACkg/1lP8pmMMT2I/s1600/alejandria_biblioteca.jpg</fanart>
+</item>
+
+
+
+
+<item>
+<title>[COLOR yellow][B] Documentales: Mujeres Cientificas [/B][/COLOR]</title>
+<link>ignore</link>
+<jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=mujeres+cientificas&sp=EgIQAw%253D%253D&search_type=playlist</jsonrpc>
+<thumbnail>https://static.vix.com/es/sites/default/files/styles/large/public/btg/curiosidades.batanga.com/files/Las-10-mujeres-cient%C3%ADficas-m%C3%A1s-importantes-de-la-historia-8.jpg?itok=bt9BCWDS</thumbnail>
+<fanart>http://1.bp.blogspot.com/-Y7IIGOMzpqY/UEEp-SKfs2I/AAAAAAAACkg/1lP8pmMMT2I/s1600/alejandria_biblioteca.jpg</fanart>
+</item>
+
+
+<item>
+<title>[COLOR yellow][B] Documentales: Así se Hizo la Tierra [/B][/COLOR]</title>
+<link>ignore</link>
+<jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=asi%20se%20hizo%20la%20tierra&search_type=playlist</jsonrpc>
+<thumbnail>http://noticiasdelaciencia.com/upload/img/periodico/img_21490.jpg</thumbnail>
+<fanart>http://1.bp.blogspot.com/-Y7IIGOMzpqY/UEEp-SKfs2I/AAAAAAAACkg/1lP8pmMMT2I/s1600/alejandria_biblioteca.jpg</fanart>
+</item>
+
+
+
+<item>
+<title>[COLOR yellow][B] Documentales: Geologia [/B][/COLOR]</title>
+<link>ignore</link>
+<jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=documental+geologia&search_type=playlist</jsonrpc>
+<thumbnail>https://jblamarck.files.wordpress.com/2013/12/oxidacion.jpg</thumbnail>
+<fanart>http://1.bp.blogspot.com/-Y7IIGOMzpqY/UEEp-SKfs2I/AAAAAAAACkg/1lP8pmMMT2I/s1600/alejandria_biblioteca.jpg</fanart>
+</item>
+
+
+<item>
+<title>[COLOR yellow][B] Documentales: Idiologias [/B][/COLOR]</title>
+<link>ignore</link>
+<jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=documental+ideologias+politicas&sp=EgIQAw%253D%253D&search_type=playlist</jsonrpc>
+<thumbnail>http://2.bp.blogspot.com/_EEXLoVVImpA/SlPLsTV_eGI/AAAAAAAAAOg/eCy20kJKJbM/s640/Ideologia.jpg</thumbnail>
+<fanart>http://1.bp.blogspot.com/-Y7IIGOMzpqY/UEEp-SKfs2I/AAAAAAAACkg/1lP8pmMMT2I/s1600/alejandria_biblioteca.jpg</fanart>
+</item>
+
+
+
+<item>
+<title>[COLOR yellow][B] Documentales: Psicología Social [/B][/COLOR]</title>
+<link>ignore</link>
+<jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=documental+psicologia+social&sp=EgIQAw%253D%253D&search_type=playlist</jsonrpc>
+<thumbnail>http://2.bp.blogspot.com/-5WzItaehu-M/Trbtz_f5yXI/AAAAAAAAAAM/p6TG9pVISBk/s1600/Grupo.jpg</thumbnail>
+<fanart>http://1.bp.blogspot.com/-Y7IIGOMzpqY/UEEp-SKfs2I/AAAAAAAACkg/1lP8pmMMT2I/s1600/alejandria_biblioteca.jpg</fanart>
+</item>
+
+
+
+<item>
+<title>[COLOR yellow][B] Documentales: Ciencias Ocultas [/B][/COLOR]</title>
+<link>ignore</link>
+<jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=documental%20ciencias%20ocultas&search_type=playlist</jsonrpc>
+<thumbnail>https://pm1.narvii.com/6684/d37a60f8ca6a92547899af9820a0ddc124da8e86_00.jpg</thumbnail>
+<fanart>http://1.bp.blogspot.com/-Y7IIGOMzpqY/UEEp-SKfs2I/AAAAAAAACkg/1lP8pmMMT2I/s1600/alejandria_biblioteca.jpg</fanart>
+</item>
+
+
+
+<item>
+<title>[COLOR yellow][B] Documentales: Videojuegos [/B][/COLOR]</title>
+<link>ignore</link>
+<jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=documental+de+video+juegos&search_type=playlist</jsonrpc>
+<thumbnail>https://i.pinimg.com/originals/15/d4/7d/15d47d6af232a0b2f7f96c388896f801.jpg</thumbnail>
+<fanart>http://1.bp.blogspot.com/-Y7IIGOMzpqY/UEEp-SKfs2I/AAAAAAAACkg/1lP8pmMMT2I/s1600/alejandria_biblioteca.jpg</fanart>
+</item>
+
+
+
+<item>
+<title>[COLOR yellow][B] Documentales: Historia de la Tecnología [/B][/COLOR]</title>
+<link>ignore</link>
+<jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=historia+de+la+tecnologia&sp=EgIQAw%253D%253D&search_type=playlist</jsonrpc>
+<thumbnail>http://www.pandora-magazine.com/wp-content/uploads/2012/03/fisica.jpg</thumbnail>
+<fanart>http://1.bp.blogspot.com/-Y7IIGOMzpqY/UEEp-SKfs2I/AAAAAAAACkg/1lP8pmMMT2I/s1600/alejandria_biblioteca.jpg</fanart>
+</item>
+
+
+<item>
+<title>[COLOR yellow][B] Documentales: Top Inventos Tecnológicos [/B][/COLOR]</title>
+<link>ignore</link>
+<jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=top+inventos+tecnologicos&sp=EgIQAw%253D%253D&search_type=playlist</jsonrpc>
+<thumbnail>http://1.bp.blogspot.com/-DCMd6XcJUd4/T7Q7Y4fbLaI/AAAAAAAAAEs/GykUwRMoThU/s1600/Mecatronica.jpeg</thumbnail>
+<fanart>http://1.bp.blogspot.com/-Y7IIGOMzpqY/UEEp-SKfs2I/AAAAAAAACkg/1lP8pmMMT2I/s1600/alejandria_biblioteca.jpg</fanart>
+</item>
+
+
+
+<item>
+<title>[COLOR yellow][B] Documentales: Internet [/B][/COLOR]</title>
+<link>ignore</link>
+<jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=documental+de+internet&sp=EgIQAw%253D%253D&search_type=playlist</jsonrpc>
+<thumbnail>https://www.tangrampublicidad.es/wp-content/uploads/2016/07/el-internet-de-las-cosas-500x500.jpg</thumbnail>
+<fanart>http://1.bp.blogspot.com/-Y7IIGOMzpqY/UEEp-SKfs2I/AAAAAAAACkg/1lP8pmMMT2I/s1600/alejandria_biblioteca.jpg</fanart>
+</item>
+
+
+
+<item>
+<title>[COLOR yellow][B] Documentales: Hackers [/B][/COLOR]</title>
+<link>ignore</link>
+<jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=documental+hackers&search_type=playlist</jsonrpc>
+<thumbnail>http://www.maisoninteractive.agency/wp-content/uploads/2016/07/Maison-Interactive_Protect-from-Hackers-Post.jpg</thumbnail>
+<fanart>http://1.bp.blogspot.com/-Y7IIGOMzpqY/UEEp-SKfs2I/AAAAAAAACkg/1lP8pmMMT2I/s1600/alejandria_biblioteca.jpg</fanart>
+</item>
+
+
+
+<item>
+<title>[COLOR yellow][B] Noticias:  Ciencia y Tecnología[/B][/COLOR]</title>
+<link>ignore</link>
+<jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=%0d%0aNoticias%20sobre%20ciencia%20y%20tecnolog%c3%ada&search_type=playlist</jsonrpc>
+<thumbnail>https://laclaseencasa.com/wp-content/uploads/2017/04/500_F_28494381_fxaFZjFuHIiKhJvPxdThYjo6S3rEdAH9.jpg</thumbnail>
+<fanart>http://1.bp.blogspot.com/-Y7IIGOMzpqY/UEEp-SKfs2I/AAAAAAAACkg/1lP8pmMMT2I/s1600/alejandria_biblioteca.jpg</fanart>
+</item>
