@@ -70,7 +70,7 @@
 <title>[COLOR blue][COLOR white][B] Tesla:[/B][/COLOR][B] Ultimas Noticias..!!! [/B][/COLOR]</title>
 <link>ignore</link>
 <jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=&sp=</jsonrpc>
-<thumbnail>https://i.imgur.com/OodsWNL.jpg</thumbnail>
+<thumbnail>https://i.imgur.com/bKWN6Vc.jpg</thumbnail>
    <fanart>https://i.imgur.com/crjtqJr.jpg</fanart> 
   <info>[COLOR white][B]Ultimas Noticias: Que esta pasando? En este preciso instante en algun lugar de nuestro planeta seguro hay alguna noticia nueva de nuestro interes. A que esperas para estar al dia.[/B][/COLOR]</title></info>
 </item>
@@ -79,7 +79,7 @@
 <title>[COLOR blue][COLOR white][B] Tesla:[/B][/COLOR][B] Instalar Imput Stream Helper (Complemento necesario)  [/B][/COLOR]</title>
 <link>action="RunPlugin(plugin://plugin.video.youtube/maintain/inputstreamhelper/install/)"</link>
 <jsonrpc>plugin://plugin.video.youtube/maintain/inputstreamhelper/install/</jsonrpc>
-<thumbnail>https://i.imgur.com/bKWN6Vc.jpg</thumbnail>
+<thumbnail>https://i.imgur.com/85OIp1B.jpg</thumbnail>
    <fanart>https://i.imgur.com/crjtqJr.jpg</fanart> 
   <info>[COLOR white][B]Complemento necesario para poder abrir ventanas emergentes con los dialogos y leer las direfentes secciones...[/B][/COLOR]</title></info>
 </item>
@@ -87,9 +87,9 @@
 <item>
 <title>[COLOR white][COLOR blue][B] Indican Nuevo Contenido Disponible [/B][/COLOR][B](*)[/B][/COLOR]</title>
 <link>ignore</link>
-<thumbnail>https://i.imgur.com/IweM51g.jpg</thumbnail>
-<fanart>https://i.imgur.com/IweM51g.jpg</fanart>
-<info>[COLOR white][B] Los (*) Blancos, indican nuevo contenido disponible o actualizacion de la seccion. [/B][/COLOR]</title></info>
+<thumbnail>https://i.imgur.com/OodsWNL.jpg</thumbnail>
+ <fanart>https://i.imgur.com/crjtqJr.jpg</fanart> 
+  <info>[COLOR white][B] Los (*) Blancos, indican nuevo contenido disponible o actualizacion de la seccion. [/B][/COLOR]</title></info>
 </item>
 <item>
 <title>[COLOR blue][B] Agradecimientos... [/B][/COLOR]</title>
