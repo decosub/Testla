@@ -4,7 +4,7 @@
 <title>[COLOR blue][COLOR white][B] Fisica:[/B][/COLOR][B] Fisica Clasica [/B][/COLOR]</title>
 <link>nolink</link>
 <externallink></externallink>
-   <fanart>https://i.imgur.com/XtzDfet.jpg</fanart> 
+   <fanart>https://i.imgur.com/3blAZfv.jpg</fanart> 
   <thumbnail>https://i.imgur.com/FeSit9V.jpg</thumbnail>
  <info>[COLOR white][B] En esta seccion de Ciencias Encontraras: Mecánica, Estática, Dinámica, Electricidad. Magnetismo, Electromagnetismo, Termodinámica. ...[/B][/COLOR]</title></info>
 </item>
@@ -13,7 +13,7 @@
 <title>[COLOR blue][COLOR white][B] Fisica:[/B][/COLOR][B] Fisica Cuantica [/B][/COLOR]</title>
 <link>nolink</link>
 <externallink></externallink>
-   <fanart>https://i.imgur.com/XtzDfet.jpg</fanart> 
+    <fanart>https://i.imgur.com/3blAZfv.jpg</fanart> 
   <thumbnail>https://i.imgur.com/QwZlI69.jpg</thumbnail>
  <info>[COLOR white][B]En esta seccion de Ciencias Encontraras: Física Teórica, Física Atómica, Fisica Molecular, Física de Partículas, Astrofísica....[/B][/COLOR]</title></info>
 </item>
@@ -21,7 +21,7 @@
 <item><title>[COLOR blue][COLOR white][B] Fisica:[/B][/COLOR][B] Buscador de Contenidos[/B][/COLOR]</title>
 <link>$doregex[makelist]</link>
 <thumbnail>https://i.imgur.com/7FiCZLD.jpg</thumbnail>
-<fanart>https://i.imgur.com/XtzDfet.jpg</fanart> 
+ <fanart>https://i.imgur.com/3blAZfv.jpg</fanart> 
  <info>[COLOR white][B]Buscador de Youtube donde podras encontrar todo el contenido relacionado con la Fisica...[/B][/COLOR]</info>
 <regex>
 <name>makelist</name>
@@ -108,7 +108,7 @@ class InputWindow(xbmcgui.WindowDialog):
 <item><title>[COLOR blue][B] Volver al Menu Principal...[/B][/COLOR]</title>
 <link>ignore</link>
 <externallink>https://bit.ly/2lqcXV2</externallink>
-<thumbnail>https://i.imgur.com/b25Ui4O.jpg</thumbnail>
-<fanart>https://i.imgur.com/crjtqJr.jpg</fanart>
+<thumbnail>https://i.imgur.com/TK6sjvQ.jpg</thumbnail>
+<fanart>https://i.imgur.com/3blAZfv.jpg</fanart>
 <info>[COLOR white][B]Volver al Menu Principal...[/B][/COLOR]</title></info>
 </item>
