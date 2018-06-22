@@ -56,7 +56,7 @@
 </item>
 
 <item>
-<title>[COLOR blue][COLOR white][B] Fisica Cuantica:[/B][/COLOR][B] Buscador Fisica Cuantica[/B][/COLOR]</title>
+<item><title>[COLOR blue][B] Buscador de Contenidos: Fisica Cuantica[/B][/COLOR]</title>
 <link>$doregex[makelist]</link>
 <thumbnail>https://i.imgur.com/7FiCZLD.jpg</thumbnail>
  <fanart>https://i.imgur.com/3blAZfv.jpg</fanart> 
