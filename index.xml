@@ -1,6 +1,25 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 
 <item>
+<title>[COLOR blue][COLOR white][B] Tesla:[/B][/COLOR][B] Fisica[/B][/COLOR]</title>
+<link>nolink</link>
+<externallink>https://bit.ly/2IfexCc</externallink>
+  <fanart>https://i.imgur.com/crjtqJr.jpg</fanart> 
+  <thumbnail>https://i.imgur.com/zWyRS9Y.jpg</thumbnail>
+ <info>[COLOR white][B]Peliculas extraidas de YouTube...No han sido subidas ni distribuidas por el Creador del Addon, solo es una recopilacion de busqueda en dicho canal,[/B][/COLOR]</title></info>
+</item>
+
+<item>
+<title>[COLOR blue][COLOR white][B] Tesla:[/B][/COLOR][B] Ciencia[/B][/COLOR]</title>
+<link>nolink</link>
+<externallink>https://bit.ly/2lrHUIk</externallink>
+  <fanart>https://i.imgur.com/crjtqJr.jpg</fanart> 
+  <thumbnail>https://i.imgur.com/zWyRS9Y.jpg</thumbnail>
+ <info>[COLOR white][B]Peliculas extraidas de YouTube...No han sido subidas ni distribuidas por el Creador del Addon, solo es una recopilacion de busqueda en dicho canal,[/B][/COLOR]</title></info>
+</item>
+
+
+<item>
 <title>[COLOR blue][COLOR white][B] Tesla:[/B][/COLOR][B] Peliculas[/B][/COLOR]</title>
 <link>nolink</link>
 <externallink></externallink>
@@ -62,10 +81,16 @@
 <jsonrpc>plugin://plugin.video.youtube/maintain/inputstreamhelper/install/</jsonrpc>
 <thumbnail>https://i.imgur.com/bKWN6Vc.jpg</thumbnail>
    <fanart>https://i.imgur.com/crjtqJr.jpg</fanart> 
-  <info>[COLOR white][B][/B][/COLOR]</title></info>
+  <info>[COLOR white][B]Complemento necesario para poder abrir ventanas emergentes con los dialogos y leer las direfentes secciones...[/B][/COLOR]</title></info>
 </item>
 
-
+<item>
+<title>[COLOR white][COLOR blue][B] Indican Nuevo Contenido Disponible [/B][/COLOR][B](*)[/B][/COLOR]</title>
+<link>ignore</link>
+<thumbnail>https://i.imgur.com/IweM51g.jpg</thumbnail>
+<fanart>https://i.imgur.com/IweM51g.jpg</fanart>
+<info>[COLOR lime][B] Los (*) Blancos, indican nuevo contenido disponible o actualizacion de la seccion. [/B][/COLOR]</title></info>
+</item>
 <item>
 <title>[COLOR blue][B] Agradecimientos... [/B][/COLOR]</title>
 <link>$doregex[openDialog]</link>
