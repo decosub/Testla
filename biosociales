@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 
 <item>
-<title>[COLOR blue][COLOR white][B] Ciencia:[/B][/COLOR][B] Antropologia[/B][/COLOR]</title>
+<title>[COLOR blue][COLOR white][B] Ciencia Biosocial:[/B][/COLOR][B] Antropologia[/B][/COLOR]</title>
 <link>nolink</link>
 <externallink></externallink>
   <fanart>https://i.imgur.com/BTXNERT.jpg</fanart> 
@@ -11,7 +11,7 @@
 
 
 <item>
-<title>[COLOR blue][COLOR white][B] Ciencia:[/B][/COLOR][B] Demografia[/B][/COLOR]</title>
+<title>[COLOR blue][COLOR white][B] Ciencia Biosocial:[/B][/COLOR][B] Demografia[/B][/COLOR]</title>
 <link>nolink</link>
 <externallink></externallink>
    <fanart>https://i.imgur.com/BTXNERT.jpg</fanart> 
@@ -20,7 +20,7 @@
 </item>
 
 <item>
-<title>[COLOR blue][COLOR white][B] Ciencia:[/B][/COLOR][B] Psicologia Social [/B][/COLOR]</title>
+<title>[COLOR blue][COLOR white][B] Ciencia Biosocial:[/B][/COLOR][B] Psicologia Social [/B][/COLOR]</title>
 <link>nolink</link>
 <externallink></externallink>
    <fanart>https://i.imgur.com/BTXNERT.jpg</fanart> 
@@ -29,7 +29,7 @@
 </item>
 
 <item>
-<title>[COLOR blue][COLOR white][B] Ciencia:[/B][/COLOR][B] Bioeconomia  [/B][/COLOR]</title>
+<title>[COLOR blue][COLOR white][B] Ciencia Biosocial:[/B][/COLOR][B] Bioeconomia  [/B][/COLOR]</title>
 <link>nolink</link>
 <externallink></externallink>
    <fanart>https://i.imgur.com/BTXNERT.jpg</fanart> 
@@ -73,7 +73,7 @@ import requests,xbmcgui,xbmc, re,time, xbmcaddon
 def GetLSProData(page_data,Cookie_Jar,m):
  
  text=takeInputFortext('[COLOR white][B] Tesla [/B][/COLOR] [COLOR blue]Buscar de Contenidos[/COLOR]')
- url = 'https://www.youtube.com/results?search_query=Ciencia' + text.replace(' ', '+')
+ url = 'https://www.youtube.com/results?search_query=Ciencia+biosocial' + text.replace(' ', '+')
  req = requests.get(url)
  list1 = re.findall('yt-lockup-c.+?a\shref=".watch.v=([^"]+)".+?\s\stitle="([^"]+)"\s', req.text)
  
