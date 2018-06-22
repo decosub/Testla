@@ -57,11 +57,11 @@
 </item>
 
 <item>
-<title>[COLOR blue][COLOR white][B] Tesla:[/B][/COLOR][B] Grandes Pensadores [/B][/COLOR]</title>
+<title>[COLOR blue][COLOR white][B] Tesla:[/B][/COLOR][B] Teorias [/B][/COLOR]</title>
 <link>nolink</link>
 <externallink></externallink>
    <fanart>https://i.imgur.com/crjtqJr.jpg</fanart> 
-  <thumbnail>https://i.imgur.com/THSE2ET.jpg</thumbnail>
+  <thumbnail>https://i.imgur.com/VgIfHJk.jpg</thumbnail>
  <info>[COLOR white][B]Canales On-line y Canales Youtuber de difusion y actualizados a diario...[/B][/COLOR]</title></info>
 </item>
 
@@ -70,7 +70,7 @@
 <title>[COLOR blue][COLOR white][B] Tesla:[/B][/COLOR][B] Ultimas Noticias..!!! [/B][/COLOR]</title>
 <link>ignore</link>
 <jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=&sp=</jsonrpc>
-<thumbnail>https://i.imgur.com/bKWN6Vc.jpg</thumbnail>
+<thumbnail>https://i.imgur.com/OodsWNL.jpg</thumbnail>
    <fanart>https://i.imgur.com/crjtqJr.jpg</fanart> 
   <info>[COLOR white][B]Ultimas Noticias: Que esta pasando? En este preciso instante en algun lugar de nuestro planeta seguro hay alguna noticia nueva de nuestro interes. A que esperas para estar al dia.[/B][/COLOR]</title></info>
 </item>
