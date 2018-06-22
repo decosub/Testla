@@ -30,16 +30,16 @@
 
 <item><title>[COLOR blue][COLOR white][B] Fisica:[/B][/COLOR][B] Buscador de Contenidos[/B][/COLOR]</title>
 <link>$doregex[makelist]</link>
-<thumbnail>https://i.imgur.com/m7tzbN1.png</thumbnail>
-<fanart>https://i.imgur.com/gylVcAH.jpg</fanart>
+<thumbnail>https://i.imgur.com/7FiCZLD.jpg</thumbnail>
+<fanart>https://i.imgur.com/kMjSRPq.jpg</fanart>
  <info>[COLOR white][B]Buscador de Youtube donde podras encontrar todo el contenido relacionado con la Fisica...[/B][/COLOR]</info>
 <regex>
 <name>makelist</name>
 <listrepeat><![CDATA[
 <title>[COLOR white] Tesla: [/COLOR][COLOR blue][makelist.param2][/COLOR]</title>
 <link>$doregex[resolve]</link>
-<thumbnail>https://i.imgur.com/m7tzbN1.png</thumbnail>
-<fanart>https://i.imgur.com/gylVcAH.jpg</fanart>
+<thumbnail>https://i.imgur.com/7FiCZLD.jpg</thumbnail>
+<fanart>https://i.imgur.com/kMjSRPq.jpg</fanart>
 ]]></listrepeat>
 <expres>u'(.+?)', u'(.+?)'</expres>
 <page>$doregex[search]</page>
@@ -118,7 +118,7 @@ class InputWindow(xbmcgui.WindowDialog):
 <item><title>[COLOR blue][B] Volver al Menu Principal...[/B][/COLOR]</title>
 <link>ignore</link>
 <externallink>https://bit.ly/2lqcXV2</externallink>
-<thumbnail>https://i.imgur.com/7FiCZLD.jpg</thumbnail>
-<fanart>https://i.imgur.com/kMjSRPq.jpg</fanart>
+<thumbnail>https://i.imgur.com/b25Ui4O.jpg</thumbnail>
+<fanart>https://i.imgur.com/crjtqJr.jpg</fanart>
 <info>[COLOR white][B]Volver al Menu Principal...[/B][/COLOR]</title></info>
 </item>
