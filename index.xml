@@ -116,7 +116,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
   <info>[COLOR white][B] Entrar[/B][/COLOR]</info>
 </item>
 <item>
-<title>[COLOR blue][B] Si Tienes Problema Leeme... [/B][/COLOR]</title>
+<title>[COLOR blue][B] Si Tienes Problemas Leeme... [/B][/COLOR]</title>
 <link>$doregex[openDialog]</link>
 <regex>
 <name>openDialog</name>
