@@ -11,7 +11,7 @@
  <info>[COLOR white][B]En esta seccion de fisica Encontraras: Fisica Clasica, Fisica Cuantica...[/B][/COLOR]</title></info>
 </item>
 <item>
-<title>[COLOR white][B] Clasica[/B][/COLOR]</title>
+<title>[COLOR white][B] Clasica:[/B][/COLOR]</title>
 <link>nolink</link>
 <externallink></externallink>
   <fanart>https://i.imgur.com/zBlww2I.jpg</fanart> 
@@ -83,7 +83,7 @@
 </item>
 
 <item>
-<title>[COLOR white][B] Cuantica[/B][/COLOR]</title>
+<title>[COLOR white][B] Cuantica:[/B][/COLOR]</title>
 <link>nolink</link>
 <externallink></externallink>
   <fanart>https://i.imgur.com/zBlww2I.jpg</fanart> 
@@ -156,9 +156,9 @@
 </item>
 
 <item>
-<title>[COLOR blue][B] Matematicas[/B][/COLOR]</title>
+<title>[COLOR blue][B] Matematicas:[/B][/COLOR]</title>
 <link>nolink</link>
-<externallink>https://bit.ly/2MXvVPs</externallink>
+<externallink></externallink>
   <fanart>https://i.imgur.com/BTXNERT.jpg</fanart> 
   <thumbnail>https://i.imgur.com/zWyRS9Y.jpg</thumbnail>
  <info>[COLOR white][B]En esta seccion de Ciencias Naturales Encontraras: Matematicas, Química, Psicología Individual...[/B][/COLOR]</title></info>
@@ -214,7 +214,7 @@
 
 
 <item>
-<title>[COLOR white][B] Quimica[/B][/COLOR]</title>
+<title>[COLOR white][B] Quimica:[/B][/COLOR]</title>
 <link>nolink</link>
 <externallink>https://bit.ly/2ty1Zk0</externallink>
    <fanart>https://i.imgur.com/BTXNERT.jpg</fanart> 
@@ -225,7 +225,7 @@
 
 <title>[COLOR blue][B] Bioquimica[/B][/COLOR]</title>
 <link>nolink</link>
-<externallink>https://bit.ly/2MXvVPs</externallink>
+<externallink></externallink>
   <fanart>https://i.imgur.com/BTXNERT.jpg</fanart> 
   <thumbnail>https://i.imgur.com/zWyRS9Y.jpg</thumbnail>
  <info>[COLOR white][B]En esta seccion de Ciencias Naturales Encontraras: Matematicas, Química, Psicología Individual...[/B][/COLOR]</title></info>
@@ -264,7 +264,7 @@
 
 
 <item>
-<title>[COLOR white][B] Biologia [/B][/COLOR]</title>
+<title>[COLOR white][B] Biologia:[/B][/COLOR]</title>
 <link>nolink</link>
 <externallink>https://bit.ly/2KdIlAO</externallink>
    <fanart>https://i.imgur.com/BTXNERT.jpg</fanart> 
@@ -275,7 +275,7 @@
 <item>
 <title>[COLOR blue][B] Biología Celular o Citología[/B][/COLOR]</title>
 <link>nolink</link>
-<externallink>https://bit.ly/2MXvVPs</externallink>
+<externallink></externallink>
   <fanart>https://i.imgur.com/BTXNERT.jpg</fanart> 
   <thumbnail>https://i.imgur.com/zWyRS9Y.jpg</thumbnail>
  <info>[COLOR white][B]En esta seccion de Ciencias Naturales Encontraras: Matematicas, Química, Psicología Individual...[/B][/COLOR]</title></info>
@@ -312,7 +312,7 @@
 <item>
 <title>[COLOR blue][B] Fisiología[/B][/COLOR]</title>
 <link>nolink</link>
-<externallink>https://bit.ly/2MXvVPs</externallink>
+<externallink></externallink>
   <fanart>https://i.imgur.com/BTXNERT.jpg</fanart> 
   <thumbnail>https://i.imgur.com/zWyRS9Y.jpg</thumbnail>
  <info>[COLOR white][B]En esta seccion de Ciencias Naturales Encontraras: Matematicas, Química, Psicología Individual...[/B][/COLOR]</title></info>
@@ -368,11 +368,18 @@
 
 
 
-
+<item>
+<title>[COLOR white][B] Psicologia:  [/B][/COLOR]</title>
+<link>nolink</link>
+<externallink>https://bit.ly/2toQSdQ</externallink>
+   <fanart>https://i.imgur.com/BTXNERT.jpg</fanart> 
+  <thumbnail>https://i.imgur.com/QwZlI69.jpg</thumbnail>
+ <info>[COLOR white][B]En esta seccion de Ciencias Naturales Encontraras: Matematicas, Química, Psicología Individual...[/B][/COLOR]</title></info>
+</item>
 <item>
 <title>[COLOR white][B] Psicologia Individual  [/B][/COLOR]</title>
 <link>nolink</link>
-<externallink>https://bit.ly/2toQSdQ</externallink>
+<externallink></externallink>
    <fanart>https://i.imgur.com/BTXNERT.jpg</fanart> 
   <thumbnail>https://i.imgur.com/QwZlI69.jpg</thumbnail>
  <info>[COLOR white][B]En esta seccion de Ciencias Naturales Encontraras: Matematicas, Química, Psicología Individual...[/B][/COLOR]</title></info>
@@ -417,7 +424,7 @@
 <item>
 <title>[COLOR blue][B] Neuropsicología[/B][/COLOR]</title>
 <link>nolink</link>
-<externallink>https://bit.ly/2MXvVPs</externallink>
+<externallink></externallink>
   <fanart>https://i.imgur.com/BTXNERT.jpg</fanart> 
   <thumbnail>https://i.imgur.com/zWyRS9Y.jpg</thumbnail>
  <info>[COLOR white][B]En esta seccion de Ciencias Naturales Encontraras: Matematicas, Química, Psicología Individual...[/B][/COLOR]</title></info>
@@ -492,7 +499,7 @@
 
 
 <item>
-<title>[COLOR white][B] Ciencias Biosociales [/B][/COLOR]</title>
+<title>[COLOR white][B] Ciencias Biosociales: [/B][/COLOR]</title>
 <link>nolink</link>
 <externallink>https://bit.ly/2K8Sy4X</externallink>
    <fanart>https://i.imgur.com/BTXNERT.jpg</fanart> 
@@ -542,7 +549,7 @@
 
 
 <item>
-<title>[COLOR white][B] Ciencias Sociales [/B][/COLOR]</title>
+<title>[COLOR white][B] Ciencias Sociales:[/B][/COLOR]</title>
 <link>nolink</link>
 <externallink>https://bit.ly/2Mg36fT</externallink>
    <fanart>https://i.imgur.com/BTXNERT.jpg</fanart> 
@@ -597,7 +604,7 @@
 <item>
 <title>[COLOR blue][B] Sociología del cambio social[/B][/COLOR]</title>
 <link>nolink</link>
-<externallink>https://bit.ly/2MXvVPs</externallink>
+<externallink></externallink>
   <fanart>https://i.imgur.com/BTXNERT.jpg</fanart> 
   <thumbnail>https://i.imgur.com/zWyRS9Y.jpg</thumbnail>
  <info>[COLOR white][B]En esta seccion de Ciencias Naturales Encontraras: Matematicas, Química, Psicología Individual...[/B][/COLOR]</title></info>
@@ -609,15 +616,6 @@
 <externallink></externallink>
    <fanart>https://i.imgur.com/BTXNERT.jpg</fanart> 
   <thumbnail>https://i.imgur.com/FeSit9V.jpg</thumbnail>
- <info>[COLOR white][B]En esta seccion de Ciencias Naturales Encontraras: Matematicas, Química, Psicología Individual...[/B][/COLOR]</title></info>
-</item>
-
-<item>
-<title>[COLOR blue][COLOR white][B] Psicologia:[/B][/COLOR][B] Psicología de la educación y del desarrollo [/B][/COLOR]</title>
-<link>nolink</link>
-<externallink></externallink>
-   <fanart>https://i.imgur.com/BTXNERT.jpg</fanart> 
-  <thumbnail>https://i.imgur.com/QwZlI69.jpg</thumbnail>
  <info>[COLOR white][B]En esta seccion de Ciencias Naturales Encontraras: Matematicas, Química, Psicología Individual...[/B][/COLOR]</title></info>
 </item>
 
@@ -668,7 +666,7 @@
 
 <item><title>[COLOR blue][B] Sociología de la religión:[/B][/COLOR]</title>
 <link>nolink</link>
-<externallink>https://bit.ly/2MXvVPs</externallink>
+<externallink></externallink>
   <fanart>https://i.imgur.com/BTXNERT.jpg</fanart> 
   <thumbnail>https://i.imgur.com/zWyRS9Y.jpg</thumbnail>
  <info>[COLOR white][B]En esta seccion de Ciencias Naturales Encontraras: Matematicas, Química, Psicología Individual...[/B][/COLOR]</title></info>
@@ -704,7 +702,7 @@
 <item>
 <title>[COLOR blue][B] Sociología de las organizaciones[/B][/COLOR]</title>
 <link>nolink</link>
-<externallink>https://bit.ly/2MXvVPs</externallink>
+<externallink></externallink>
   <fanart>https://i.imgur.com/BTXNERT.jpg</fanart> 
   <thumbnail>https://i.imgur.com/zWyRS9Y.jpg</thumbnail>
  <info>[COLOR white][B]En esta seccion de Ciencias Naturales Encontraras: Matematicas, Química, Psicología Individual...[/B][/COLOR]</title></info>
@@ -765,9 +763,9 @@
 </item>
 
 <item>
-<title>[COLOR blue][B] Marketing..[/B][/COLOR]</title>
+<title>[COLOR blue][B] Marketing[/B][/COLOR]</title>
 <link>nolink</link>
-<externallink>https://bit.ly/2MXvVPs</externallink>
+<externallink></externallink>
   <fanart>https://i.imgur.com/BTXNERT.jpg</fanart> 
   <thumbnail>https://i.imgur.com/zWyRS9Y.jpg</thumbnail>
  <info>[COLOR white][B]En esta seccion de Ciencias Naturales Encontraras: Matematicas, Química, Psicología Individual...[/B][/COLOR]</title></info>
@@ -814,7 +812,7 @@
 
 
 <item>
-<title>[COLOR blue][COLOR white][B] Ciencia Sociales:[/B][/COLOR][B] Economia[/B][/COLOR]</title>
+<title>[COLOR white][B] Ciencia Sociales:[/B][/COLOR]</title>
 <link>nolink</link>
 <externallink>https://bit.ly/2In5Ohi</externallink>
    <fanart>https://i.imgur.com/BTXNERT.jpg</fanart> 
@@ -823,7 +821,16 @@
 </item>
 
 <item>
-<title>[COLOR blue][COLOR white][B] Ciencias Economicas:[/B][/COLOR][B] MIcroeconmia[/B][/COLOR]</title>
+<title>[COLOR white][B] Economia:[/B][/COLOR]</title>
+<link>nolink</link>
+<externallink>https://bit.ly/2In5Ohi</externallink>
+   <fanart>https://i.imgur.com/BTXNERT.jpg</fanart> 
+  <thumbnail>https://i.imgur.com/FeSit9V.jpg</thumbnail>
+ <info>[COLOR white][B]En esta seccion de Ciencias Sociales Encontraras: Sociología, Economía, Ciencias Políticas, Historia Material, Historia de las Ideas....[/B][/COLOR]</title></info>
+</item>
+
+<item>
+<title>[COLOR blue][B] MIcroeconmia[/B][/COLOR]</title>
 <link>nolink</link>
 <externallink>https://bit.ly/2MRCy5D</externallink>
   <fanart>https://i.imgur.com/BTXNERT.jpg</fanart> 
@@ -832,7 +839,7 @@
 </item>
 
 <item>
-<title>[COLOR blue][COLOR white][B] Ciencias Economicas:[/B][/COLOR][B] Macroeconomia[/B][/COLOR]</title>
+<title>[COLOR blue][B] Macroeconomia[/B][/COLOR]</title>
 <link>nolink</link>
 <externallink></externallink>
    <fanart>https://i.imgur.com/BTXNERT.jpg</fanart> 
@@ -846,7 +853,7 @@
 
 
 <item>
-<title>[COLOR blue][COLOR white][B] Ciencia Sociales:[/B][/COLOR][B] Politica[/B][/COLOR]</title>
+<title>[COLOR white][B] Politica:[/B][/COLOR]</title>
 <link>nolink</link>
 <externallink>https://bit.ly/2K6O6Ey</externallink>
    <fanart>https://i.imgur.com/BTXNERT.jpg</fanart> 
@@ -855,7 +862,7 @@
 </item>
 
 <item>
-<title>[COLOR blue][COLOR white][B] Ciencias Politicas:[/B][/COLOR][B] Politica Internacional[/B][/COLOR]</title>
+<title>[COLOR blue][B] Politica Internacional[/B][/COLOR]</title>
 <link>nolink</link>
 <externallink>https://bit.ly/2MXvVPs</externallink>
   <fanart>https://i.imgur.com/BTXNERT.jpg</fanart> 
@@ -864,7 +871,7 @@
 </item>
 
 <item>
-<title>[COLOR blue][COLOR white][B] Ciencias Politicas:[/B][/COLOR][B] Politica Comparada[/B][/COLOR]</title>
+<title>[COLOR blue][B] Politica Comparada[/B][/COLOR]</title>
 <link>nolink</link>
 <externallink></externallink>
    <fanart>https://i.imgur.com/BTXNERT.jpg</fanart> 
@@ -873,7 +880,7 @@
 </item>
 
 <item>
-<title>[COLOR blue][COLOR white][B] Ciencias Politicas:[/B][/COLOR][B] Teoria de la Politica[/B][/COLOR]</title>
+<title>[COLOR blue][B] Teoria de la Politica[/B][/COLOR]</title>
 <link>nolink</link>
 <externallink></externallink>
    <fanart>https://i.imgur.com/BTXNERT.jpg</fanart> 
@@ -882,7 +889,7 @@
 </item>
 
 <item>
-<title>[COLOR blue][COLOR white][B] Ciencias Politicas:[/B][/COLOR][B] Administraciones Publicas [/B][/COLOR]</title>
+<title>[COLOR blue][B] Administraciones Publicas [/B][/COLOR]</title>
 <link>nolink</link>
 <externallink></externallink>
    <fanart>https://i.imgur.com/BTXNERT.jpg</fanart> 
@@ -891,7 +898,7 @@
 </item>
 
 <item>
-<title>[COLOR blue][COLOR white][B] Ciencias Politicas:[/B][/COLOR][B] Economia Politica [/B][/COLOR]</title>
+<title>[COLOR blue][B] Economia Politica [/B][/COLOR]</title>
 <link>nolink</link>
 <externallink></externallink>
    <fanart>https://i.imgur.com/BTXNERT.jpg</fanart> 
@@ -900,7 +907,7 @@
 </item>
 
 <item>
-<title>[COLOR blue][COLOR white][B] Ciencias Politicas:[/B][/COLOR][B] Sociologia Politica [/B][/COLOR]</title>
+<title>[COLOR blue][B] Sociologia Politica [/B][/COLOR]</title>
 <link>nolink</link>
 <externallink></externallink>
    <fanart>https://i.imgur.com/BTXNERT.jpg</fanart> 
@@ -918,7 +925,7 @@
 
 
 <item>
-<title>[COLOR blue][COLOR white][B] Ciencia Sociales:[/B][/COLOR][B] Historia Material [/B][/COLOR]</title>
+<title>[COLOR blue][B] Historia Material [/B][/COLOR]</title>
 <link>nolink</link>
 <externallink></externallink>
    <fanart>https://i.imgur.com/BTXNERT.jpg</fanart> 
@@ -927,7 +934,7 @@
 </item>
 
 <item>
-<title>[COLOR blue][COLOR white][B] Ciencia Sociales:[/B][/COLOR][B] Historia de las Ideas [/B][/COLOR]</title>
+<title>[COLOR blue][B] Historia de las Ideas [/B][/COLOR]</title>
 <link>nolink</link>
 <externallink></externallink>
    <fanart>https://i.imgur.com/BTXNERT.jpg</fanart> 
