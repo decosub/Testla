@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+
+<item>
+<title>[COLOR white][COLOR yellow][B] Indican Nuevo Contenido Disponible [/B][/COLOR][B](*)[/B][/COLOR]</title>
+<link>ignore</link>
+<thumbnail>https://i.imgur.com/IweM51g.jpg</thumbnail>
+<fanart>https://i.imgur.com/IweM51g.jpg</fanart>
+<info>[COLOR lime][B] Los (*) Blancos, indican nuevo contenido disponible o actualizacion de la seccion. [/B][/COLOR]</title></info>
+</item>
+
+
+<item>
+<title>[COLOR lime][COLOR yellow][B] Canal On-line:[/B][/COLOR][B] Secrets of The Universe Live Stream Spark (Subtitulado) [/B][/COLOR]</title>
+<urlsolve>https://www.youtube.com/watch?v=jyzIv_uLiXs</urlsolve>
+<thumbnail>https://i.imgur.com/xZKMxH6.jpg</thumbnail>
+<fanart>https://i.imgur.com/cMYzVG4.jpg</fanart>
+ <info>[COLOR lime][B]canal de youtube en streaming (Subtitulado)[/B][/COLOR]</title></info>
+</item>
+
+<item>
+<title>[COLOR lime][COLOR yellow][B] Canal On-line:[/B][/COLOR][B] NASA TV Public-Education (Subtitulado)[/B][/COLOR]</title>
+<urlsolve>https://www.youtube.com/watch?v=wwMDvPCGeE0</urlsolve>
+<thumbnail>https://i.imgur.com/XTmEuwI.jpg</thumbnail>
+<fanart>https://i.imgur.com/cMYzVG4.jpg</fanart>
+ <info>[COLOR lime][B]canal de youtube en streaming (Subtitulado)[/B][/COLOR]</title></info>
+</item>
+
+<item>
+<title>[COLOR lime][COLOR yellow][B] Canal On-line:[/B][/COLOR][B] NASA TV Media (Subtitulado)[/B][/COLOR]</title>
+<urlsolve>https://www.youtube.com/watch?v=P11y8N22Rq0</urlsolve>
+<thumbnail>https://i.imgur.com/KbIBtOk.jpg</thumbnail>
+<fanart>https://i.imgur.com/cMYzVG4.jpg</fanart>
+ <info>[COLOR lime][B]canal de youtube en streaming (Subtitulado)[/B][/COLOR]</title></info>
+</item>
+
+<item>
+<title>[COLOR lime][COLOR yellow][B] Canal On-line:[/B][/COLOR][B] Earth from space : Time Lapse Collection - Images from astronauts on the ISS[/B][/COLOR]</title>
+<urlsolve>https://www.youtube.com/watch?v=qyEzsAy4qeU</urlsolve>
+<thumbnail>https://i.imgur.com/c9jFzrS.jpg</thumbnail>
+<fanart>https://i.imgur.com/cMYzVG4.jpg</fanart>
+ <info>[COLOR lime][B]canal de youtube en streaming (Imagenes de los astronautas, Time Lapse Collection...[/B][/COLOR]</title></info>
+</item>
+
+<item>
+<title>[COLOR lime][COLOR yellow][B] Canales Especializados de YouTube[/B] [/COLOR]</title>
+<link>nolink</link>
+<thumbnail>https://i.imgur.com/tG8cbhc.jpg</thumbnail>
+<fanart>https://i.imgur.com/WEcRqsp.jpg</fanart>
+ <info>[COLOR lime][B]Canales Especializados de YouTube donde encontraras las ultimas noticias y contenido exclusivo...[/B][/COLOR]</title></info>
+</item>
+
+<item>
+<title>[COLOR lime][COLOR yellow][B] Canal YouTube:[/B][/COLOR][B] Mundo desconocidos [/B][/COLOR]</title>
+<link>ignore</link>
+<jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=mundos+desconocidos&sp=UUnOAynBmYKA1neozHQNF0mA&search_type=playlist</jsonrpc>
+<thumbnail>https://i.imgur.com/tG8cbhc.jpg</thumbnail>
+<fanart>https://i.imgur.com/WEcRqsp.jpg</fanart>
+ <info>[COLOR lime][B]Canales Especializados de YouTube[/B][/COLOR]</title></info>
+</item
+
+<item>
+<title>[COLOR lime][COLOR yellow][B] Canal YouTube:[/B][/COLOR][B] Vicente fuentes[/B][/COLOR]</title>
+<link>ignore</link>
+<jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=vicente+fuentes&sp=UUWI70VlhoBiCvhmDMQle9UAmA&search_type=playlist</jsonrpc>
+<thumbnail>https://i.imgur.com/tG8cbhc.jpg</thumbnail>
+<fanart>https://i.imgur.com/WEcRqsp.jpg</fanart>
+ <info>[COLOR lime][B]Canales Especializados de YouTube donde encontraras las ultimas noticias y contenido exclusivo...[/B][/COLOR]</title></info>
+</item
+
+<item>
+<title>[COLOR lime][COLOR yellow][B] Canal YouTube:[/B][/COLOR][B] UFOvnis[/B][/COLOR]</title>
+<link>ignore</link>
+<jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=UFOvnis&sp=UUbWqoBboiayXdrAF07SJB7A&search_type=playlist</jsonrpc>
+<thumbnail>https://i.imgur.com/tG8cbhc.jpg</thumbnail>
+<fanart>https://i.imgur.com/WEcRqsp.jpg</fanart>
+ <info>[COLOR lime][B]Canales Especializados de YouTube donde encontraras las ultimas noticias y contenido exclusivo...[/B][/COLOR]</title></info>
+</item
+
+<item>
+<title>[COLOR lime][COLOR yellow][B] Canal YouTube:[/B][/COLOR][B] Verdad Oculta [/B][/COLOR]</title>
+<link>ignore</link>
+<jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=Verdad+oculta&list=UUALE1jdtTAmgzyyH4FMU5pQ</jsonrpc>
+<thumbnail>https://i.imgur.com/tG8cbhc.jpg</thumbnail>
+<fanart>https://i.imgur.com/WEcRqsp.jpg</fanart>
+ <info>[COLOR lime][B]Canales Especializados de YouTube donde encontraras las ultimas noticias y contenido exclusivo...[/B][/COLOR]</title></info>
+</item
+
+<item>
+<title>[COLOR lime][COLOR yellow][B] Canal YouTube:[/B][/COLOR][B] Atraviesa lo Desconocido [/B][/COLOR]</title>
+<link>ignore</link>https://www.youtube.com
+<jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=atraviesa+lo+desconocido&list=UUnpy6aaJeb29DZJ8bsCgRiQ</jsonrpc>
+<thumbnail>https://i.imgur.com/tG8cbhc.jpg</thumbnail>
+<fanart>https://i.imgur.com/WEcRqsp.jpg</fanart>
+ <info>[COLOR lime][B]Canales Especializados de YouTube donde encontraras las ultimas noticias y contenido exclusivo...[/B][/COLOR]</title></info>
+</item
+
+<item>
+<title>[COLOR lime][COLOR yellow][B] Canal YouTube:[/B][/COLOR][B] JJ.Benitez[/B][/COLOR]</title>
+<link>ignore</link>
+<jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=jj.benitez+ovnis+y+extraterrestres&sp=CAISBBgCIAFCBAgBEgA%253D</jsonrpc>
+<thumbnail>https://i.imgur.com/tG8cbhc.jpg</thumbnail>
+<fanart>https://i.imgur.com/WEcRqsp.jpg</fanart>
+ <info>[COLOR lime][B]Canales Especializados de YouTube donde encontraras las ultimas noticias y contenido exclusivo...[/B][/COLOR]</title></info>
+</item>
+
+<item>
+<title>[COLOR lime][COLOR yellow][B] Canal YouTube:[/B][/COLOR][B] Erick Von Däniken[/B][/COLOR]</title>
+<link>ignore</link>
+<jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=eric+von+däniken&sp=EgIYAkIECAESAA%253D%253D</jsonrpc>
+<thumbnail>https://i.imgur.com/tG8cbhc.jpg</thumbnail>
+<fanart>https://i.imgur.com/WEcRqsp.jpg</fanart>
+ <info>[COLOR lime][B]Canales Especializados de YouTube donde encontraras las ultimas noticias y contenido exclusivo...[/B][/COLOR]</title></info>
+</item>
+
+<item><title>[COLOR blue][B] Volver al Menu Principal...[/B][/COLOR]</title>
+<link>ignore</link>
+<externallink>https://bit.ly/2lqcXV2</externallink>
+<thumbnail>https://i.imgur.com/TK6sjvQ.jpg</thumbnail>
+<fanart>https://i.imgur.com/3blAZfv.jpg</fanart> 
+<info>[COLOR white][B]Volver al Menu Principal...[/B][/COLOR]</title></info>
+</item>
