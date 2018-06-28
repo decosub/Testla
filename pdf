@@ -1,0 +1,28 @@
+
+
+
+<item>
+<title>[COLOR lime][COLOR yellow][B] prueba [/B][/COLOR][B] dropbox[/B][/COLOR]</title>
+<urlsolve>http://lectorvirtual.com/wp-content/uploads/2016/08/Nuestra_se%C3%B1ora_de_Paris_esp.pdf</urlsolve>
+<thumbnail>https://i.imgur.com/c9jFzrS.jpg</thumbnail>
+<fanart>https://i.imgur.com/cMYzVG4.jpg</fanart>
+ <info>[COLOR lime][B]canal de youtube en streaming (Imagenes de los astronautas, Time Lapse Collection...[/B][/COLOR]</title></info>
+</item>
+
+<item>
+<title>[COLOR lime][COLOR yellow][B] prueba 2[/B][/COLOR][B] enlace on line[/B][/COLOR]</title>
+<link>http://lectorvirtual.com/wp-content/uploads/2016/08/Nuestra_se%C3%B1ora_de_Paris_esp.pdf</link>
+<externallink>http://lectorvirtual.com/wp-content/uploads/2016/08/Nuestra_se%C3%B1ora_de_Paris_esp.pdf</externallink>
+<thumbnail>https://i.imgur.com/tG8cbhc.jpg</thumbnail>
+<fanart>https://i.imgur.com/WEcRqsp.jpg</fanart>
+ <info>[COLOR lime][B]Canales Especializados de YouTube donde encontraras las ultimas noticias y contenido exclusivo...[/B][/COLOR]</title></info>
+</item
+
+<item>
+<title>[COLOR lime][COLOR yellow][B] Canal YouTube:[/B][/COLOR][B] llamada a pdf reader[/B][/COLOR]</title>
+<link>ignore</link>
+<jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=vicente+fuentes&sp=UUWI70VlhoBiCvhmDMQle9UAmA&search_type=playlist</jsonrpc>
+<thumbnail>https://i.imgur.com/tG8cbhc.jpg</thumbnail>
+<fanart>https://i.imgur.com/WEcRqsp.jpg</fanart>
+ <info>[COLOR lime][B]Canales Especializados de YouTube donde encontraras las ultimas noticias y contenido exclusivo...[/B][/COLOR]</title></info>
+</item
