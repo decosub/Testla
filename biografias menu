@@ -1,12 +1,13 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 
 <item>
-<title>[COLOR yellow][B] biografias [/B][/COLOR]</title>
-<link>ignore</link>
-<jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=ciencia%20y%20tecnologia&search_type=playlist</jsonrpc>
-<thumbnail>https://4.bp.blogspot.com/-lk5Yi68CocA/WDvDIx4hQeI/AAAAAAAAeJk/xhaCwNItuKU-kZjO8pf30hYJlqnWcMkMQCLcB/s1600/Tecnologia%2BRobotica.png</thumbnail>
-<fanart>http://1.bp.blogspot.com/-Y7IIGOMzpqY/UEEp-SKfs2I/AAAAAAAACkg/1lP8pmMMT2I/s1600/alejandria_biblioteca.jpg</fanart>
-</item>
+<title>[COLOR blue][COLOR white][B] prueba:[/B][/COLOR][B] pdf [/B][/COLOR]</title>
+<link>nolink</link>
+<externallink>https://raw.githubusercontent.com/decosub/Testla/master/pdf</externallink>
+  <fanart>https://i.imgur.com/zBlww2I.jpg</fanart> 
+  <thumbnail>https://i.imgur.com/0RkCCVm.jpg</thumbnail>
+ <info>[COLOR white][B]En esta seccion de fisica Encontraras: Fisica Clasica, Fisica Cuantica...[/B][/COLOR]</title></info>
+</item
 
 ç<item>
 <title>[COLOR yellow][B] biografias [/B][/COLOR]</title>
