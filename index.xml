@@ -77,9 +77,9 @@
 
 
 <item>
-<title>[COLOR blue][COLOR white][B] Tesla:[/B][/COLOR][B] Ultimas Noticias Cientificas.. [/B][/COLOR]</title>
+<title>[COLOR blue][COLOR white][B] Tesla:[/B][/COLOR][B] Ultimas Noticias Cientificas... [/B][/COLOR]</title>
 <link>ignore</link>
-<jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=w7H4ok_XwbI&list&sp=UU52hytXteCKmuOzMViTK8_w&search_type=playlist</jsonrpc>
+<jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=ultimas%20noticias%20cientificas&search_type=playlist</jsonrpc>
 <thumbnail>https://i.imgur.com/nV9drDW.jpg</thumbnail>
    <fanart>https://i.imgur.com/zBlww2I.jpg</fanart> 
   <info>[COLOR white][B]Ultimas Noticias: Que esta pasando? En este preciso instante en algun lugar de nuestro planeta seguro hay alguna noticia nueva de nuestro interes. A que esperas para estar al dia.[/B][/COLOR]</title></info>
