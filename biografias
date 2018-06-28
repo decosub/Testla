@@ -2,8 +2,8 @@
 <title>[COLOR yellow][B]  Documentales: Biografías de Personajes Históricos  [/B][/COLOR]</title>
 <link>ignore</link>
 <jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=biografias%20de%20personajes%20historicos&search_type=playlist</jsonrpc>
-<thumbnail>http://static.pandemicquiz.com/media/cache/psyche_fbshare/uploads/images/c58a8d5d27dfa4c5c66d1b887d51edb5d68011d1.jpeg</thumbnail>
-<fanart>http://1.bp.blogspot.com/-Y7IIGOMzpqY/UEEp-SKfs2I/AAAAAAAACkg/1lP8pmMMT2I/s1600/alejandria_biblioteca.jpg</fanart>
+<thumbnail>https://i.imgur.com/C4YeJQH.jpg</thumbnail>
+<fanart>https://i.imgur.com/UZDgTaz.jpg</fanart>
 </item>
 
 
@@ -11,8 +11,8 @@
 <item>
 <title>[COLOR yellow][B]  Documentales: Mujeres que Cambiaron la Historia  [/B][/COLOR]</title>
 <link>ignore</link>
-<jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=Mujeres%20que%20cambiaron%20Historia&search_type=playlist</jsonrpc>
-<thumbnail>https://i.pinimg.com/originals/3a/75/1e/3a751e79254eba9efac90791889bec5e.jpg</thumbnail>
+<thumbnail>https://i.imgur.com/C4YeJQH.jpg</thumbnail>
+<fanart>https://i.imgur.com/UZDgTaz.jpg</fanart>
 <fanart>http://1.bp.blogspot.com/-Y7IIGOMzpqY/UEEp-SKfs2I/AAAAAAAACkg/1lP8pmMMT2I/s1600/alejandria_biblioteca.jpg</fanart>
 </item>
 
@@ -21,8 +21,8 @@
 <title>[COLOR yellow][B]  Documentales: Mentes Brillantes  [/B][/COLOR]</title>
 <link>ignore</link>
 <jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=documentales+de+mentes+brillantes&search_type=playlist</jsonrpc>
-<thumbnail>https://pbs.twimg.com/profile_images/879311608782233600/79TNf_Kb_400x400.jpg</thumbnail>
-<fanart>http://1.bp.blogspot.com/-Y7IIGOMzpqY/UEEp-SKfs2I/AAAAAAAACkg/1lP8pmMMT2I/s1600/alejandria_biblioteca.jpg</fanart>
+<thumbnail>https://i.imgur.com/C4YeJQH.jpg</thumbnail>
+<fanart>https://i.imgur.com/UZDgTaz.jpg</fanart>
 </item>
 
 <item><title>[COLOR blue][B] Volver al Menu Principal...[/B][/COLOR]</title>
