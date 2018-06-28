@@ -10,7 +10,7 @@
 </item
 
 <item>
-<title>[COLOR blue][COLOR white][B] Biografias:[/COLOR] Albert Einstein (1879 – 1955) [/B][/COLOR]</title>
+<title>[COLOR blue][COLOR white][B] Biografia:[/COLOR] Albert Einstein (1879 – 1955) [/B][/COLOR]</title>
 <link>ignore</link>
 <jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=biografia%20albert%20Einstein&search_type=playlist</jsonrpc>
 <thumbnail>https://i.imgur.com/C4YeJQH.jpg</thumbnail>
@@ -40,7 +40,7 @@ hawkigns[/B][/COLOR]</title>
 <item>
 <title>[COLOR blue][COLOR white][B] Biografia:[/COLOR] Marie Curie (1867 – 1934) [/B][/COLOR]</title>
 <link>ignore</link>
-<jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=biografia%20y%20tecnologia&search_type=playlist</jsonrpc>
+<jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=biografia%20marie%20curie&search_type=playlist</jsonrpc>
 <thumbnail>https://i.imgur.com/C4YeJQH.jpg</thumbnail>
 <fanart>https://i.imgur.com/UZDgTaz.jpg</fanart>
  <info>[COLOR white][B]Biografia de los cientificos mas destacados de todos los tiempos.[/B][/COLOR]</title></info>
@@ -49,7 +49,7 @@ hawkigns[/B][/COLOR]</title>
 <item>
 <title>[COLOR blue][COLOR white][B] Biografia:[/COLOR] Galileo Galilei (1564 – 1642) [/B][/COLOR]</title>
 <link>ignore</link>
-<jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=biografia%20y%20tecnologia&search_type=playlist</jsonrpc>
+<jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=biografia%20galileo%20galilei&search_type=playlist</jsonrpc>
 <thumbnail>https://i.imgur.com/C4YeJQH.jpg</thumbnail>
 <fanart>https://i.imgur.com/UZDgTaz.jpg</fanart>
  <info>[COLOR white][B]Biografia de los cientificos mas destacados de todos los tiempos.[/B][/COLOR]</title></info>
@@ -57,7 +57,7 @@ hawkigns[/B][/COLOR]</title>
 
 <item>
 <title>[COLOR blue][COLOR white][B] Biografia:[/COLOR] Blaise Pascal (1623 – 1662)[/B][/COLOR]</title>
-<jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=biografia%20y%20tecnologia&search_type=playlist</jsonrpc>
+<jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=biografia%20blaise%20pascal&search_type=playlist</jsonrpc>
 <thumbnail>https://i.imgur.com/C4YeJQH.jpg</thumbnail>
 <fanart>https://i.imgur.com/UZDgTaz.jpg</fanart>
  <info>[COLOR white][B]Biografia de los cientificos mas destacados de todos los tiempos.[/B][/COLOR]</title></info>
@@ -66,7 +66,7 @@ hawkigns[/B][/COLOR]</title>
 <item>
 <title>[COLOR blue][COLOR white][B] Biografia:[/COLOR] Charles Darwin (1809 – 1882)[/B][/COLOR]</title>
 <link>ignore</link>
-<jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=biografia%20y%20tecnologia&search_type=playlist</jsonrpc>
+<jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=biografia%20charles%20darwin&search_type=playlist</jsonrpc>
 <thumbnail>https://i.imgur.com/C4YeJQH.jpg</thumbnail>
 <fanart>https://i.imgur.com/UZDgTaz.jpg</fanart>
  <info>[COLOR white][B]Biografia de los cientificos mas destacados de todos los tiempos.[/B][/COLOR]</title></info>
@@ -75,7 +75,7 @@ hawkigns[/B][/COLOR]</title>
 <item>
 <title>[COLOR blue][COLOR white][B] Biografia:[/COLOR] Nicolás Copérnico (1473 – 1543)[/B][/COLOR]</title>
 <link>ignore</link>
-<jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=biografia%20y%20tecnologia&search_type=playlist</jsonrpc>
+<jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=biografia%20nicolas%20copernico&search_type=playlist</jsonrpc>
 <thumbnail>https://i.imgur.com/C4YeJQH.jpg</thumbnail>
 <fanart>https://i.imgur.com/UZDgTaz.jpg</fanart>
  <info>[COLOR white][B]Biografia de los cientificos mas destacados de todos los tiempos.[/B][/COLOR]</title></info>
@@ -84,7 +84,7 @@ hawkigns[/B][/COLOR]</title>
 <item>
 <title>[COLOR blue][COLOR white][B] Biografia:[/COLOR] Benjamin Franklin (1706 – 1790) [/B][/COLOR]</title>
 <link>ignore</link>
-<jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=biografia%20y%20tecnologia&search_type=playlist</jsonrpc>
+<jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=biografia%20benjamin%20franklin&search_type=playlist</jsonrpc>
 <thumbnail>https://i.imgur.com/C4YeJQH.jpg</thumbnail>
 <fanart>https://i.imgur.com/UZDgTaz.jpg</fanart>
  <info>[COLOR white][B]Biografia de los cientificos mas destacados de todos los tiempos.[/B][/COLOR]</title></info>
@@ -92,7 +92,7 @@ hawkigns[/B][/COLOR]</title>
 
 <item>
 <title>[COLOR blue][COLOR white][B] Biografia:[/COLOR] Alexander Fleming (1881 – 1955)[/B][/COLOR]</title>
-<jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=biografia%20y%20tecnologia&search_type=playlist</jsonrpc>
+<jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=biografia%20alexander%20fleming&search_type=playlist</jsonrpc>
 <thumbnail>https://i.imgur.com/C4YeJQH.jpg</thumbnail>
 <fanart>https://i.imgur.com/UZDgTaz.jpg</fanart>
  <info>[COLOR white][B]Biografia de los cientificos mas destacados de todos los tiempos.[/B][/COLOR]</title></info>
@@ -101,7 +101,7 @@ hawkigns[/B][/COLOR]</title>
 <item>
 <title>[COLOR blue][COLOR white][B] Biografia:[/COLOR] Johannes Kepler (1571 – 1630)[/B][/COLOR]</title>
 <link>ignore</link>
-<jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=biografia%20y%20tecnologia&search_type=playlist</jsonrpc>
+<jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=biografia%20johannes%20kepler&search_type=playlist</jsonrpc>
 <thumbnail>https://i.imgur.com/C4YeJQH.jpg</thumbnail>
 <fanart>https://i.imgur.com/UZDgTaz.jpg</fanart>
  <info>[COLOR white][B]Biografia de los cientificos mas destacados de todos los tiempos.[/B][/COLOR]</title></info>
@@ -110,7 +110,7 @@ hawkigns[/B][/COLOR]</title>
 <item>
 <title>[COLOR blue][COLOR white][B] Biografia:[/COLOR] Louis Pasteur (1822 – 1895) [/B][/COLOR]</title>
 <link>ignore</link>
-<jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=biografia%20y%20tecnologia&search_type=playlist</jsonrpc>
+<jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=biografia%20louis%20pasteur&search_type=playlist</jsonrpc>
 <thumbnail>https://i.imgur.com/C4YeJQH.jpg</thumbnail>
 <fanart>https://i.imgur.com/UZDgTaz.jpg</fanart>
  <info>[COLOR white][B]Biografia de los cientificos mas destacados de todos los tiempos.[/B][/COLOR]</title></info>
@@ -118,7 +118,7 @@ hawkigns[/B][/COLOR]</title>
 
 <item>
 <title>[COLOR blue][COLOR white][B] Biografia:[/COLOR] Gregor Mendel (1822 – 1884)[/B][/COLOR]</title>
-<jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=biografia%20y%20tecnologia&search_type=playlist</jsonrpc>
+<jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=biografia%20gregor%20mendel&search_type=playlist</jsonrpc>
 <thumbnail>https://i.imgur.com/C4YeJQH.jpg</thumbnail>
 <fanart>https://i.imgur.com/UZDgTaz.jpg</fanart>
  <info>[COLOR white][B]Biografia de los cientificos mas destacados de todos los tiempos.[/B][/COLOR]</title></info>
@@ -127,7 +127,7 @@ hawkigns[/B][/COLOR]</title>
 <item>
 <title>[COLOR blue][COLOR white][B] Biografia:[/COLOR] Michael Faraday (1791 – 1867) [/B][/COLOR]</title>
 <link>ignore</link>
-<jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=biografia%20y%20tecnologia&search_type=playlist</jsonrpc>
+<jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=biografia%20michael%20faraday&search_type=playlist</jsonrpc>
 <thumbnail>https://i.imgur.com/C4YeJQH.jpg</thumbnail>
 <fanart>https://i.imgur.com/UZDgTaz.jpg</fanart>
  <info>[COLOR white][B]Biografia de los cientificos mas destacados de todos los tiempos.[/B][/COLOR]</title></info>
@@ -135,7 +135,7 @@ hawkigns[/B][/COLOR]</title>
 
 <item>
 <title>[COLOR blue][COLOR white][B] Biografia:[/COLOR] Max Planck (1858 – 1947)[/B][/COLOR]</title>
-<jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=biografia%20y%20tecnologia&search_type=playlist</jsonrpc>
+<jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=biografia%20max%20planck&search_type=playlist</jsonrpc>
 <thumbnail>https://i.imgur.com/C4YeJQH.jpg</thumbnail>
 <fanart>https://i.imgur.com/UZDgTaz.jpg</fanart>
  <info>[COLOR white][B]Biografia de los cientificos mas destacados de todos los tiempos.[/B][/COLOR]</title></info>
@@ -144,7 +144,7 @@ hawkigns[/B][/COLOR]</title>
 <item>
 <title>[COLOR blue][COLOR white][B] Biografia:[/COLOR] Thomas Alva Edison (1847 – 1931)[/B][/COLOR]</title>
 <link>ignore</link>
-<jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=biografia%20y%20tecnologia&search_type=playlist</jsonrpc>
+<jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=biografia%2tomas%20alva%20edison&search_type=playlist</jsonrpc>
 <thumbnail>https://i.imgur.com/C4YeJQH.jpg</thumbnail>
 <fanart>https://i.imgur.com/UZDgTaz.jpg</fanart>
  <info>[COLOR white][B]Biografia de los cientificos mas destacados de todos los tiempos.[/B][/COLOR]</title></info>
@@ -153,7 +153,7 @@ hawkigns[/B][/COLOR]</title>
 <item>
 <title>[COLOR blue][COLOR white][B] Biografia:[/COLOR] Leonardo da Vinci (1452 – 1519) [/B][/COLOR]</title>
 <link>ignore</link>
-<jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=biografia%20y%20tecnologia&search_type=playlist</jsonrpc>
+<jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=biografia%20leonardo%20da%vinci&search_type=playlist</jsonrpc>
 <thumbnail>https://i.imgur.com/C4YeJQH.jpg</thumbnail>
 <fanart>https://i.imgur.com/UZDgTaz.jpg</fanart>
  <info>[COLOR white][B]Biografia de los cientificos mas destacados de todos los tiempos.[/B][/COLOR]</title></info>
@@ -161,7 +161,7 @@ hawkigns[/B][/COLOR]</title>
 
 <item>
 <title>[COLOR blue][COLOR white][B] Biografia:[/COLOR] Louis Gay-Lussac (1778 – 1850)[/B][/COLOR]</title>
-<jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=biografia%20y%20tecnologia&search_type=playlist</jsonrpc>
+<jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=biografia%20louis%20gay%20lussac&search_type=playlist</jsonrpc>
 <thumbnail>https://i.imgur.com/C4YeJQH.jpg</thumbnail>
 <fanart>https://i.imgur.com/UZDgTaz.jpg</fanart>
  <info>[COLOR white][B]Biografia de los cientificos mas destacados de todos los tiempos.[/B][/COLOR]</title></info>
@@ -173,7 +173,7 @@ hawkigns[/B][/COLOR]</title>
 <item>
 <title>[COLOR blue][COLOR white][B] Biografia:[/COLOR] Nikola Tesla (1856 – 1943) [/B][/COLOR]</title>
 <link>ignore</link>
-<jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=biografia%20y%20tecnologia&search_type=playlist</jsonrpc>
+<jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=biografia%20nikola%20tesla&search_type=playlist</jsonrpc>
 <thumbnail>https://i.imgur.com/C4YeJQH.jpg</thumbnail>
 <fanart>https://i.imgur.com/UZDgTaz.jpg</fanart>
  <info>[COLOR white][B]Biografia de los cientificos mas destacados de todos los tiempos.[/B][/COLOR]</title></info>
@@ -181,7 +181,7 @@ hawkigns[/B][/COLOR]</title>
 
 <item>
 <title>[COLOR blue][COLOR white][B] Biografia:[/COLOR] Rudolf Hertz (1857 – 1894)[/B][/COLOR]</title>
-<jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=biografia%20y%20tecnologia&search_type=playlist</jsonrpc>
+<jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=biografia%20rudolf%20hertz&search_type=playlist</jsonrpc>
 <thumbnail>https://i.imgur.com/C4YeJQH.jpg</thumbnail>
 <fanart>https://i.imgur.com/UZDgTaz.jpg</fanart>
  <info>[COLOR white][B]Biografia de los cientificos mas destacados de todos los tiempos.[/B][/COLOR]</title></info>
@@ -190,7 +190,7 @@ hawkigns[/B][/COLOR]</title>
 <item>
 <title>[COLOR blue][COLOR white][B] Biografia:[/COLOR] Ibn al-Haytham (964 – 1040)[/B][/COLOR]</title>
 <link>ignore</link>
-<jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=biografia%20y%20tecnologia&search_type=playlist</jsonrpc>
+<jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=biografia%20ibn%20al%20haytham&search_type=playlist</jsonrpc>
 <thumbnail>https://i.imgur.com/C4YeJQH.jpg</thumbnail>
 <fanart>https://i.imgur.com/UZDgTaz.jpg</fanart>
  <info>[COLOR white][B]Biografia de los cientificos mas destacados de todos los tiempos.[/B][/COLOR]</title></info>
@@ -199,7 +199,7 @@ hawkigns[/B][/COLOR]</title>
 <item>
 <title>[COLOR blue][COLOR white][B] Biografia:[/COLOR] Robert Hooke (1635 – 1703) [/B][/COLOR]</title>
 <link>ignore</link>
-<jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=biografia%20y%20tecnologia&search_type=playlist</jsonrpc>
+<jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=biografia%20robert%20hooke&search_type=playlist</jsonrpc>
 <thumbnail>https://i.imgur.com/C4YeJQH.jpg</thumbnail>
 <fanart>https://i.imgur.com/UZDgTaz.jpg</fanart>
  <info>[COLOR white][B]Biografia de los cientificos mas destacados de todos los tiempos.[/B][/COLOR]</title></info>
@@ -207,7 +207,7 @@ hawkigns[/B][/COLOR]</title>
 
 <item>
 <title>[COLOR blue][COLOR white][B] Biografia:[/COLOR] Santiago Ramón y Cajal (1852 – 1934)[/B][/COLOR]</title>
-<jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=biografia%20y%20tecnologia&search_type=playlist</jsonrpc>
+<jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=biografia%20santiago%20ramon%20y%20cajal&search_type=playlist</jsonrpc>
 <thumbnail>https://i.imgur.com/C4YeJQH.jpg</thumbnail>
 <fanart>https://i.imgur.com/UZDgTaz.jpg</fanart>
  <info>[COLOR white][B]Biografia de los cientificos mas destacados de todos los tiempos.[/B][/COLOR]</title></info>
@@ -215,7 +215,7 @@ hawkigns[/B][/COLOR]</title>
 
 <item>
 <title>[COLOR blue][COLOR white][B] Biografia:[/COLOR] Aristóteles (384 a.C.-322 a.C.)[/B][/COLOR]</title>
-<jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=biografia%20y%20tecnologia&search_type=playlist</jsonrpc>
+<jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=biografia%20aristoteles&search_type=playlist</jsonrpc>
 <thumbnail>https://i.imgur.com/C4YeJQH.jpg</thumbnail>
 <fanart>https://i.imgur.com/UZDgTaz.jpg</fanart>
  <info>[COLOR white][B]Biografia de los cientificos mas destacados de todos los tiempos.[/B][/COLOR]</title></info>
@@ -223,7 +223,7 @@ hawkigns[/B][/COLOR]</title>
 
 <item>
 <title>[COLOR blue][COLOR white][B] Biografia:[/COLOR] Pierre Simon Laplace (1749 – 1827)[/B][/COLOR]</title>
-<jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=biografia%20y%20tecnologia&search_type=playlist</jsonrpc>
+<jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=biografia%20pierre%20simon%20laplace&search_type=playlist</jsonrpc>
 <thumbnail>https://i.imgur.com/C4YeJQH.jpg</thumbnail>
 <fanart>https://i.imgur.com/UZDgTaz.jpg</fanart>
  <info>[COLOR white][B]Biografia de los cientificos mas destacados de todos los tiempos.[/B][/COLOR]</title></info>
@@ -232,7 +232,7 @@ hawkigns[/B][/COLOR]</title>
 <item>
 <title>[COLOR blue][COLOR white][B] Biografia:[/COLOR] Miguel Servet (1509 – 1553)[/B][/COLOR]</title>
 <link>ignore</link>
-<jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=biografia%20y%20tecnologia&search_type=playlist</jsonrpc>
+<jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=biografia%20miguel%20servet&search_type=playlist</jsonrpc>
 <thumbnail>https://i.imgur.com/C4YeJQH.jpg</thumbnail>
 <fanart>https://i.imgur.com/UZDgTaz.jpg</fanart>
  <info>[COLOR white][B]Biografia de los cientificos mas destacados de todos los tiempos.[/B][/COLOR]</title></info>
@@ -241,7 +241,7 @@ hawkigns[/B][/COLOR]</title>
 <item>
 <title>[COLOR blue][COLOR white][B] Biografia:[/COLOR] Erwin Schrodinger (1887 – 1961) [/B][/COLOR]</title>
 <link>ignore</link>
-<jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=biografia%20y%20tecnologia&search_type=playlist</jsonrpc>
+<jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=biografia%20erwin%20schrodinger&search_type=playlist</jsonrpc>
 <thumbnail>https://i.imgur.com/C4YeJQH.jpg</thumbnail>
 <fanart>https://i.imgur.com/UZDgTaz.jpg</fanart>
  <info>[COLOR white][B]Biografia de los cientificos mas destacados de todos los tiempos.[/B][/COLOR]</title></info>
@@ -249,7 +249,7 @@ hawkigns[/B][/COLOR]</title>
 
 <item>
 <title>[COLOR blue][COLOR white][B] Biografia:[/COLOR] Karl Landsteiner (1868 – 1943)[/B][/COLOR]</title>
-<jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=biografia%20y%20tecnologia&search_type=playlist</jsonrpc>
+<jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=biografia%20karl%20landsteiner&search_type=playlist</jsonrpc>
 <thumbnail>https://i.imgur.com/C4YeJQH.jpg</thumbnail>
 <fanart>https://i.imgur.com/UZDgTaz.jpg</fanart>
  <info>[COLOR white][B]Biografia de los cientificos mas destacados de todos los tiempos.[/B][/COLOR]</title></info>
@@ -257,7 +257,7 @@ hawkigns[/B][/COLOR]</title>
 
 <item>
 <title>[COLOR blue][COLOR white][B] Biografia:[/COLOR] Alfred Nobel (1833 – 1896)[/B][/COLOR]</title>
-<jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=biografia%20y%20tecnologia&search_type=playlist</jsonrpc>
+<jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=biografia%20alfred%20nobel&search_type=playlist</jsonrpc>
 <thumbnail>https://i.imgur.com/C4YeJQH.jpg</thumbnail>
 <fanart>https://i.imgur.com/UZDgTaz.jpg</fanart>
  <info>[COLOR white][B]Biografia de los cientificos mas destacados de todos los tiempos.[/B][/COLOR]</title></info>
@@ -266,7 +266,7 @@ hawkigns[/B][/COLOR]</title>
 <item>
 <title>[COLOR blue][COLOR white][B] Biografias:[/COLOR] Werner Karl Heisenberg (1901 – 1976) [/B][/COLOR]</title>
 <link>ignore</link>
-<jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=biografia%20y%20tecnologia&search_type=playlist</jsonrpc>
+<jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=biografia%20werner%20karl%20heisenberg&search_type=playlist</jsonrpc>
 <thumbnail>https://i.imgur.com/C4YeJQH.jpg</thumbnail>
 <fanart>https://i.imgur.com/UZDgTaz.jpg</fanart>
  <info>[COLOR white][B]Biografia de los cientificos mas destacados de todos los tiempos.[/B][/COLOR]</title></info>
@@ -276,7 +276,7 @@ hawkigns[/B][/COLOR]</title>
 <title>[COLOR blue][COLOR white][B] Biografia:[/COLOR] Carl Friedrich Gauss (1777 – 1855)[/B][/COLOR]</title>
 hawkigns[/B][/COLOR]</title>
 <link>ignore</link>
-<jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=biografia%20y%20tecnologia&search_type=playlist</jsonrpc>
+<jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=biografia%20carl%20friedrich%20gauss&search_type=playlist</jsonrpc>
 <thumbnail>https://i.imgur.com/C4YeJQH.jpg</thumbnail>
 <fanart>https://i.imgur.com/UZDgTaz.jpg</fanart>
  <info>[COLOR white][B]Biografia de los cientificos mas destacados de todos los tiempos.[/B][/COLOR]</title></info>
@@ -285,7 +285,7 @@ hawkigns[/B][/COLOR]</title>
 <item>
 <title>[COLOR blue][COLOR white][B] Biografia:[/COLOR] Tim Berners-Lee (1955)[/B][/COLOR]</title>
 <link>ignore</link>
-<jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=biografia%20y%20tecnologia&search_type=playlist</jsonrpc>
+<jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=biografia%20tim%20berners%20lee&search_type=playlist</jsonrpc>
 <thumbnail>https://i.imgur.com/C4YeJQH.jpg</thumbnail>
 <fanart>https://i.imgur.com/UZDgTaz.jpg</fanart>
  <info>[COLOR white][B]Biografia de los cientificos mas destacados de todos los tiempos.[/B][/COLOR]</title></info>
@@ -294,7 +294,7 @@ hawkigns[/B][/COLOR]</title>
 <item>
 <title>[COLOR blue][COLOR white][B] Biografia:[/COLOR] Pitágoras (579 a.C. – 475 a.C.) [/B][/COLOR]</title>
 <link>ignore</link>
-<jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=biografia%20y%20tecnologia&search_type=playlist</jsonrpc>
+<jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=biografia%20pitagoras&search_type=playlist</jsonrpc>
 <thumbnail>https://i.imgur.com/C4YeJQH.jpg</thumbnail>
 <fanart>https://i.imgur.com/UZDgTaz.jpg</fanart>
  <info>[COLOR white][B]Biografia de los cientificos mas destacados de todos los tiempos.[/B][/COLOR]</title></info>
@@ -303,7 +303,7 @@ hawkigns[/B][/COLOR]</title>
 <item>
 <title>[COLOR blue][COLOR white][B] Biografia:[/COLOR] John Dalton (1766 – 1844) [/B][/COLOR]</title>
 <link>ignore</link>
-<jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=biografia%20y%20tecnologia&search_type=playlist</jsonrpc>
+<jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=biografia%20jhon%20dalton&search_type=playlist</jsonrpc>
 <thumbnail>https://i.imgur.com/C4YeJQH.jpg</thumbnail>
 <fanart>https://i.imgur.com/UZDgTaz.jpg</fanart>
  <info>[COLOR white][B]Biografia de los cientificos mas destacados de todos los tiempos.[/B][/COLOR]</title></info>
@@ -311,7 +311,7 @@ hawkigns[/B][/COLOR]</title>
 
 <item>
 <title>[COLOR blue][COLOR white][B] Biografia:[/COLOR] Sofia Kovalévskaya (1850 – 1891)[/B][/COLOR]</title>
-<jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=biografia%20y%20tecnologia&search_type=playlist</jsonrpc>
+<jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=biografia%20sofia%20kovalevskaya&search_type=playlist</jsonrpc>
 <thumbnail>https://i.imgur.com/C4YeJQH.jpg</thumbnail>
 <fanart>https://i.imgur.com/UZDgTaz.jpg</fanart>
  <info>[COLOR white][B]Biografia de los cientificos mas destacados de todos los tiempos.[/B][/COLOR]</title></info>
@@ -320,7 +320,7 @@ hawkigns[/B][/COLOR]</title>
 <item>
 <title>[COLOR blue][COLOR white][B] Biografia:[/COLOR] James Dewey Watson (1928)[/B][/COLOR]</title>
 <link>ignore</link>
-<jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=biografia%20y%20tecnologia&search_type=playlist</jsonrpc>
+<jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=biografia%20james%20dewey%20watson&search_type=playlist</jsonrpc>
 <thumbnail>https://i.imgur.com/C4YeJQH.jpg</thumbnail>
 <fanart>https://i.imgur.com/UZDgTaz.jpg</fanart>
  <info>[COLOR white][B]Biografia de los cientificos mas destacados de todos los tiempos.[/B][/COLOR]</title></info>
@@ -329,7 +329,7 @@ hawkigns[/B][/COLOR]</title>
 <item>
 <title>[COLOR blue][COLOR white][B] Biografia:[/COLOR] René Descartes (1596 – 1650)[/B][/COLOR]</title>
 <link>ignore</link>
-<jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=biografia%20y%20tecnologia&search_type=playlist</jsonrpc>
+<jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=biografia%20rene%20descartes&search_type=playlist</jsonrpc>
 <thumbnail>https://i.imgur.com/C4YeJQH.jpg</thumbnail>
 <fanart>https://i.imgur.com/UZDgTaz.jpg</fanart>
  <info>[COLOR white][B]Biografia de los cientificos mas destacados de todos los tiempos.[/B][/COLOR]</title></info>
@@ -338,7 +338,7 @@ hawkigns[/B][/COLOR]</title>
 <item>
 <title>[COLOR blue][COLOR white][B] Biografia:[/COLOR] Robert Boyle (1627 – 1691)   [/B][/COLOR]</title>
 <link>ignore</link>
-<jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=biografia%20y%20tecnologia&search_type=playlist</jsonrpc>
+<jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=biografia%20robert%20boyle&search_type=playlist</jsonrpc>
 <thumbnail>https://i.imgur.com/C4YeJQH.jpg</thumbnail>
 <fanart>https://i.imgur.com/UZDgTaz.jpg</fanart>
  <info>[COLOR white][B]Biografia de los cientificos mas destacados de todos los tiempos.[/B][/COLOR]</title></info>
@@ -346,7 +346,7 @@ hawkigns[/B][/COLOR]</title>
 
 <item>
 <title>[COLOR blue][COLOR white][B] Biografia:[/COLOR] Gottfried Leibniz (1646 – 1716)[/B][/COLOR]</title>
-<jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=biografia%20y%20tecnologia&search_type=playlist</jsonrpc>
+<jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=biografia%20gottfried%20leibniz&search_type=playlist</jsonrpc>
 <thumbnail>https://i.imgur.com/C4YeJQH.jpg</thumbnail>
 <fanart>https://i.imgur.com/UZDgTaz.jpg</fanart>
  <info>[COLOR white][B]Biografia de los cientificos mas destacados de todos los tiempos.[/B][/COLOR]</title></info>
@@ -355,7 +355,7 @@ hawkigns[/B][/COLOR]</title>
 <item>
 <title>[COLOR blue][COLOR white][B] Biografia:[/COLOR] Peter Higgs (1929)[/B][/COLOR]</title>
 <link>ignore</link>
-<jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=biografia%20y%20tecnologia&search_type=playlist</jsonrpc>
+<jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=biografia%20peter%20higgs&search_type=playlist</jsonrpc>
 <thumbnail>https://i.imgur.com/C4YeJQH.jpg</thumbnail>
 <fanart>https://i.imgur.com/UZDgTaz.jpg</fanart>
  <info>[COLOR white][B]Biografia de los cientificos mas destacados de todos los tiempos.[/B][/COLOR]</title></info>
@@ -364,7 +364,7 @@ hawkigns[/B][/COLOR]</title>
 <item>
 <title>[COLOR blue][COLOR white][B] Biografia:[/COLOR] Georg Simon Ohm (1789 – 1854) [/B][/COLOR]</title>
 <link>ignore</link>
-<jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=biografia%20y%20tecnologia&search_type=playlist</jsonrpc>
+<jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=biografia%20geor%20simon%20ohm&search_type=playlist</jsonrpc>
 <thumbnail>https://i.imgur.com/C4YeJQH.jpg</thumbnail>
 <fanart>https://i.imgur.com/UZDgTaz.jpg</fanart>
  <info>[COLOR white][B]Biografia de los cientificos mas destacados de todos los tiempos.[/B][/COLOR]</title></info>
@@ -372,7 +372,7 @@ hawkigns[/B][/COLOR]</title>
 
 <item>
 <title>[COLOR blue][COLOR white][B] Biografia:[/COLOR] Isaac Asimov (1920 – 1992)[/B][/COLOR]</title>
-<jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=biografia%20y%20tecnologia&search_type=playlist</jsonrpc>
+<jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=biografia%20issac%20asimov&search_type=playlist</jsonrpc>
 <thumbnail>https://i.imgur.com/C4YeJQH.jpg</thumbnail>
 <fanart>https://i.imgur.com/UZDgTaz.jpg</fanart>
  <info>[COLOR white][B]Biografia de los cientificos mas destacados de todos los tiempos.[/B][/COLOR]</title></info>
@@ -381,7 +381,7 @@ hawkigns[/B][/COLOR]</title>
 <item>
 <title>[COLOR blue][COLOR white][B] Biografia:[/COLOR] Alexander Graham Bell (1847 – 1922)[/B][/COLOR]</title>
 <link>ignore</link>
-<jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=biografia%20y%20tecnologia&search_type=playlist</jsonrpc>
+<jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=biografia%20alexander%20graham%20bell&search_type=playlist</jsonrpc>
 <thumbnail>https://i.imgur.com/C4YeJQH.jpg</thumbnail>
 <fanart>https://i.imgur.com/UZDgTaz.jpg</fanart>
  <info>[COLOR white][B]Biografia de los cientificos mas destacados de todos los tiempos.[/B][/COLOR]</title></info>
@@ -389,7 +389,7 @@ hawkigns[/B][/COLOR]</title>
 
 <item>
 <title>[COLOR blue][COLOR white][B] Biografia:[/COLOR] Niels Bohr (1885 – 1962)[/B][/COLOR]</title>
-<jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=biografia%20y%20tecnologia&search_type=playlist</jsonrpc>
+<jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=biografia%20niels%20bohr&search_type=playlist</jsonrpc>
 <thumbnail>https://i.imgur.com/C4YeJQH.jpg</thumbnail>
 <fanart>https://i.imgur.com/UZDgTaz.jpg</fanart>
  <info>[COLOR white][B]Biografia de los cientificos mas destacados de todos los tiempos.[/B][/COLOR]</title></info>
@@ -398,7 +398,7 @@ hawkigns[/B][/COLOR]</title>
 <item>
 <title>[COLOR blue][COLOR white][B] Biografia:[/COLOR] Mario Molina (1943)[/B][/COLOR]</title>
 <link>ignore</link>
-<jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=biografia%20y%20tecnologia&search_type=playlist</jsonrpc>
+<jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=biografia%20mario%20molina&search_type=playlist</jsonrpc>
 <thumbnail>https://i.imgur.com/C4YeJQH.jpg</thumbnail>
 <fanart>https://i.imgur.com/UZDgTaz.jpg</fanart>
  <info>[COLOR white][B]Biografia de los cientificos mas destacados de todos los tiempos.[/B][/COLOR]</title></info>
@@ -407,7 +407,7 @@ hawkigns[/B][/COLOR]</title>
 <item>
 <title>[COLOR blue][COLOR white][B] Biografia:[/COLOR] Alessandro Volta (1745 – 1827)  [/B][/COLOR]</title>
 <link>ignore</link>
-<jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=biografia%20y%20tecnologia&search_type=playlist</jsonrpc>
+<jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=biografia%20alessandro%20volta&search_type=playlist</jsonrpc>
 <thumbnail>https://i.imgur.com/C4YeJQH.jpg</thumbnail>
 <fanart>https://i.imgur.com/UZDgTaz.jpg</fanart>
  <info>[COLOR white][B]Biografia de los cientificos mas destacados de todos los tiempos.[/B][/COLOR]</title></info>
@@ -415,7 +415,7 @@ hawkigns[/B][/COLOR]</title>
 
 <item>
 <title>[COLOR blue][COLOR white][B] Biografia:[/COLOR] Guillermo Marconi (1874 – 1937)[/B][/COLOR]</title>
-<jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=biografia%20y%20tecnologia&search_type=playlist</jsonrpc>
+<jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=biografia%20guillermo%20marconi&search_type=playlist</jsonrpc>
 <thumbnail>https://i.imgur.com/C4YeJQH.jpg</thumbnail>
 <fanart>https://i.imgur.com/UZDgTaz.jpg</fanart>
  <info>[COLOR white][B]Biografia de los cientificos mas destacados de todos los tiempos.[/B][/COLOR]</title></info>
@@ -427,7 +427,7 @@ hawkigns[/B][/COLOR]</title>
 <item>
 <title>[COLOR blue][COLOR white][B] Biografia:[/COLOR] Joseph Fourier (1768 – 1830)[/B][/COLOR]</title>
 <link>ignore</link>
-<jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=biografia%20y%20tecnologia&search_type=playlist</jsonrpc>
+<jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=biografia%20joseph%20fourier&search_type=playlist</jsonrpc>
 <thumbnail>https://i.imgur.com/C4YeJQH.jpg</thumbnail>
 <fanart>https://i.imgur.com/UZDgTaz.jpg</fanart>
  <info>[COLOR white][B]Biografia de los cientificos mas destacados de todos los tiempos.[/B][/COLOR]</title></info>
@@ -435,7 +435,7 @@ hawkigns[/B][/COLOR]</title>
 
 <item>
 <title>[COLOR blue][COLOR white][B] Biografia:[/COLOR] Richard Feynman (1918-1988)[/B][/COLOR]</title>
-<jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=biografia%20y%20tecnologia&search_type=playlist</jsonrpc>
+<jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=biografia%20richard%20feyman&search_type=playlist</jsonrpc>
 <thumbnail>https://i.imgur.com/C4YeJQH.jpg</thumbnail>
 <fanart>https://i.imgur.com/UZDgTaz.jpg</fanart>
  <info>[COLOR white][B]Biografia de los cientificos mas destacados de todos los tiempos.[/B][/COLOR]</title></info>
@@ -444,7 +444,7 @@ hawkigns[/B][/COLOR]</title>
 <item>
 <title>[COLOR blue][COLOR white][B] Biografia:[/COLOR] Ernest Rutherford (1925–1930) [/B][/COLOR]</title>
 <link>ignore</link>
-<jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=biografia%20y%20tecnologia&search_type=playlist</jsonrpc>
+<jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=biografia%20ernest%20rutherford&search_type=playlist</jsonrpc>
 <thumbnail>https://i.imgur.com/C4YeJQH.jpg</thumbnail>
 <fanart>https://i.imgur.com/UZDgTaz.jpg</fanart>
  <info>[COLOR white][B]Biografia de los cientificos mas destacados de todos los tiempos.[/B][/COLOR]</title></info>
@@ -453,7 +453,7 @@ hawkigns[/B][/COLOR]</title>
 <item>
 <title>[COLOR blue][COLOR white][B] Biografia:[/COLOR] Francis Crick (1916-2004) (1635 – 1703) [/B][/COLOR]</title>
 <link>ignore</link>
-<jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=biografia%20y%20tecnologia&search_type=playlist</jsonrpc>
+<jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=biografia%20francis%20crick&search_type=playlist</jsonrpc>
 <thumbnail>https://i.imgur.com/C4YeJQH.jpg</thumbnail>
 <fanart>https://i.imgur.com/UZDgTaz.jpg</fanart>
  <info>[COLOR white][B]Biografia de los cientificos mas destacados de todos los tiempos.[/B][/COLOR]</title></info>
@@ -461,7 +461,7 @@ hawkigns[/B][/COLOR]</title>
 
 <item>
 <title>[COLOR blue][COLOR white][B] Biografia:[/COLOR] Edwin Hubble (1889-1953)[/B][/COLOR]</title>
-<jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=biografia%20y%20tecnologia&search_type=playlist</jsonrpc>
+<jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=biografia%20edwin%20hubble&search_type=playlist</jsonrpc>
 <thumbnail>https://i.imgur.com/C4YeJQH.jpg</thumbnail>
 <fanart>https://i.imgur.com/UZDgTaz.jpg</fanart>
  <info>[COLOR white][B]Biografia de los cientificos mas destacados de todos los tiempos.[/B][/COLOR]</title></info>
@@ -469,7 +469,7 @@ hawkigns[/B][/COLOR]</title>
 
 <item>
 <title>[COLOR blue][COLOR white][B] Biografia:[/COLOR] Rosalind Franklin (1920-1958)[/B][/COLOR]</title>
-<jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=biografia%20y%20tecnologia&search_type=playlist</jsonrpc>
+<jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=biografia%20rosalind%20franklin&search_type=playlist</jsonrpc>
 <thumbnail>https://i.imgur.com/C4YeJQH.jpg</thumbnail>
 <fanart>https://i.imgur.com/UZDgTaz.jpg</fanart>
  <info>[COLOR white][B]Biografia de los cientificos mas destacados de todos los tiempos.[/B][/COLOR]</title></info>
@@ -480,7 +480,7 @@ hawkigns[/B][/COLOR]</title>
 
 <item>
 <title>[COLOR blue][COLOR white][B] Biografia:[/COLOR] Enrico Fermi (1901-1954)[/B][/COLOR]</title>
-<jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=biografia%20y%20tecnologia&search_type=playlist</jsonrpc>
+<jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=biografia%20enrico%20fermin&search_type=playlist</jsonrpc>
 <thumbnail>https://i.imgur.com/C4YeJQH.jpg</thumbnail>
 <fanart>https://i.imgur.com/UZDgTaz.jpg</fanart>
  <info>[COLOR white][B]Biografia de los cientificos mas destacados de todos los tiempos.[/B][/COLOR]</title></info>
@@ -489,7 +489,7 @@ hawkigns[/B][/COLOR]</title>
 <item>
 <title>[COLOR blue][COLOR white][B] Biografia:[/COLOR] Carlos Linneo (1707-1778)[/B][/COLOR]</title>
 <link>ignore</link>
-<jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=biografia%20y%20tecnologia&search_type=playlist</jsonrpc>
+<jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=biografia%20carlos%20linneo&search_type=playlist</jsonrpc>
 <thumbnail>https://i.imgur.com/C4YeJQH.jpg</thumbnail>
 <fanart>https://i.imgur.com/UZDgTaz.jpg</fanart>
  <info>[COLOR white][B]Biografia de los cientificos mas destacados de todos los tiempos.[/B][/COLOR]</title></info>
@@ -498,7 +498,7 @@ hawkigns[/B][/COLOR]</title>
 <item>
 <title>[COLOR blue][COLOR white][B] Biografia:[/COLOR] Paul Dirac (1902-1984)  [/B][/COLOR]</title>
 <link>ignore</link>
-<jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=biografia%20y%20tecnologia&search_type=playlist</jsonrpc>
+<jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=biografia%20paul%20dirac&search_type=playlist</jsonrpc>
 <thumbnail>https://i.imgur.com/C4YeJQH.jpg</thumbnail>
 <fanart>https://i.imgur.com/UZDgTaz.jpg</fanart>
  <info>[COLOR white][B]Biografia de los cientificos mas destacados de todos los tiempos.[/B][/COLOR]</title></info>
@@ -506,7 +506,7 @@ hawkigns[/B][/COLOR]</title>
 
 <item>
 <title>[COLOR blue][COLOR white][B] Biografia:[/COLOR] Linus Pauling (1901-1994) [/B][/COLOR]</title>
-<jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=biografia%20y%20tecnologia&search_type=playlist</jsonrpc>
+<jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=biografia%20linus%20pauling&search_type=playlist</jsonrpc>
 <thumbnail>https://i.imgur.com/C4YeJQH.jpg</thumbnail>
 <fanart>https://i.imgur.com/UZDgTaz.jpg</fanart>
  <info>[COLOR white][B]Biografia de los cientificos mas destacados de todos los tiempos.[/B][/COLOR]</title></info>
@@ -514,7 +514,7 @@ hawkigns[/B][/COLOR]</title>
 
 <item>
 <title>[COLOR blue][COLOR white][B] Biografia:[/COLOR] Robert Oppenheimer (1904-1967)[/B][/COLOR]</title>
-<jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=biografia%20y%20tecnologia&search_type=playlist</jsonrpc>
+<jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=biografia%20robert%20oppenheimer&search_type=playlist</jsonrpc>
 <thumbnail>https://i.imgur.com/C4YeJQH.jpg</thumbnail>
 <fanart>https://i.imgur.com/UZDgTaz.jpg</fanart>
  <info>[COLOR white][B]Biografia de los cientificos mas destacados de todos los tiempos.[/B][/COLOR]</title></info>
@@ -522,7 +522,7 @@ hawkigns[/B][/COLOR]</title>
 
 <item>
 <title>[COLOR blue][COLOR white][B] Biografia:[/COLOR] Rachel Carson (1907-1964)[/B][/COLOR]</title>
-<jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=biografia%20y%20tecnologia&search_type=playlist</jsonrpc>
+<jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=biografia%20rachel%20carson&search_type=playlist</jsonrpc>
 <thumbnail>https://i.imgur.com/C4YeJQH.jpg</thumbnail>
 <fanart>https://i.imgur.com/UZDgTaz.jpg</fanart>
  <info>[COLOR white][B]Biografia de los cientificos mas destacados de todos los tiempos.[/B][/COLOR]</title></info>
@@ -531,7 +531,7 @@ hawkigns[/B][/COLOR]</title>
 <item>
 <title>[COLOR blue][COLOR white][B] Biografia:[/COLOR] Antoine Lavoisier (1743-1794)[/B][/COLOR]</title>
 <link>ignore</link>
-<jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=biografia%20y%20tecnologia&search_type=playlist</jsonrpc>
+<jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=biografia%20antoine%20lavoisier&search_type=playlist</jsonrpc>
 <thumbnail>https://i.imgur.com/C4YeJQH.jpg</thumbnail>
 <fanart>https://i.imgur.com/UZDgTaz.jpg</fanart>
  <info>[COLOR white][B]Biografia de los cientificos mas destacados de todos los tiempos.[/B][/COLOR]</title></info>
@@ -540,7 +540,7 @@ hawkigns[/B][/COLOR]</title>
 <item>
 <title>[COLOR blue][COLOR white][B] Biografia:[/COLOR] James Clerk Maxwell (1831-1879)  [/B][/COLOR]</title>
 <link>ignore</link>
-<jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=biografia%20y%20tecnologia&search_type=playlist</jsonrpc>
+<jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=biografia%20james%20clerk%20maxwell&search_type=playlist</jsonrpc>
 <thumbnail>https://i.imgur.com/C4YeJQH.jpg</thumbnail>
 <fanart>https://i.imgur.com/UZDgTaz.jpg</fanart>
  <info>[COLOR white][B]Biografia de los cientificos mas destacados de todos los tiempos.[/B][/COLOR]</title></info>
@@ -548,7 +548,7 @@ hawkigns[/B][/COLOR]</title>
 
 <item>
 <title>[COLOR blue][COLOR white][B] Biografia:[/COLOR] Heinrich Rudolf Hertz (1857-1894) [/B][/COLOR]</title>
-<jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=biografia%20y%20tecnologia&search_type=playlist</jsonrpc>
+<jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=biografia%20heinrich%20rudolf%20hertz&search_type=playlist</jsonrpc>
 <thumbnail>https://i.imgur.com/C4YeJQH.jpg</thumbnail>
 <fanart>https://i.imgur.com/UZDgTaz.jpg</fanart>
  <info>[COLOR white][B]Biografia de los cientificos mas destacados de todos los tiempos.[/B][/COLOR]</title></info>
@@ -556,7 +556,7 @@ hawkigns[/B][/COLOR]</title>
 
 <item>
 <title>[COLOR blue][COLOR white][B] Biografia:[/COLOR] William Thomson (1824-1907) (1904-1967)[/B][/COLOR]</title>
-<jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=biografia%20y%20tecnologia&search_type=playlist</jsonrpc>
+<jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=biografia%20william%20thomson&search_type=playlist</jsonrpc>
 <thumbnail>https://i.imgur.com/C4YeJQH.jpg</thumbnail>
 <fanart>https://i.imgur.com/UZDgTaz.jpg</fanart>
  <info>[COLOR white][B]Biografia de los cientificos mas destacados de todos los tiempos.[/B][/COLOR]</title></info>
