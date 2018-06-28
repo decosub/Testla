@@ -263,7 +263,7 @@ hawkigns[/B][/COLOR]</title>
 </item>
 
 <item>
-<title>[COLOR blue][COLOR white][B] Biografias:[/COLOR] Werner Karl Heisenberg (1901 – 1976) [/B][/COLOR]</title>
+<title>[COLOR blue][COLOR white][B] Biografia:[/COLOR] Werner Karl Heisenberg (1901 – 1976) [/B][/COLOR]</title>
 <link>ignore</link>
 <jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=biografia%20werner%20karl%20heisenberg&search_type=playlist</jsonrpc>
 <thumbnail>https://i.imgur.com/C4YeJQH.jpg</thumbnail>
@@ -562,6 +562,14 @@ hawkigns[/B][/COLOR]</title>
 </item>
 
 
+<item>
+<title>[COLOR blue]... Mas biogracias interesantes:[/B][/COLOR]</title>
+<link>nolink</link>
+<externallink>https://bit.ly/2N7hsjL</externallink>
+<thumbnail>https://i.imgur.com/C4YeJQH.jpg</thumbnail>
+<fanart>https://i.imgur.com/UZDgTaz.jpg</fanart>
+ <info>[COLOR white][B]Muchas mas Biografias interesantes... descubrelo.[/B][/COLOR]</title></info>
+</item>
 
 
 
