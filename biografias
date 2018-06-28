@@ -1,13 +1,3 @@
-
-<item>
-<title>[COLOR blue][COLOR white][B] prueba:[/B][/COLOR][B] pdf [/B][/COLOR]</title>
-<link>nolink</link>
-<externallink>https://raw.githubusercontent.com/decosub/Testla/master/pdf</externallink>
-  <fanart>https://i.imgur.com/zBlww2I.jpg</fanart> 
-  <thumbnail>https://i.imgur.com/0RkCCVm.jpg</thumbnail>
- <info>[COLOR white][B]En esta seccion de fisica Encontraras: Fisica Clasica, Fisica Cuantica...[/B][/COLOR]</title></info>
-</item
-
 <item>
 <title>[COLOR yellow][B]  Documentales: Biografías de Personajes Históricos  [/B][/COLOR]</title>
 <link>ignore</link>
@@ -27,21 +17,18 @@
 </item>
 
 
-
-<item>
-<title>[COLOR yellow][B]  Documentales: Biografías de Famosos  [/B][/COLOR]</title>
-<link>ignore</link>
-<jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=biografias%20de%20famosos&search_type=playlist</jsonrpc>
-<thumbnail>https://jaserrano.files.wordpress.com/2015/01/image0012.jpg?w=645</thumbnail>
-<fanart>http://1.bp.blogspot.com/-Y7IIGOMzpqY/UEEp-SKfs2I/AAAAAAAACkg/1lP8pmMMT2I/s1600/alejandria_biblioteca.jpg</fanart>
-</item>
-
-
-
 <item>
 <title>[COLOR yellow][B]  Documentales: Mentes Brillantes  [/B][/COLOR]</title>
 <link>ignore</link>
 <jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=documentales+de+mentes+brillantes&search_type=playlist</jsonrpc>
 <thumbnail>https://pbs.twimg.com/profile_images/879311608782233600/79TNf_Kb_400x400.jpg</thumbnail>
 <fanart>http://1.bp.blogspot.com/-Y7IIGOMzpqY/UEEp-SKfs2I/AAAAAAAACkg/1lP8pmMMT2I/s1600/alejandria_biblioteca.jpg</fanart>
+</item>
+
+<item><title>[COLOR blue][B] Volver al Menu Principal...[/B][/COLOR]</title>
+<link>ignore</link>
+<externallink>https://bit.ly/2lqcXV2</externallink>
+<thumbnail>https://i.imgur.com/TK6sjvQ.jpg</thumbnail>
+<fanart>https://i.imgur.com/BTXNERT.jpg</fanart>
+<info>[COLOR white][B]Volver al Menu Principal...[/B][/COLOR]</title></info>
 </item>
