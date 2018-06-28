@@ -1,12 +1,12 @@
 
 <item>
-<title>[COLOR yellow][B] Documentales: Biografías Canal Historia[/B][/COLOR]</title>
-<link>ignore</link>
-<jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=biografias%20canal%20historia&search_type=playlist</jsonrpc>
-<thumbnail>https://i0.wp.com/cambiopolitico.com/wp-content/uploads/2013/03/biografias.jpg?fit=500%2C500&ssl=1</thumbnail>
-<fanart>http://1.bp.blogspot.com/-Y7IIGOMzpqY/UEEp-SKfs2I/AAAAAAAACkg/1lP8pmMMT2I/s1600/alejandria_biblioteca.jpg</fanart>
-</item>
-
+<title>[COLOR blue][COLOR white][B] prueba:[/B][/COLOR][B] pdf [/B][/COLOR]</title>
+<link>nolink</link>
+<externallink>https://bit.ly/2Kc6GLj</externallink>
+  <fanart>https://i.imgur.com/zBlww2I.jpg</fanart> 
+  <thumbnail>https://i.imgur.com/0RkCCVm.jpg</thumbnail>
+ <info>[COLOR white][B]En esta seccion de fisica Encontraras: Fisica Clasica, Fisica Cuantica...[/B][/COLOR]</title></info>
+</item
 
 <item>
 <title>[COLOR yellow][B]  Documentales: Biografías de Personajes Históricos  [/B][/COLOR]</title>
