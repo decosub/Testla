@@ -30,7 +30,7 @@ hawkigns[/B][/COLOR]</title>
 <item>
 <title>[COLOR blue][COLOR white][B] Biografia:[/COLOR] Isaac Newton (1643 – 1727) [/B][/COLOR]</title>
 <link>ignore</link>
-<jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=biografia+isaac+newton&search_type=playlist</jsonrpc>
+<jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=biografia%20isaac%20newton&search_type=playlist</jsonrpc>
 <thumbnail>https://i.imgur.com/C4YeJQH.jpg</thumbnail>
 <fanart>https://i.imgur.com/UZDgTaz.jpg</fanart>
  <info>[COLOR white][B]Biografia de los cientificos mas destacados de todos los tiempos.[/B][/COLOR]</title></info>
