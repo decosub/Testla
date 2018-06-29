@@ -24,13 +24,13 @@
 <title>[COLOR blue][COLOR white][B] Biografias:[/B][/COLOR][B] Mentes Brillantes[/B][/COLOR]</title>  [/B][/COLOR]</title>
 <link>ignore</link>
 <jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=documentales+de+mentes+brillantes&search_type=playlist</jsonrpc>
-<thumbnail>https://i.imgur.com/C4YeJQH.jpg</thumbnail>
+<thumbnail>https://i.imgur.com/T2ibdjM.jpg</thumbnail>
 <fanart>https://i.imgur.com/UZDgTaz.jpg</fanart>
 </item>
 
 <item><title>[COLOR blue][B] Buscador de Contenidos: Biografias[/B][/COLOR]</title>
 <link>$doregex[makelist]</link>
-<thumbnail>https://i.imgur.com/7FiCZLD.jpg</thumbnail>
+<thumbnail>https://i.imgur.com/T2ibdjM.jpg</thumbnail>
  <fanart>https://i.imgur.com/BTXNERT.jpg</fanart> 
  <info>[COLOR white][B]Buscador de Youtube donde podras buscar cualquier Biografias..[/B][/COLOR]</info>
 <regex>
