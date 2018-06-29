@@ -2,7 +2,7 @@
 
 <title>[COLOR blue][COLOR white][B] Semillas:[/B][/COLOR][B] Dibujos Animados[/B][/COLOR]</title>  [/B][/COLOR]</title>
 <link>ignore</link>
-<externallink>https://bit.ly/2yTHnIW</externallink>
+<externallink>https://bit.ly/2N9f38c</externallink>
 <thumbnail>https://i.imgur.com/P90VMS7.jpg</thumbnail>
 <fanart>https://i.imgur.com/UZDgTaz.jpg</fanart>
 </item>
@@ -11,37 +11,53 @@
 
 <item>
 
-<title>[COLOR blue][COLOR white][B] Semillas:[/B][/COLOR][B] Manualidades [/B][/COLOR]</title> [/B][/COLOR]</title>
+<title>[COLOR blue][COLOR white][B] Manualidades:[/B][/COLOR][B] Experimentos Caseros[B][/COLOR]</title>  [/B][/COLOR]</title>
 <link>ignore</link>
-<externallink>https://bit.ly/2yTHnIW</externallink>
+<jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=experimentos+caseros+para+niños&sp=EgIQAUIECAESAA%253D%253D&search_type=playlist</jsonrpc>
 <thumbnail>https://i.imgur.com/P90VMS7.jpg</thumbnail>
-<fanart>https://i.imgur.com/UZDgTaz.jpg</fanart>
-<fanart>http://1.bp.blogspot.com/-Y7IIGOMzpqY/UEEp-SKfs2I/AAAAAAAACkg/1lP8pmMMT2I/s1600/alejandria_biblioteca.jpg</fanart>
+<fanart>https://i.imgur.com/zBlww2I.jpg</fanart>
 </item>
 
+<item>
+
+<title>[COLOR blue][COLOR white][B] Semillas:[/B][/COLOR][B] Ciencias [/B][/COLOR]</title> [/B][/COLOR]</title>
+<link>ignore</link>
+<jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=ciencia+naturales+para+niños++aula+365&sp=EgIQAUIECAESAA%253D%253D&search_type=playlist</jsonrpc>
+<thumbnail>https://i.imgur.com/P90VMS7.jpg</thumbnail>
+<fanart>https://i.imgur.com/UZDgTaz.jpg</fanart>
+</item>
 
 <item>
 
 <title>[COLOR blue][COLOR white][B] Semillas:[/B][/COLOR][B] Matematicas[B][/COLOR]</title>  [/B][/COLOR]</title>
 <link>ignore</link>
-<jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=documentales+de+mentes+brillantes&search_type=playlist</jsonrpc>
+<jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=matematicas+para+&search_type=playlist</jsonrpc>
 <thumbnail>https://i.imgur.com/P90VMS7.jpg</thumbnail>
 <fanart>https://i.imgur.com/UZDgTaz.jpg</fanart>
 </item>
 
 <item>
 
-<title>[COLOR blue][COLOR white][B] Semillas:[/B][/COLOR][B] Experimentos[B][/COLOR]</title>  [/B][/COLOR]</title>
+<title>[COLOR blue][COLOR white][B] Manualidades:[/B][/COLOR][B] Manualidades[B][/COLOR]</title>  [/B][/COLOR]</title>
 <link>ignore</link>
-<jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=documentales+de+mentes+brillantes&search_type=playlist</jsonrpc>
+<jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=manualidades+ciencias&search_type=playlist</jsonrpc>
 <thumbnail>https://i.imgur.com/P90VMS7.jpg</thumbnail>
 <fanart>https://i.imgur.com/UZDgTaz.jpg</fanart>
 </item>
 
+<item>
+
+<title>[COLOR blue][COLOR white][B] Manualidades:[/B][/COLOR][B] Oragamis[B][/COLOR]</title>  [/B][/COLOR]</title>
+<link>ignore</link>
+<jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=oragamis+para+niños&search_type=playlist</jsonrpc>
+<thumbnail>https://i.imgur.com/P90VMS7.jpg</thumbnail>
+<fanart>https://i.imgur.com/UZDgTaz.jpg</fanart>
+</item
+
 <item><title>[COLOR blue][B] Buscador de Contenidos: Semillas[/B][/COLOR]</title>
 <link>$doregex[makelist]</link>
 <thumbnail>https://i.imgur.com/T2ibdjM.jpg</thumbnail>
- <fanart>https://i.imgur.com/BTXNERT.jpg</fanart> 
+ <fanart>https://i.imgur.com/UZDgTaz.jpg</fanart> 
  <info>[COLOR white][B]Buscador de Youtube donde podras buscar cualquier contenido relacionado con la ciencia infantil..[/B][/COLOR]</info>
 <regex>
 <name>makelist</name>
@@ -49,7 +65,7 @@
 <title>[COLOR white] Tesla: [/COLOR][COLOR blue][makelist.param2][/COLOR]</title>
 <link>$doregex[resolve]</link>
 <thumbnail>https://i.imgur.com/T2ibdjM.jpg</thumbnail>
-  <fanart>https://i.imgur.com/6E60Hfb.jpg</fanart> 
+  <fanart>https://i.imgur.com/UZDgTaz.jpg</fanart> 
 ]]></listrepeat>
 <expres>u'(.+?)', u'(.+?)'</expres>
 <page>$doregex[search]</page>
