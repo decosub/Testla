@@ -40,7 +40,7 @@
 
 <item><title>[COLOR blue][B] Buscador de Contenidos: Semillas[/B][/COLOR]</title>
 <link>$doregex[makelist]</link>
-<thumbnail>https://i.imgur.com/P90VMS7.jpg</thumbnail>
+<thumbnail>https://i.imgur.com/T2ibdjM.jpg</thumbnail>
  <fanart>https://i.imgur.com/BTXNERT.jpg</fanart> 
  <info>[COLOR white][B]Buscador de Youtube donde podras buscar cualquier contenido relacionado con la ciencia infantil..[/B][/COLOR]</info>
 <regex>
