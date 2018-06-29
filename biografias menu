@@ -1,8 +1,20 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 
+
+
 <item>
-<title>[COLOR blue] Mas de 60 biografias de todos los tiempos.[/B][/COLOR]</title>
+<title>[COLOR blue] Mas de 65 biografias de todos los tiempos.[/B][/COLOR]</title>
 <link>nolink</link>
+<thumbnail>https://i.imgur.com/C4YeJQH.jpg</thumbnail>
+<fanart>https://i.imgur.com/UZDgTaz.jpg</fanart>
+ <info>[COLOR white][B]Biografia de los cientificos mas destacados de todos los tiempos.[/B][/COLOR]</title></info>
+</item>
+
+
+<item>
+<title>[COLOR blue][COLOR white][B] Biografia:[/COLOR] Nikola Tesla (1856 – 1943) [/B][/COLOR]</title>
+<link>ignore</link>
+<jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=biografia%20nikola%20tesla&search_type=playlist</jsonrpc>
 <thumbnail>https://i.imgur.com/C4YeJQH.jpg</thumbnail>
 <fanart>https://i.imgur.com/UZDgTaz.jpg</fanart>
  <info>[COLOR white][B]Biografia de los cientificos mas destacados de todos los tiempos.[/B][/COLOR]</title></info>
@@ -166,17 +178,6 @@ hawkigns[/B][/COLOR]</title>
  <info>[COLOR white][B]Biografia de los cientificos mas destacados de todos los tiempos.[/B][/COLOR]</title></info>
 </item>
 
-
-
-
-<item>
-<title>[COLOR blue][COLOR white][B] Biografia:[/COLOR] Nikola Tesla (1856 – 1943) [/B][/COLOR]</title>
-<link>ignore</link>
-<jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=biografia%20nikola%20tesla&search_type=playlist</jsonrpc>
-<thumbnail>https://i.imgur.com/C4YeJQH.jpg</thumbnail>
-<fanart>https://i.imgur.com/UZDgTaz.jpg</fanart>
- <info>[COLOR white][B]Biografia de los cientificos mas destacados de todos los tiempos.[/B][/COLOR]</title></info>
-</item>
 
 <item>
 <title>[COLOR blue][COLOR white][B] Biografia:[/COLOR] Rudolf Hertz (1857 – 1894)[/B][/COLOR]</title>
@@ -556,6 +557,22 @@ hawkigns[/B][/COLOR]</title>
 <item>
 <title>[COLOR blue][COLOR white][B] Biografia:[/COLOR] William Thomson (1824-1907) (1904-1967)[/B][/COLOR]</title>
 <jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=biografia%20william%20thomson&search_type=playlist</jsonrpc>
+<thumbnail>https://i.imgur.com/C4YeJQH.jpg</thumbnail>
+<fanart>https://i.imgur.com/UZDgTaz.jpg</fanart>
+ <info>[COLOR white][B]Biografia de los cientificos mas destacados de todos los tiempos.[/B][/COLOR]</title></info>
+</item>
+
+<item>
+<title>[COLOR blue][COLOR white][B] Biografia:[/COLOR] Michio Kaku  (1947) (1904-1967)[/B][/COLOR]</title>
+<jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=biografia%20Michio%20kaku&search_type=playlist</jsonrpc>
+<thumbnail>https://i.imgur.com/C4YeJQH.jpg</thumbnail>
+<fanart>https://i.imgur.com/UZDgTaz.jpg</fanart>
+ <info>[COLOR white][B]Biografia de los cientificos mas destacados de todos los tiempos.[/B][/COLOR]</title></info>
+</item>
+
+<item>
+<title>[COLOR blue][COLOR white][B] Biografia:[/COLOR] Stephen William Hawking (1942-2018)[/B][/COLOR]</title>
+<jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=biografia%20stephen%20william%20hawking&search_type=playlist</jsonrpc>
 <thumbnail>https://i.imgur.com/C4YeJQH.jpg</thumbnail>
 <fanart>https://i.imgur.com/UZDgTaz.jpg</fanart>
  <info>[COLOR white][B]Biografia de los cientificos mas destacados de todos los tiempos.[/B][/COLOR]</title></info>
