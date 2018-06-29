@@ -2,6 +2,15 @@
 
 
 <item>
+<title>[COLOR blue][COLOR white][B] Teoria:[/COLOR] Nikola Tesla [/B][/COLOR]</title>
+<link>ignore</link>
+<jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=Teorias%20nikola%20tesla&search_type=playlist</jsonrpc>
+<thumbnail>https://i.imgur.com/QbxMl9U.jpg</thumbnail>
+<fanart>https://i.imgur.com/UZDgTaz.jpg</fanart>
+ <info>[COLOR white][B]Teorias Cientificas de todos los tiempos...[/B][/COLOR]</title></info>
+</item>
+
+<item>
 <title>[COLOR blue][COLOR white][B] Teoria:[/COLOR] Einstein[/B][/COLOR]</title>
 <link>ignore</link>
 <jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=Teorias%20albert%20Einstein&search_type=playlist</jsonrpc>
@@ -189,14 +198,6 @@ hawkigns[/B][/COLOR]</title>
  <info>[COLOR white][B]Teorias Cientificas de todos los tiempos...[/B][/COLOR]</title></info>
 </item>
 
-<item>
-<title>[COLOR blue][COLOR white][B] Teoria:[/COLOR] Nikola Tesla [/B][/COLOR]</title>
-<link>ignore</link>
-<jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=Teorias%20nikola%20tesla&search_type=playlist</jsonrpc>
-<thumbnail>https://i.imgur.com/QbxMl9U.jpg</thumbnail>
-<fanart>https://i.imgur.com/UZDgTaz.jpg</fanart>
- <info>[COLOR white][B]Teorias Cientificas de todos los tiempos...[/B][/COLOR]</title></info>
-</item>
 
 <item>
 <title>[COLOR blue][COLOR white][B] Teoria:[/COLOR] Platon [/B][/COLOR]</title>
@@ -216,11 +217,19 @@ hawkigns[/B][/COLOR]</title>
  <info>[COLOR white][B]Teorias Cientificas de todos los tiempos...[/B][/COLOR]</title></info>
 </item>
 
+<item>
+<title>[COLOR blue][COLOR white][B] Teoria:[/COLOR] Michio Kaku [/B][/COLOR]</title>
+<link>ignore</link>
+<jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=Teorias%20michio%20kaku&search_type=playlist</jsonrpc>
+<thumbnail>https://i.imgur.com/QbxMl9U.jpg</thumbnail>
+<fanart>https://i.imgur.com/UZDgTaz.jpg</fanart>
+ <info>[COLOR white][B]Teorias Cientificas de todos los tiempos...[/B][/COLOR]</title></info>
+</item>
 
 
 <item><title>[COLOR blue][B] Buscador de Contenidos: Teoria[/B][/COLOR]</title>
 <link>$doregex[makelist]</link>
-<thumbnail>https://i.imgur.com/7FiCZLD.jpg</thumbnail>
+<thumbnail>https://i.imgur.com/T2ibdjM.jpg</thumbnail>
  <fanart>https://i.imgur.com/BTXNERT.jpg</fanart> 
  <info>[COLOR white][B]Buscador de Youtube donde podras encontrar todo el contenido relacionado con las Teorias...[/B][/COLOR]</info>
 <regex>
@@ -228,7 +237,7 @@ hawkigns[/B][/COLOR]</title>
 <listrepeat><![CDATA[
 <title>[COLOR white] Tesla: [/COLOR][COLOR blue][makelist.param2][/COLOR]</title>
 <link>$doregex[resolve]</link>
-<thumbnail>https://i.imgur.com/7FiCZLD.jpg</thumbnail>
+<thumbnail>https://i.imgur.com/T2ibdjM.jpg</thumbnail>
   <fanart>https://i.imgur.com/6E60Hfb.jpg</fanart> 
 ]]></listrepeat>
 <expres>u'(.+?)', u'(.+?)'</expres>
