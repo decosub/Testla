@@ -75,6 +75,8 @@
 
 </item>
 
+
+
 <item>
 <title>[COLOR blue][COLOR white][B] Dibujos:[/B][/COLOR][B] Erase una vez Los inventores[/B][/COLOR]</title>  
 <thumbnail>https://i.imgur.com/VKBH0se.jpg</thumbnail>
@@ -89,7 +91,7 @@
 <fanart>https://i.imgur.com/P90VMS7.jpg</fanart>
             ]]></listrepeat>
             <expres>data-video-title="(.*?)".*?\n.*?\n.*?\n.*?\n.*?&lt;a href="\/watch\?v=(.*?)&amp;</expres>
-            <page>https://www.youtube.com/watch?v=m0RuxuqcBu4&amp;list=PLszetnrCUXJmUx0z_Rb8k0smvnkBhcNEX</page>
+           <page>https://www.youtube.com/watch?v=m0RuxuqcBu4&amp;list=PLszetnrCUXJmUx0z_Rb8k0smvnkBhcNEX</page>
              <cookieJar></cookieJar>
 </regex>
 
@@ -97,12 +99,22 @@
 
 
 <item>
-<title>[COLOR blue][COLOR white][B] Dibujos:[/B][/COLOR][B] Sid, El Niño Cientifico[/B][/COLOR]</title>  
-<link>ignore</link>
-<jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=sid+el+niño+cientifico&search_type=playlist</jsonrpc>
-<thumbnail>https://i.imgur.com/P90VMS7.jpg</thumbnail>
+<title>[COLOR blue][COLOR white][B] Dibujos:[/B][/COLOR][B] prueba[/B][/COLOR]</title> 
+<thumbnail>https://i.imgur.com/SzmK1lc.jpg</thumbnail>
 <fanart>https://i.imgur.com/P90VMS7.jpg</fanart>
-</item>
+<link>$doregex[makelist]</link>
+<regex>
+            <name>makelist</name>
+            <listrepeat><![CDATA[
+                        <title>[makelist.param1]</title>
+                        <link>plugin://plugin.video.youtube/play/?video_id=[makelist.param2]</link>
+                   <thumbnail>https://i.imgur.com/SzmK1lc.jpg</thumbnail>
+<fanart>https://i.imgur.com/P90VMS7.jpg</fanart>
+            ]]></listrepeat>
+            <expres>data-video-title="(.*?)".*?\n.*?\n.*?\n.*?\n.*?&lt;a href="\/watch\?v=(.*?)&amp;</expres>
+            <page>https://www.youtube.com/watch?v=m0RuxuqcBu4&list=PLszetnrCUXJmUx0z_Rb8k0smvnkBhcNEX</page>
+             <cookieJar></cookieJar>
+</regex>
 
 <item>
 <title>[COLOR blue][B] Volver al Menu Principal...[/B][/COLOR]</title>
