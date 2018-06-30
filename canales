@@ -125,7 +125,7 @@
 </item>
 
 <item>
-<title>[COLOR blue][COLOR white][B] Canales:[/B][/COLOR][B] TuCiencia - Matemática [/B][/COLOR]</title>
+<title>[COLOR blue][COLOR white][B] Canales:[/B][/COLOR][B] Tu Ciencia - Matemática [/B][/COLOR]</title>
 <link>ignore</link>https://www.youtube.com
 <jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=tuciencia+matematica&list=UUzodzc6Pkm5hLIcLA2E8XWQ</jsonrpc>
 <thumbnail>https://i.imgur.com/sFaxWx3.jpg</thumbnail>
@@ -146,7 +146,7 @@
 </item>
 
 <item>
-<title>[COLOR blue][COLOR white][B] Canales:[/B][/COLOR][B] CANAL SALUD - Facultad de Ciencias Médicas - UNC[B][/COLOR]</title> 
+<title>[COLOR blue][COLOR white][B] Canales:[/B][/COLOR][B] CANAL SALUD - Facultad de Ciencias Médicas - UNC[/B][/COLOR]</title> 
 <link>ignore</link>
 <jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=canal+salud&list=UUDnOwChGE8nOJuEboU-ATDA</jsonrpc>
 <thumbnail>https://i.imgur.com/sFaxWx3.jpg</thumbnail>
