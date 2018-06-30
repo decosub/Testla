@@ -3,6 +3,7 @@
 
 <item>
 <title>[COLOR blue] Canales de Ciencias: [/B][/COLOR]</title>
+<link>nolink</link>
 <thumbnail>https://i.imgur.com/sFaxWx3.jpg</thumbnail>
 <fanart>https://i.imgur.com/UGq4p8k.jpg</fanart>
 <info>[COLOR lime][B]Canales Especializados de YouTube donde encontraras las ultimas noticias y contenido exclusivo...[/B][/COLOR]</title></info>
@@ -229,6 +230,7 @@
 
 <item>
 <title>[COLOR blue] Canales de Fisica:[/B][/COLOR]</title>
+<link>nolink</link>
 <thumbnail>https://i.imgur.com/sFaxWx3.jpg</thumbnail>
 <fanart>https://i.imgur.com/UGq4p8k.jpg</fanart>
 <info>[COLOR lime][B]Canales Especializados de YouTube donde encontraras las ultimas noticias y contenido exclusivo...[/B][/COLOR]</title></info>
@@ -324,6 +326,7 @@
 
 <item>
 <title>[COLOR blue] Canales de Astronomia:[/B][/COLOR]</title>
+<link>nolink</link>
 <thumbnail>https://i.imgur.com/sFaxWx3.jpg</thumbnail>
 <fanart>https://i.imgur.com/UGq4p8k.jpg</fanart>
 <info>[COLOR lime][B]Canales Especializados de YouTube donde encontraras las ultimas noticias y contenido exclusivo...[/B][/COLOR]</title></info>
@@ -358,7 +361,7 @@
 <item>
 <title>[COLOR blue][COLOR white][B] Canales:[/B][/COLOR][B] MARDUK Ciencias[/B][/COLOR]</title>
 <link>ignore</link>https://www.youtube.com
-<jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=rN0xObZJSYY&list=UU61HG9u3l7JpzqIeTatnr3A</jsonrpc>
+<jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=rN0xObZJSYYsp=UU61HG9u3l7JpzqIeTatnr3A</jsonrpc>
 <thumbnail>https://i.imgur.com/sFaxWx3.jpg</thumbnail>
 <fanart>https://i.imgur.com/UGq4p8k.jpg</fanart>
  <info>[COLOR lime][B]Canales Especializados de YouTube donde encontraras las ultimas noticias y contenido exclusivo...[/B][/COLOR]</title></info>
@@ -367,7 +370,7 @@
 <item>
 <title>[COLOR blue][COLOR white][B] Canales:[/B][/COLOR][B] El Cosmos[/B][/COLOR]</title>
 <link>ignore</link>https://www.youtube.com
-<jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=lvdmoGS2d9M&list=UUj55TmTgf5SDJE31Yn8gO-Q</jsonrpc>
+<jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=lvdmoGS2d9M&sp=UUj55TmTgf5SDJE31Yn8gO-Q</jsonrpc>
 <thumbnail>https://i.imgur.com/sFaxWx3.jpg</thumbnail>
 <fanart>https://i.imgur.com/UGq4p8k.jpg</fanart>
  <info>[COLOR lime][B]Canales Especializados de YouTube donde encontraras las ultimas noticias y contenido exclusivo...[/B][/COLOR]</title></info>
@@ -376,7 +379,7 @@
 <item>
 <title>[COLOR blue][COLOR white][B] Canales:[/B][/COLOR][B] Asociacion de Aficionados a la Astronomia
 [/B][/COLOR]</title>
-<jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=EIJu2Pw-1GY&list=UUBr8gC7v6kRJ-_bYxGcKZlQg</jsonrpc>
+<jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=EIJu2Pw-1GY&sp=UUBr8gC7v6kRJ-_bYxGcKZlQg</jsonrpc>
 <thumbnail>https://i.imgur.com/sFaxWx3.jpg</thumbnail>
 <fanart>https://i.imgur.com/UGq4p8k.jpg</fanart>
 <info>[COLOR lime][B]Canales Especializados de YouTube donde encontraras las ultimas noticias y contenido exclusivo...[/B][/COLOR]</title></info>
