@@ -64,6 +64,16 @@
 <fanart>https://i.imgur.com/UZDgTaz.jpg</fanart>
 </item>
 
+
+<item>
+
+<title>[COLOR blue][COLOR white][B] Manualidades:[/B][/COLOR][B] El mundo de Beakman [B][/COLOR]</title>  [/B][/COLOR]</title>
+<link>ignore</link>
+<jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=el+mundo+de+beakman+castellano&search_type=playlist</jsonrpc>
+<thumbnail>https://i.imgur.com/P90VMS7.jpg</thumbnail>
+<fanart>https://i.imgur.com/UZDgTaz.jpg</fanart>
+</item>
+
 <item><title>[COLOR blue][B] Buscador de Contenidos: Semillas[/B][/COLOR]</title>
 <link>$doregex[makelist]</link>
 <thumbnail>https://i.imgur.com/T2ibdjM.jpg</thumbnail>
