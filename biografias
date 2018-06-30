@@ -13,7 +13,7 @@
 
 <title>[COLOR blue][COLOR white][B] Biografias:[/B][/COLOR][B] Mujeres que cambiaron la Historia[/B][/COLOR]</title> [/B][/COLOR]</title>
 <link>ignore</link>
-<jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=documentales+mujeres+que+cambiaron+la+historia&search_type=playlist</jsonrpc>
+<jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=mujeres+que+cambiaron+la+historia&search_type=playlist</jsonrpc>
 <thumbnail>https://i.imgur.com/C4YeJQH.jpg</thumbnail>
 <fanart>https://i.imgur.com/UZDgTaz.jpg</fanart>
 </item>
