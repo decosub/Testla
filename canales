@@ -354,7 +354,7 @@
 <item>
 <title>[COLOR blue][COLOR white][B] Canales:[/B][/COLOR][B] MARDUK Ciencias[/B][/COLOR]</title>
 <link>ignore</link>https://www.youtube.com
-<jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=rN0xObZJSYYsp=UU61HG9u3l7JpzqIeTatnr3A</jsonrpc>
+<jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=rN0xObZJSYY&sp=UU61HG9u3l7JpzqIeTatnr3A</jsonrpc>
 <thumbnail>https://i.imgur.com/sFaxWx3.jpg</thumbnail>
 <fanart>https://i.imgur.com/UGq4p8k.jpg</fanart>
 <info>[COLOR white][B][B]Canales Especializados de YouTube donde encontraras las ultimas noticias y contenido exclusivo...[/B][/COLOR]</title></info>
@@ -363,10 +363,10 @@
 <item>
 <title>[COLOR blue][COLOR white][B] Canales:[/B][/COLOR][B] El Cosmos[/B][/COLOR]</title>
 <link>ignore</link>https://www.youtube.com
-<jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=el+cosmo=UUj55TmTgf5SDJE31Yn8gO-Q</jsonrpc>
+<jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=el+cosmo&list=UUj55TmTgf5SDJE31Yn8gO-Q</jsonrpc>
 <thumbnail>https://i.imgur.com/sFaxWx3.jpg</thumbnail>
 <fanart>https://i.imgur.com/UGq4p8k.jpg</fanart>
-<info>[COLOR white][B]Canales Especializados de YouTube donde encontraras las ultimas noticias y contenido exclusivo...[/B][/COLOR]</title></info>
+<info>[COLOR lime][B]Canales Especializados de YouTube donde encontraras las ultimas noticias y contenido exclusivo...[/B][/COLOR]</title></info>
 </item>
 
 <item>
@@ -384,6 +384,6 @@
 <link>ignore</link>
 <externallink>https://bit.ly/2lqcXV2</externallink>
 <thumbnail>https://i.imgur.com/TK6sjvQ.jpg</thumbnail>
-<fanart>https://i.imgur.com/BTXNERT.jpg</fanart>
+<fanart>https://i.imgur.com/zBlww2I.jpg</fanart>
 <info>[COLOR white][B]Volver al Menu Principal...[/B][/COLOR]</title></info>
 </item>
