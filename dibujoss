@@ -34,6 +34,46 @@
 <fanart>https://i.imgur.com/P90VMS7.jpg</fanart>
 </item>
 
+
+<item>
+
+<title>[COLOR blue][COLOR white][B] Dibujos:[/B][/COLOR][B] prueba[/B][/COLOR]</title> 
+<link><link>plugin://plugin.video.youtube/play/?video_id=PLVsZWZlCMkpudAq37giQ10nOCF6R2kiNq</link>
+<jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=erase+una+vez+el+espacio&list=PLszetnrCUXJm76e8lCNmrAlDfrhWtrJkT</jsonrpc>
+<thumbnail>https://i.imgur.com/P90VMS7.jpg</thumbnail>
+<fanart>https://i.imgur.com/P90VMS7.jpg</fanart>
+</item>
+
+
+<item>
+
+<title>[COLOR blue][COLOR white][B] Dibujos:[/B][/COLOR][B] prueba 2[/B][/COLOR]</title> 
+<link><link>plugin://plugin.video.youtube/play/?video_id=eVFu0-sjuAE&list=PLszetnrCUXJm76e8lCNmrAlDfrhWtrJkT</link>
+<jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=erase+una+vez+el+espacio&list=PLszetnrCUXJm76e8lCNmrAlDfrhWtrJkT</jsonrpc>
+<thumbnail>https://i.imgur.com/P90VMS7.jpg</thumbnail>
+<fanart>https://i.imgur.com/P90VMS7.jpg</fanart>
+</item>
+
+<item>
+<title>prueba 3</title>
+     <thumbnail>https://i.imgur.com/P90VMS7.jpg</thumbnail>
+<fanart>https://i.imgur.com/P90VMS7.jpg</fanart>
+<link>$doregex[makelist]</link>
+<regex>
+            <name>makelist</name>
+            <listrepeat><![CDATA[
+                        <title>[makelist.param1]</title>
+                        <link>plugin://plugin.video.youtube/play/?video_id=[makelist.param2]</link>
+                   <thumbnail>https://i.imgur.com/P90VMS7.jpg</thumbnail>
+<fanart>https://i.imgur.com/P90VMS7.jpg</fanart>
+            ]]></listrepeat>
+            <expres>data-video-title="(.*?)".*?\n.*?\n.*?\n.*?\n.*?&lt;a href="\/watch\?v=(.*?)&amp;</expres>
+            <page>https://www.youtube.com/watch?v=sjuAE&amp;list=PLszetnrCUXJm76e8lCNmrAlDfrhWtrJkT</page>
+             <cookieJar></cookieJar>
+</regex>
+
+</item>
+
 <item>
 
 <title>[COLOR blue][COLOR white][B] Dibujos:[/B][/COLOR][B] Erase una vez Los inventores[/B][/COLOR]</title>  
