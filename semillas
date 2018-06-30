@@ -11,81 +11,10 @@
  <info>[COLOR white][B]Ciencia para los mas pequeños de la casa , sembrar la curiosidad en ellos para que el dia de mañana...[/B][/COLOR]</title></info>
 </item>
 
-
-<item>
-
-<title>[COLOR blue][COLOR white][B] Semillas:[/B][/COLOR][B] Experimentos Caseros[/B][/COLOR]</title>
-<link>ignore</link>
-<jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=experimentos+caseros+niños&search_type=playlist</jsonrpc>
-<thumbnail>https://i.imgur.com/P90VMS7.jpg</thumbnail>
-<fanart>https://i.imgur.com/UZDgTaz.jpg</fanart>
- <info>[COLOR white][B]Ciencia para los mas pequeños de la casa , sembrar la curiosidad en ellos para que el dia de mañana...[/B][/COLOR]</title></info>
-</item>
-
-
-<item>
-
-<title>[COLOR blue][COLOR white][B] Semillas:[/B][/COLOR][B] Ciencias para Niños[/B][/COLOR]</title>
-<link>ignore</link>
-<jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=ciencias+naurales+para+niños&search_type=playlist</jsonrpc>
-<thumbnail>https://i.imgur.com/P90VMS7.jpg</thumbnail>
-<fanart>https://i.imgur.com/UZDgTaz.jpg</fanart>
- <info>[COLOR white][B]Ciencia para los mas pequeños de la casa , sembrar la curiosidad en ellos para que el dia de mañana...[/B][/COLOR]</title></info>
-</item>
-
-
-
-<item>
-
-<title>[COLOR blue][COLOR white][B] Semillas:[/B][/COLOR][B] Matematicas para Niños[/B][/COLOR]</title>
-<link>ignore</link>
-<jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=matematicas+para+niños&search_type=playlist</jsonrpc>
-<thumbnail>https://i.imgur.com/P90VMS7.jpg</thumbnail>
-<fanart>https://i.imgur.com/P90VMS7.jpg</fanart>
- <info>[COLOR white][B]Ciencia para los mas pequeños de la casa , sembrar la curiosidad en ellos para que el dia de mañana...[/B][/COLOR]</title></info>
-</item>
-
-
-
-<item>
-
-<title>[COLOR blue][COLOR white][B] Semillas:[/B][/COLOR][B] Astronomia[/B][/COLOR]</title>
-<link>ignore</link>
-<jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=astronomia+para+niños&search_type=playlist</jsonrpc>
-<thumbnail>https://i.imgur.com/P90VMS7.jpg</thumbnail>
-<fanart>https://i.imgur.com/P90VMS7.jpg</fanart>
- <info>[COLOR white][B]Ciencia para los mas pequeños de la casa , sembrar la curiosidad en ellos para que el dia de mañana...[/B][/COLOR]</title></info>
-</item>
-
-
-
-<item>
-
-<title>[COLOR blue][COLOR white][B] Semillas:[/B][/COLOR][B] Manualidades[/B][/COLOR]</title>
-<link>ignore</link>
-<jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=manualidades+para+niños&search_type=playlist</jsonrpc>
-<thumbnail>https://i.imgur.com/P90VMS7.jpg</thumbnail>
-<fanart>https://i.imgur.com/P90VMS7.jpg</fanart>
- <info>[COLOR white][B]Ciencia para los mas pequeños de la casa , sembrar la curiosidad en ellos para que el dia de mañana...[/B][/COLOR]</title></info>
-</item>
-
-
-
-<item>
-<title>[COLOR blue][COLOR white][B] Semillas:[/B][/COLOR][B] Oragamis[/B][/COLOR]</title>
-<link>ignore</link>
-<jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=oragamis+para+niños&search_type=playlist</jsonrpc>
-<thumbnail>https://i.imgur.com/P90VMS7.jpg</thumbnail>
-<fanart>https://i.imgur.com/P90VMS7.jpg</fanart>
- <info>[COLOR white][B]Ciencia para los mas pequeños de la casa , sembrar la curiosidad en ellos para que el dia de mañana...[/B][/COLOR]</title></info>
-</item>
-
-
-
 <item>
 <title>[COLOR blue][COLOR white][B] Semillas:[/B][/COLOR][B] Muy Interesante[/B][/COLOR]</title>  
 <link>ignore</link>
-<jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=muy+interesante+kids&search_type=playlist</jsonrpc>
+<jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=muy+interesante+junior&list=UUM9ptKzZOJZ--JRSLPlVOcQ</jsonrpc>
 <thumbnail>https://i.imgur.com/P90VMS7.jpg</thumbnail>
 <fanart>https://i.imgur.com/P90VMS7.jpg</fanart>
  <info>[COLOR white][B]Ciencia para los mas pequeños de la casa , sembrar la curiosidad en ellos para que el dia de mañana...[/B][/COLOR]</title></info>
@@ -101,33 +30,6 @@
  <info>[COLOR white][B]Ciencia para los mas pequeños de la casa , sembrar la curiosidad en ellos para que el dia de mañana...[/B][/COLOR]</title></info>
 </item>
 
-
-<item>
-<title>[COLOR blue][COLOR white][B] Semillas:[/B][/COLOR][B] Manualidades [/B][/COLOR]</title> 
-<link>ignore</link>
-<jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=manialidades+para+niños+castellano&search_type=playlist</jsonrpc>
-<thumbnail>https://i.imgur.com/P90VMS7.jpg</thumbnail>
-<fanart>https://i.imgur.com/UZDgTaz.jpg</fanart>
- <info>[COLOR white][B]Ciencia para los mas pequeños de la casa , sembrar la curiosidad en ellos para que el dia de mañana...[/B][/COLOR]</title></info>
-</item>
-
-<item>
-<title>[COLOR blue][COLOR white][B] Semillas:[/B][/COLOR][B] Ciencias Matematicas [/B][/COLOR]</title> 
-<link>ignore</link>
-<jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=matematicas+para+niños+castellano&search_type=playlist</jsonrpc>
-<thumbnail>https://i.imgur.com/P90VMS7.jpg</thumbnail>
-<fanart>https://i.imgur.com/UZDgTaz.jpg</fanart>
- <info>[COLOR white][B]Ciencia para los mas pequeños de la casa , sembrar la curiosidad en ellos para que el dia de mañana...[/B][/COLOR]</title></info>
-</item>
-
-<item>
-<title>[COLOR blue][COLOR white][B] Semillas:[/B][/COLOR][B] Ciencias Naturales [/B][/COLOR]</title> 
-<link>ignore</link>
-<jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=ciencias+naturales+para+niños+castellano&search_type=playlist</jsonrpc>
-<thumbnail>https://i.imgur.com/P90VMS7.jpg</thumbnail>
-<fanart>https://i.imgur.com/UZDgTaz.jpg</fanart>
- <info>[COLOR white][B]Ciencia para los mas pequeños de la casa , sembrar la curiosidad en ellos para que el dia de mañana...[/B][/COLOR]</title></info>
-</item>
 
 <item>
 <title>[COLOR blue][B] Buscador de Contenidos: Semillas[/B][/COLOR]</title>
@@ -221,6 +123,6 @@ class InputWindow(xbmcgui.WindowDialog):
 <link>ignore</link>
 <externallink>https://bit.ly/2lqcXV2</externallink>
 <thumbnail>https://i.imgur.com/TK6sjvQ.jpg</thumbnail>
-<fanart>https://i.imgur.com/BTXNERT.jpg</fanart>
+<fanart>https://i.imgur.com/zBlww2I.jpg</fanart>
 <info>[COLOR white][B]Volver al Menu Principal...[/B][/COLOR]</title></info>
 </item>
