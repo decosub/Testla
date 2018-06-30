@@ -1,6 +1,6 @@
 <item>
 
-<title>[COLOR blue][COLOR white][B] Semillas:[/B][/COLOR][B] Dibujos Animados[/B][/COLOR]</title>  [/B][/COLOR]</title>
+<title>[COLOR blue][COLOR white][B] Semillas:[/B][/COLOR][B] Dibujos Animados[/B][/COLOR]</title>
 <link>ignore</link>
 <externallink>https://bit.ly/2N9f38c</externallink>
 <thumbnail>https://i.imgur.com/P90VMS7.jpg</thumbnail>
@@ -29,16 +29,16 @@
 
 <item>
 
-<title>[COLOR blue][COLOR white][B] Semillas:[/B][/COLOR][B] Matematicas[B][/COLOR]</title>  [/B][/COLOR]</title>
+<title>[COLOR blue][COLOR white][B] Semillas:[/B][/COLOR][B] Matematicas[B][/COLOR]</title> 
 <link>ignore</link>
-<jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=matematicas+para+&search_type=playlist</jsonrpc>
+<jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=matematicas+para+niños&search_type=playlist</jsonrpc>
 <thumbnail>https://i.imgur.com/P90VMS7.jpg</thumbnail>
 <fanart>https://i.imgur.com/UZDgTaz.jpg</fanart>
 </item>
 
 <item>
 
-<title>[COLOR blue][COLOR white][B] Manualidades:[/B][/COLOR][B] Manualidades[B][/COLOR]</title>  [/B][/COLOR]</title>
+<title>[COLOR blue][COLOR white][B] Manualidades:[/B][/COLOR][B] Manualidades[B][/COLOR]</title>  
 <link>ignore</link>
 <jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=manualidades+ciencias&search_type=playlist</jsonrpc>
 <thumbnail>https://i.imgur.com/P90VMS7.jpg</thumbnail>
@@ -47,7 +47,7 @@
 
 <item>
 
-<title>[COLOR blue][COLOR white][B] Manualidades:[/B][/COLOR][B] Oragamis[B][/COLOR]</title>  [/B][/COLOR]</title>
+<title>[COLOR blue][COLOR white][B] Manualidades:[/B][/COLOR][B] Oragamis[B][/COLOR]</title>
 <link>ignore</link>
 <jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=oragamis+para+niños&search_type=playlist</jsonrpc>
 <thumbnail>https://i.imgur.com/P90VMS7.jpg</thumbnail>
