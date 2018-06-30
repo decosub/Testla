@@ -1,6 +1,6 @@
 <item>
 
-<title>[COLOR blue][COLOR white][B] Dibujos:[/B][/COLOR][B] Erase una vez el Cuerpo Humano[B][/COLOR]</title> 
+<title>[COLOR blue][COLOR white][B] Dibujos:[/B][/COLOR][B] Erase una vez el Cuerpo Humano[/B][/COLOR]</title> 
 <link>ignore</link>
 <jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=documentales+de+mentes+brillantes&list=PLaMtngjAPMkGl_npx-pVf0wKt4_gjveub</jsonrpc>
 <thumbnail>https://i.imgur.com/P90VMS7.jpg</thumbnail>
@@ -9,7 +9,7 @@
 
 <item>
 
-<title>[COLOR blue][COLOR white][B] Dibujos:[/B][/COLOR][B] Erase una vez La Vida[B][/COLOR]</title> 
+<title>[COLOR blue][COLOR white][B] Dibujos:[/B][/COLOR][B] Erase una vez La Vida[/B][/COLOR]</title> 
 <link>ignore</link>
 <jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=erase+una+vez+la+vida&list=PLM3zaEIjzXIXj4nHfxCYh3jxTbcbImw7g</jsonrpc>
 <thumbnail>https://i.imgur.com/P90VMS7.jpg</thumbnail>
@@ -18,7 +18,7 @@
 
 <item>
 
-<title>[COLOR blue][COLOR white][B] Dibujos:[/B][/COLOR][B] Erase una vez El Hombre[B][/COLOR]</title> 
+<title>[COLOR blue][COLOR white][B] Dibujos:[/B][/COLOR][B] Erase una vez El Hombre[/B][/COLOR]</title> 
 <link>ignore</link>
 <jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=erase+una+vez+el+hombre&list=PLM3zaEIjzXIX0lfjtdMiflymrv2tzS1ph</jsonrpc>
 <thumbnail>https://i.imgur.com/P90VMS7.jpg</thumbnail>
@@ -27,7 +27,7 @@
 
 <item>
 
-<title>[COLOR blue][COLOR white][B] Dibujos:[/B][/COLOR][B] Erase una vez El Espacio[B][/COLOR]</title> 
+<title>[COLOR blue][COLOR white][B] Dibujos:[/B][/COLOR][B] Erase una vez El Espacio[/B][/COLOR]</title> 
 <link>ignore</link>
 <jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=erase+una+vez+el+espacio&list=PLszetnrCUXJm76e8lCNmrAlDfrhWtrJkT</jsonrpc>
 <thumbnail>https://i.imgur.com/P90VMS7.jpg</thumbnail>
@@ -36,7 +36,7 @@
 
 <item>
 
-<title>[COLOR blue][COLOR white][B] Dibujos:[/B][/COLOR][B] Erase una vez Los inventores[B][/COLOR]</title>  
+<title>[COLOR blue][COLOR white][B] Dibujos:[/B][/COLOR][B] Erase una vez Los inventores[/B][/COLOR]</title>  
 <link>ignore</link>
 <jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=erase+una+vez+los+inventores&list=PLk3AaB9XwzaB6Obva41TY8IEhIbMDz9tl</jsonrpc>
 <thumbnail>https://i.imgur.com/P90VMS7.jpg</thumbnail>
@@ -45,7 +45,7 @@
 
 <item>
 
-<title>[COLOR blue][COLOR white][B] Dibujos:[/B][/COLOR][B] Sid, El Niño Cientifico[B][/COLOR]</title>  
+<title>[COLOR blue][COLOR white][B] Dibujos:[/B][/COLOR][B] Sid, El Niño Cientifico[/B][/COLOR]</title>  
 <link>ignore</link>
 <jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=sid+el+niño+cientifico&search_type=playlist</jsonrpc>
 <thumbnail>https://i.imgur.com/P90VMS7.jpg</thumbnail>
