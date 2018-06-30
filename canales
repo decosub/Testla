@@ -2,11 +2,11 @@
 
 
 <item>
-<title>[COLOR blue] Canales de Ciencias: [/B][/COLOR]</title>
+<title>[COLOR blue][B] Canales de Ciencias: [/B][/COLOR]</title>
 <link>nolink</link>
 <thumbnail>https://i.imgur.com/sFaxWx3.jpg</thumbnail>
 <fanart>https://i.imgur.com/UGq4p8k.jpg</fanart>
-<info>[COLOR lime][B]Canales Especializados de YouTube donde encontraras las ultimas noticias y contenido exclusivo...[/B][/COLOR]</title></info>
+<info>[COLOR white][B][B]Canales Especializados de YouTube donde encontraras las ultimas noticias y contenido exclusivo...[/B][/COLOR]</title></info>
 </item>
 
 <item>
@@ -14,7 +14,7 @@
 <jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=D6I43tYW8MY&list=UUaVPhFg-Ax873wvhbNitsrQ</jsonrpc>
 <thumbnail>https://i.imgur.com/sFaxWx3.jpg</thumbnail>
 <fanart>https://i.imgur.com/UGq4p8k.jpg</fanart>
-<info>[COLOR lime][B]Canales Especializados de YouTube donde encontraras las ultimas noticias y contenido exclusivo...[/B][/COLOR]</title></info>
+<info>[COLOR white][B][B]Canales Especializados de YouTube donde encontraras las ultimas noticias y contenido exclusivo...[/B][/COLOR]</title></info>
 </item>
 
 <item>
@@ -23,7 +23,7 @@
 <jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=yhahYyvL-J4&list=UUbdSYaPD-lr1kW27UJuk8Pw</jsonrpc>
 <thumbnail>https://i.imgur.com/sFaxWx3.jpg</thumbnail>
 <fanart>https://i.imgur.com/UGq4p8k.jpg</fanart>
- <info>[COLOR lime][B]Canales Especializados de YouTube donde encontraras las ultimas noticias y contenido exclusivo...[/B][/COLOR]</title></info>
+<info>[COLOR white][B][B]Canales Especializados de YouTube donde encontraras las ultimas noticias y contenido exclusivo...[/B][/COLOR]</title></info>
 </item>
 
 <item>
@@ -32,7 +32,7 @@
 <jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=L7EoKYSCKUg&list=UUgnrHau2szESzbptQw160Uw</jsonrpc>
 <thumbnail>https://i.imgur.com/sFaxWx3.jpg</thumbnail>
 <fanart>https://i.imgur.com/UGq4p8k.jpg</fanart>
- <info>[COLOR lime][B]Canales Especializados de YouTube donde encontraras las ultimas noticias y contenido exclusivo...[/B][/COLOR]</title></info>
+ <info>[COLOR white][B][B]Canales Especializados de YouTube donde encontraras las ultimas noticias y contenido exclusivo...[/B][/COLOR]</title></info>
 </item>
 
 <item>
@@ -40,7 +40,7 @@
 <jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=w7H4ok_XwbI&list=UU52hytXteCKmuOzMViTK8_w</jsonrpc>
 <thumbnail>https://i.imgur.com/sFaxWx3.jpg</thumbnail>
 <fanart>https://i.imgur.com/UGq4p8k.jpg</fanart>
-<info>[COLOR lime][B]Canales Especializados de YouTube donde encontraras las ultimas noticias y contenido exclusivo...[/B][/COLOR]</title></info>
+<info>[COLOR white][B][B]Canales Especializados de YouTube donde encontraras las ultimas noticias y contenido exclusivo...[/B][/COLOR]</title></info>
 </item>
 
 
@@ -51,7 +51,7 @@
 <jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=n88XfA6gL4M&list=UUeObVuNABeWTuCvqInZwO_A</jsonrpc>
 <thumbnail>https://i.imgur.com/sFaxWx3.jpg</thumbnail>
 <fanart>https://i.imgur.com/UGq4p8k.jpg</fanart>
- <info>[COLOR lime][B]Canales Especializados de YouTube donde encontraras las ultimas noticias y contenido exclusivo...[/B][/COLOR]</title></info>
+<info>[COLOR white][B][B]Canales Especializados de YouTube donde encontraras las ultimas noticias y contenido exclusivo...[/B][/COLOR]</title></info>
 </item>
 
 <item>
@@ -59,7 +59,7 @@
 <jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=nDZjkAWeDUI&list=UUvU36pmdvpcp4H1mdR6RnGQ</jsonrpc>
 <thumbnail>https://i.imgur.com/sFaxWx3.jpg</thumbnail>
 <fanart>https://i.imgur.com/UGq4p8k.jpg</fanart>
-<info>[COLOR lime][B]Canales Especializados de YouTube donde encontraras las ultimas noticias y contenido exclusivo...[/B][/COLOR]</title></info>
+<info>[COLOR white][B][B]Canales Especializados de YouTube donde encontraras las ultimas noticias y contenido exclusivo...[/B][/COLOR]</title></info>
 </item>
 
 <item>
@@ -68,9 +68,8 @@
 <jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=9ewa2EgNKEE&list=UUzodzc6Pkm5hLIcLA2E8XWQ</jsonrpc>
 <thumbnail>https://i.imgur.com/sFaxWx3.jpg</thumbnail>
 <fanart>https://i.imgur.com/UGq4p8k.jpg</fanart>
- <info>[COLOR lime][B]Canales Especializados de YouTube donde encontraras las ultimas noticias y contenido exclusivo...[/B][/COLOR]</title></info>
+<info>[COLOR white][B][B]Canales Especializados de YouTube donde encontraras las ultimas noticias y contenido exclusivo...[/B][/COLOR]</title></info>
 </item>
-
 
 
 
@@ -81,7 +80,7 @@
 <jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=ljoienTWXPY&list=UUfWIRiAGvtLMzTqCX6TcMFA</jsonrpc>
 <thumbnail>https://i.imgur.com/sFaxWx3.jpg</thumbnail>
 <fanart>https://i.imgur.com/UGq4p8k.jpg</fanart>
-<info>[COLOR lime][B]Canales Especializados de YouTube donde encontraras las ultimas noticias y contenido exclusivo...[/B][/COLOR]</title></info>
+<info>[COLOR white][B][B]Canales Especializados de YouTube donde encontraras las ultimas noticias y contenido exclusivo...[/B][/COLOR]</title></info>
 </item>
 
 <item>
@@ -90,7 +89,7 @@
 <jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=hH-hMcVMV84&list=UUijeV9aEWlyQm-YlcecSIcg</jsonrpc>
 <thumbnail>https://i.imgur.com/sFaxWx3.jpg</thumbnail>
 <fanart>https://i.imgur.com/UGq4p8k.jpg</fanart>
- <info>[COLOR lime][B]Canales Especializados de YouTube donde encontraras las ultimas noticias y contenido exclusivo...[/B][/COLOR]</title></info>
+<info>[COLOR white][B][B]Canales Especializados de YouTube donde encontraras las ultimas noticias y contenido exclusivo...[/B][/COLOR]</title></info>
 </item>
 
 <item>
@@ -99,7 +98,7 @@
 <jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=W9nNN1HYm7g&list=UUGI4-1qkN46DuLZW4DeViJQ</jsonrpc>
 <thumbnail>https://i.imgur.com/sFaxWx3.jpg</thumbnail>
 <fanart>https://i.imgur.com/UGq4p8k.jpg</fanart>
- <info>[COLOR lime][B]Canales Especializados de YouTube donde encontraras las ultimas noticias y contenido exclusivo...[/B][/COLOR]</title></info>
+<info>[COLOR white][B][B]Canales Especializados de YouTube donde encontraras las ultimas noticias y contenido exclusivo...[/B][/COLOR]</title></info>
 </item>
 
 <item>
@@ -107,7 +106,7 @@
 <jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=JJwJ2LcuIiw&list=UUaUoxsXtMhHGPdTNFdJtSDg</jsonrpc>
 <thumbnail>https://i.imgur.com/sFaxWx3.jpg</thumbnail>
 <fanart>https://i.imgur.com/UGq4p8k.jpg</fanart>
-<info>[COLOR lime][B]Canales Especializados de YouTube donde encontraras las ultimas noticias y contenido exclusivo...[/B][/COLOR]</title></info>
+<info>[COLOR white][B][B]Canales Especializados de YouTube donde encontraras las ultimas noticias y contenido exclusivo...[/B][/COLOR]</title></info>
 </item>
 
 <item>
@@ -116,9 +115,8 @@
 <jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=9ewa2EgNKEE&list=UUzodzc6Pkm5hLIcLA2E8XWQ</jsonrpc>
 <thumbnail>https://i.imgur.com/sFaxWx3.jpg</thumbnail>
 <fanart>https://i.imgur.com/UGq4p8k.jpg</fanart>
- <info>[COLOR lime][B]Canales Especializados de YouTube donde encontraras las ultimas noticias y contenido exclusivo...[/B][/COLOR]</title></info>
+<info>[COLOR white][B][B]Canales Especializados de YouTube donde encontraras las ultimas noticias y contenido exclusivo...[/B][/COLOR]</title></info>
 </item>
-
 
 
 
@@ -128,7 +126,7 @@
 <jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=tzuVCKyxXe8&list=UU6yPLxBTg8TodC2KPrGDTjA</jsonrpc>
 <thumbnail>https://i.imgur.com/sFaxWx3.jpg</thumbnail>
 <fanart>https://i.imgur.com/UGq4p8k.jpg</fanart>
-<info>[COLOR lime][B]Canales Especializados de YouTube donde encontraras las ultimas noticias y contenido exclusivo...[/B][/COLOR]</title></info>
+<info>[COLOR white][B][B]Canales Especializados de YouTube donde encontraras las ultimas noticias y contenido exclusivo...[/B][/COLOR]</title></info>
 </item>
 
 <item>
@@ -137,7 +135,7 @@
 <jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=wDxlDk8DySU&list=UUDnOwChGE8nOJuEboU-ATDA</jsonrpc>
 <thumbnail>https://i.imgur.com/sFaxWx3.jpg</thumbnail>
 <fanart>https://i.imgur.com/UGq4p8k.jpg</fanart>
- <info>[COLOR lime][B]Canales Especializados de YouTube donde encontraras las ultimas noticias y contenido exclusivo...[/B][/COLOR]</title></info>
+<info>[COLOR white][B][B]Canales Especializados de YouTube donde encontraras las ultimas noticias y contenido exclusivo...[/B][/COLOR]</title></info>
 </item>
 
 <item>
@@ -146,7 +144,7 @@
 <jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=xgGEEgPna9k&list=UUTqkzyoSzV_ZNniS1wYvSuA</jsonrpc>
 <thumbnail>https://i.imgur.com/sFaxWx3.jpg</thumbnail>
 <fanart>https://i.imgur.com/UGq4p8k.jpg</fanart>
- <info>[COLOR lime][B]Canales Especializados de YouTube donde encontraras las ultimas noticias y contenido exclusivo...[/B][/COLOR]</title></info>
+<info>[COLOR white][B][B]Canales Especializados de YouTube donde encontraras las ultimas noticias y contenido exclusivo...[/B][/COLOR]</title></info>
 </item>
 
 <item>
@@ -154,7 +152,7 @@
 <jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=v2qvA23KWho&list=UUTxJA9f0R99o_t49gBJ2Xxg</jsonrpc>
 <thumbnail>https://i.imgur.com/sFaxWx3.jpg</thumbnail>
 <fanart>https://i.imgur.com/UGq4p8k.jpg</fanart>
-<info>[COLOR lime][B]Canales Especializados de YouTube donde encontraras las ultimas noticias y contenido exclusivo...[/B][/COLOR]</title></info>
+<info>[COLOR white][B][B]Canales Especializados de YouTube donde encontraras las ultimas noticias y contenido exclusivo...[/B][/COLOR]</title></info>
 </item>
 
 <item>
@@ -163,9 +161,8 @@
 <jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=sof9FAJvWXg&list=UUahMCCjLUDjmApt44xQJlbw</jsonrpc>
 <thumbnail>https://i.imgur.com/sFaxWx3.jpg</thumbnail>
 <fanart>https://i.imgur.com/UGq4p8k.jpg</fanart>
- <info>[COLOR lime][B]Canales Especializados de YouTube donde encontraras las ultimas noticias y contenido exclusivo...[/B][/COLOR]</title></info>
+<info>[COLOR white][B][B]Canales Especializados de YouTube donde encontraras las ultimas noticias y contenido exclusivo...[/B][/COLOR]</title></info>
 </item>
-
 
 
 
@@ -178,7 +175,7 @@
 <jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=Ai82hREUsNo&list=UUto7f9pBRM9luv-pcg3wQxg</jsonrpc>
 <thumbnail>https://i.imgur.com/sFaxWx3.jpg</thumbnail>
 <fanart>https://i.imgur.com/UGq4p8k.jpg</fanart>
-<info>[COLOR lime][B]Canales Especializados de YouTube donde encontraras las ultimas noticias y contenido exclusivo...[/B][/COLOR]</title></info>
+<info>[COLOR white][B][B]Canales Especializados de YouTube donde encontraras las ultimas noticias y contenido exclusivo...[/B][/COLOR]</title></info>
 </item>
 
 <item>
@@ -187,7 +184,7 @@
 <jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=wDxlDk8DySU&list=UUDnOwChGE8nOJuEboU-ATDA</jsonrpc>
 <thumbnail>https://i.imgur.com/sFaxWx3.jpg</thumbnail>
 <fanart>https://i.imgur.com/UGq4p8k.jpg</fanart>
- <info>[COLOR lime][B]Canales Especializados de YouTube donde encontraras las ultimas noticias y contenido exclusivo...[/B][/COLOR]</title></info>
+<info>[COLOR white][B][B]Canales Especializados de YouTube donde encontraras las ultimas noticias y contenido exclusivo...[/B][/COLOR]</title></info>
 </item>
 
 <item>
@@ -196,7 +193,7 @@
 <jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=ne8RQRICkZs&list=UUpxKZbwwtbAnphTlLsG-8JA</jsonrpc>
 <thumbnail>https://i.imgur.com/sFaxWx3.jpg</thumbnail>
 <fanart>https://i.imgur.com/UGq4p8k.jpg</fanart>
- <info>[COLOR lime][B]Canales Especializados de YouTube donde encontraras las ultimas noticias y contenido exclusivo...[/B][/COLOR]</title></info>
+<info>[COLOR white][B][B]Canales Especializados de YouTube donde encontraras las ultimas noticias y contenido exclusivo...[/B][/COLOR]</title></info>
 </item>
 
 <item>
@@ -204,7 +201,7 @@
 <jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=6i5jqr-RSwI&list=UUURBWiKBXcSCJ-tSXlXsCNA</jsonrpc>
 <thumbnail>https://i.imgur.com/sFaxWx3.jpg</thumbnail>
 <fanart>https://i.imgur.com/UGq4p8k.jpg</fanart>
-<info>[COLOR lime][B]Canales Especializados de YouTube donde encontraras las ultimas noticias y contenido exclusivo...[/B][/COLOR]</title></info>
+<info>[COLOR white][B][B]Canales Especializados de YouTube donde encontraras las ultimas noticias y contenido exclusivo...[/B][/COLOR]</title></info>
 </item>
 
 <item>
@@ -213,7 +210,7 @@
 <jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=1cn48rWC5Aw&list=UUiwHnpaCFLDuYg9q9xcvQrw</jsonrpc>
 <thumbnail>https://i.imgur.com/sFaxWx3.jpg</thumbnail>
 <fanart>https://i.imgur.com/UGq4p8k.jpg</fanart>
- <info>[COLOR lime][B]Canales Especializados de YouTube donde encontraras las ultimas noticias y contenido exclusivo...[/B][/COLOR]</title></info>
+<info>[COLOR white][B][B]Canales Especializados de YouTube donde encontraras las ultimas noticias y contenido exclusivo...[/B][/COLOR]</title></info>
 </item>
 
 
@@ -224,16 +221,15 @@
 <jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=HKOePh2wJoA&list=UU2acYatO4zKHJlSnhgz-Zsg</jsonrpc>
 <thumbnail>https://i.imgur.com/sFaxWx3.jpg</thumbnail>
 <fanart>https://i.imgur.com/UGq4p8k.jpg</fanart>
- <info>[COLOR lime][B]Canales Especializados de YouTube donde encontraras las ultimas noticias y contenido exclusivo...[/B][/COLOR]</title></info>
+<info>[COLOR white][B][B]Canales Especializados de YouTube donde encontraras las ultimas noticias y contenido exclusivo...[/B][/COLOR]</title></info>
 </item>
 
-
 <item>
-<title>[COLOR blue] Canales de Fisica:[/B][/COLOR]</title>
+<title>[COLOR blue][B] Canales de Fisica:[/B][/COLOR]</title>
 <link>nolink</link>
 <thumbnail>https://i.imgur.com/sFaxWx3.jpg</thumbnail>
 <fanart>https://i.imgur.com/UGq4p8k.jpg</fanart>
-<info>[COLOR lime][B]Canales Especializados de YouTube donde encontraras las ultimas noticias y contenido exclusivo...[/B][/COLOR]</title></info>
+<info>[COLOR white][B][B]Canales Especializados de YouTube donde encontraras las ultimas noticias y contenido exclusivo...[/B][/COLOR]</title></info>
 </item>
 
 
@@ -243,7 +239,7 @@
 <jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=uGzzjAW7rcA&list=UU-m8wpgZhFd5J9hkKdbPRLw</jsonrpc>
 <thumbnail>https://i.imgur.com/sFaxWx3.jpg</thumbnail>
 <fanart>https://i.imgur.com/UGq4p8k.jpg</fanart>
- <info>[COLOR lime][B]Canales Especializados de YouTube donde encontraras las ultimas noticias y contenido exclusivo...[/B][/COLOR]</title></info>
+<info>[COLOR white][B][B]Canales Especializados de YouTube donde encontraras las ultimas noticias y contenido exclusivo...[/B][/COLOR]</title></info>
 </item>
 
 <item>
@@ -252,7 +248,7 @@
 <jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=cAyhdMtk_AE&list=UUMnPZh6PyA5PSYoNt0cjuxg</jsonrpc>
 <thumbnail>https://i.imgur.com/sFaxWx3.jpg</thumbnail>
 <fanart>https://i.imgur.com/UGq4p8k.jpg</fanart>
- <info>[COLOR lime][B]Canales Especializados de YouTube donde encontraras las ultimas noticias y contenido exclusivo...[/B][/COLOR]</title></info>
+<info>[COLOR white][B][B]Canales Especializados de YouTube donde encontraras las ultimas noticias y contenido exclusivo...[/B][/COLOR]</title></info>
 </item>
 
 <item>
@@ -261,7 +257,7 @@
 <jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=3pyftRDYA1o&list=UUns-8DssCBba7M4nu7wk7Aw</jsonrpc>
 <thumbnail>https://i.imgur.com/sFaxWx3.jpg</thumbnail>
 <fanart>https://i.imgur.com/UGq4p8k.jpg</fanart>
- <info>[COLOR lime][B]Canales Especializados de YouTube donde encontraras las ultimas noticias y contenido exclusivo...[/B][/COLOR]</title></info>
+<info>[COLOR white][B][B]Canales Especializados de YouTube donde encontraras las ultimas noticias y contenido exclusivo...[/B][/COLOR]</title></info>
 </item>
 
 <item>
@@ -269,18 +265,16 @@
 <jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=Z9eyWrBP8uc&list=UUa2BZMhRhM8FObBprOeLCcA</jsonrpc>
 <thumbnail>https://i.imgur.com/sFaxWx3.jpg</thumbnail>
 <fanart>https://i.imgur.com/UGq4p8k.jpg</fanart>
-<info>[COLOR lime][B]Canales Especializados de YouTube donde encontraras las ultimas noticias y contenido exclusivo...[/B][/COLOR]</title></info>
+<info>[COLOR white][B][B]Canales Especializados de YouTube donde encontraras las ultimas noticias y contenido exclusivo...[/B][/COLOR]</title></info>
 </item>
-
 <item>
 <title>[COLOR blue][COLOR white][B] Canales:[/B][/COLOR][B] Física Pura[/B][/COLOR]</title>
 <link>ignore</link>https://www.youtube.com
 <jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=uAni03CiPvI&list=UUVgkhCvcDL6YYybMBxGytuw</jsonrpc>
 <thumbnail>https://i.imgur.com/sFaxWx3.jpg</thumbnail>
 <fanart>https://i.imgur.com/UGq4p8k.jpg</fanart>
- <info>[COLOR lime][B]Canales Especializados de YouTube donde encontraras las ultimas noticias y contenido exclusivo...[/B][/COLOR]</title></info>
+<info>[COLOR white][B][B]Canales Especializados de YouTube donde encontraras las ultimas noticias y contenido exclusivo...[/B][/COLOR]</title></info>
 </item>
-
 
 
 
@@ -291,7 +285,7 @@
 <jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=64o5tntBgOo&list=UU3pxZ_aN4HQ0hTFXP98emrw</jsonrpc>
 <thumbnail>https://i.imgur.com/sFaxWx3.jpg</thumbnail>
 <fanart>https://i.imgur.com/UGq4p8k.jpg</fanart>
- <info>[COLOR lime][B]Canales Especializados de YouTube donde encontraras las ultimas noticias y contenido exclusivo...[/B][/COLOR]</title></info>
+<info>[COLOR white][B][B]Canales Especializados de YouTube donde encontraras las ultimas noticias y contenido exclusivo...[/B][/COLOR]</title></info>
 </item>
 
 <item>
@@ -300,7 +294,7 @@
 <jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=637_TbGVLPg&list=UUUAL0_NAwdmxrt52xSEyo_A</jsonrpc>
 <thumbnail>https://i.imgur.com/sFaxWx3.jpg</thumbnail>
 <fanart>https://i.imgur.com/UGq4p8k.jpg</fanart>
- <info>[COLOR lime][B]Canales Especializados de YouTube donde encontraras las ultimas noticias y contenido exclusivo...[/B][/COLOR]</title></info>
+<info>[COLOR white][B][B]Canales Especializados de YouTube donde encontraras las ultimas noticias y contenido exclusivo...[/B][/COLOR]</title></info>
 </item>
 
 <item>
@@ -309,7 +303,7 @@
 <jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=1rgVLrwsVnI&list=UUqHL0Mq0HCw0cJwIbm-RmNQ</jsonrpc>
 <thumbnail>https://i.imgur.com/sFaxWx3.jpg</thumbnail>
 <fanart>https://i.imgur.com/UGq4p8k.jpg</fanart>
- <info>[COLOR lime][B]Canales Especializados de YouTube donde encontraras las ultimas noticias y contenido exclusivo...[/B][/COLOR]</title></info>
+<info>[COLOR white][B][B]Canales Especializados de YouTube donde encontraras las ultimas noticias y contenido exclusivo...[/B][/COLOR]</title></info>
 </item>
 
 <item>
@@ -317,19 +311,18 @@
 <jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=oPLIQNl69G0&list=UU43ksZn2Wa61xyuWPVxv5bg</jsonrpc>
 <thumbnail>https://i.imgur.com/sFaxWx3.jpg</thumbnail>
 <fanart>https://i.imgur.com/UGq4p8k.jpg</fanart>
-<info>[COLOR lime][B]Canales Especializados de YouTube donde encontraras las ultimas noticias y contenido exclusivo...[/B][/COLOR]</title></info>
+<info>[COLOR white][B][B]Canales Especializados de YouTube donde encontraras las ultimas noticias y contenido exclusivo...[/B][/COLOR]</title></info>
 </item>
 
 
 
 
-
 <item>
-<title>[COLOR blue] Canales de Astronomia:[/B][/COLOR]</title>
+<title>[COLOR blue][B] Canales de Astronomia:[/B][/COLOR]</title>
 <link>nolink</link>
 <thumbnail>https://i.imgur.com/sFaxWx3.jpg</thumbnail>
 <fanart>https://i.imgur.com/UGq4p8k.jpg</fanart>
-<info>[COLOR lime][B]Canales Especializados de YouTube donde encontraras las ultimas noticias y contenido exclusivo...[/B][/COLOR]</title></info>
+<info>[COLOR white][B][B]Canales Especializados de YouTube donde encontraras las ultimas noticias y contenido exclusivo...[/B][/COLOR]</title></info>
 </item>
 
 <item>
@@ -337,7 +330,7 @@
 <jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=yaZGNeq0zSw&list=UUoJrd1rCF_SophLszyz_r3g</jsonrpc>
 <thumbnail>https://i.imgur.com/sFaxWx3.jpg</thumbnail>
 <fanart>https://i.imgur.com/UGq4p8k.jpg</fanart>
-<info>[COLOR lime][B]Canales Especializados de YouTube donde encontraras las ultimas noticias y contenido exclusivo...[/B][/COLOR]</title></info>
+<info>[COLOR white][B][B]Canales Especializados de YouTube donde encontraras las ultimas noticias y contenido exclusivo...[/B][/COLOR]</title></info>
 </item>
 
 <item>
@@ -346,7 +339,7 @@
 <jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=CTJ87KrBSLc&list=UUqA13mG62EfjSw2rf3E1yYA</jsonrpc>
 <thumbnail>https://i.imgur.com/sFaxWx3.jpg</thumbnail>
 <fanart>https://i.imgur.com/UGq4p8k.jpg</fanart>
- <info>[COLOR lime][B]Canales Especializados de YouTube donde encontraras las ultimas noticias y contenido exclusivo...[/B][/COLOR]</title></info>
+<info>[COLOR white][B][B]Canales Especializados de YouTube donde encontraras las ultimas noticias y contenido exclusivo...[/B][/COLOR]</title></info>
 </item>
 
 <item>
@@ -355,7 +348,7 @@
 <jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=82wvpl7Uv5U&list=UU-8DZ-sTOoohhzndLNl4w1A</jsonrpc>
 <thumbnail>https://i.imgur.com/sFaxWx3.jpg</thumbnail>
 <fanart>https://i.imgur.com/UGq4p8k.jpg</fanart>
- <info>[COLOR lime][B]Canales Especializados de YouTube donde encontraras las ultimas noticias y contenido exclusivo...[/B][/COLOR]</title></info>
+<info>[COLOR white][B][B]Canales Especializados de YouTube donde encontraras las ultimas noticias y contenido exclusivo...[/B][/COLOR]</title></info>
 </item>
 
 <item>
@@ -364,7 +357,7 @@
 <jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=rN0xObZJSYYsp=UU61HG9u3l7JpzqIeTatnr3A</jsonrpc>
 <thumbnail>https://i.imgur.com/sFaxWx3.jpg</thumbnail>
 <fanart>https://i.imgur.com/UGq4p8k.jpg</fanart>
- <info>[COLOR lime][B]Canales Especializados de YouTube donde encontraras las ultimas noticias y contenido exclusivo...[/B][/COLOR]</title></info>
+<info>[COLOR white][B][B]Canales Especializados de YouTube donde encontraras las ultimas noticias y contenido exclusivo...[/B][/COLOR]</title></info>
 </item>
 
 <item>
@@ -373,7 +366,7 @@
 <jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=lvdmoGS2d9M&sp=UUj55TmTgf5SDJE31Yn8gO-Q</jsonrpc>
 <thumbnail>https://i.imgur.com/sFaxWx3.jpg</thumbnail>
 <fanart>https://i.imgur.com/UGq4p8k.jpg</fanart>
- <info>[COLOR lime][B]Canales Especializados de YouTube donde encontraras las ultimas noticias y contenido exclusivo...[/B][/COLOR]</title></info>
+<info>[COLOR white][B]Canales Especializados de YouTube donde encontraras las ultimas noticias y contenido exclusivo...[/B][/COLOR]</title></info>
 </item>
 
 <item>
@@ -382,7 +375,7 @@
 <jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=EIJu2Pw-1GY&sp=UUBr8gC7v6kRJ-_bYxGcKZlQg</jsonrpc>
 <thumbnail>https://i.imgur.com/sFaxWx3.jpg</thumbnail>
 <fanart>https://i.imgur.com/UGq4p8k.jpg</fanart>
-<info>[COLOR lime][B]Canales Especializados de YouTube donde encontraras las ultimas noticias y contenido exclusivo...[/B][/COLOR]</title></info>
+<info>[COLOR white][B]Canales Especializados de YouTube donde encontraras las ultimas noticias y contenido exclusivo...[/B][/COLOR]</title></info>
 </item>
 
 
