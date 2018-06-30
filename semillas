@@ -1,3 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+
+
 <item>
 
 <title>[COLOR blue][COLOR white][B] Semillas:[/B][/COLOR][B] Dibujos Animados[/B][/COLOR]</title>
@@ -5,76 +8,105 @@
 <externallink>https://bit.ly/2N9f38c</externallink>
 <thumbnail>https://i.imgur.com/P90VMS7.jpg</thumbnail>
 <fanart>https://i.imgur.com/UZDgTaz.jpg</fanart>
+ <info>[COLOR white][B]Ciencia para los mas pequeños de la casa , sembrar la curiosidad en ellos para que el dia de mañana...[/B][/COLOR]</title></info>
 </item>
-
 
 
 <item>
 
 <title>[COLOR blue][COLOR white][B] Semillas:[/B][/COLOR][B] Experimentos Caseros[/B][/COLOR]</title>
 <link>ignore</link>
-<jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=experimentos+caseros+para+niños&sp=EgIQAUIECAESAA%253D%253D&search_type=playlist</jsonrpc>
-<thumbnail>https://i.imgur.com/P90VMS7.jpg</thumbnail>
-<fanart>https://i.imgur.com/zBlww2I.jpg</fanart>
-</item>
-
-<item>
-
-<title>[COLOR blue][COLOR white][B] Semillas:[/B][/COLOR][B] Ciencias [/B][/COLOR]</title>
-<link>ignore</link>
-<jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=ciencia+naturales+para+niños++aula+365&sp=EgIQAUIECAESAA%253D%253D&search_type=playlist</jsonrpc>
+<jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=experimentos+caseros+niños&search_type=playlist</jsonrpc>
 <thumbnail>https://i.imgur.com/P90VMS7.jpg</thumbnail>
 <fanart>https://i.imgur.com/UZDgTaz.jpg</fanart>
+ <info>[COLOR white][B]Ciencia para los mas pequeños de la casa , sembrar la curiosidad en ellos para que el dia de mañana...[/B][/COLOR]</title></info>
 </item>
+
 
 <item>
 
-<title>[COLOR blue][COLOR white][B] Semillas:[/B][/COLOR][B] Matematicas[B][/COLOR]</title> 
+<title>[COLOR blue][COLOR white][B] Semillas:[/B][/COLOR][B] Ciencias para Niños[/B][/COLOR]</title>
+<link>ignore</link>
+<jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=ciencias+naurales+para+niños&search_type=playlist</jsonrpc>
+<thumbnail>https://i.imgur.com/P90VMS7.jpg</thumbnail>
+<fanart>https://i.imgur.com/UZDgTaz.jpg</fanart>
+ <info>[COLOR white][B]Ciencia para los mas pequeños de la casa , sembrar la curiosidad en ellos para que el dia de mañana...[/B][/COLOR]</title></info>
+</item>
+
+
+
+<item>
+
+<title>[COLOR blue][COLOR white][B] Semillas:[/B][/COLOR][B] Matematicas para Niños[/B][/COLOR]</title>
 <link>ignore</link>
 <jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=matematicas+para+niños&search_type=playlist</jsonrpc>
 <thumbnail>https://i.imgur.com/P90VMS7.jpg</thumbnail>
-<fanart>https://i.imgur.com/UZDgTaz.jpg</fanart>
+<fanart>https://i.imgur.com/P90VMS7.jpg</fanart>
+ <info>[COLOR white][B]Ciencia para los mas pequeños de la casa , sembrar la curiosidad en ellos para que el dia de mañana...[/B][/COLOR]</title></info>
 </item>
+
+
 
 <item>
 
-<title>[COLOR blue][COLOR white][B] Manualidades:[/B][/COLOR][B] Manualidades[B][/COLOR]</title>  
+<title>[COLOR blue][COLOR white][B] Semillas:[/B][/COLOR][B] Astronomia[/B][/COLOR]</title>
 <link>ignore</link>
-<jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=manualidades+ciencias&search_type=playlist</jsonrpc>
+<jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=astronomia+para+niños&search_type=playlist</jsonrpc>
 <thumbnail>https://i.imgur.com/P90VMS7.jpg</thumbnail>
-<fanart>https://i.imgur.com/UZDgTaz.jpg</fanart>
+<fanart>https://i.imgur.com/P90VMS7.jpg</fanart>
+ <info>[COLOR white][B]Ciencia para los mas pequeños de la casa , sembrar la curiosidad en ellos para que el dia de mañana...[/B][/COLOR]</title></info>
 </item>
+
+
 
 <item>
 
-<title>[COLOR blue][COLOR white][B] Manualidades:[/B][/COLOR][B] Oragamis[B][/COLOR]</title>
+<title>[COLOR blue][COLOR white][B] Semillas:[/B][/COLOR][B] Manualidades[/B][/COLOR]</title>
+<link>ignore</link>
+<jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=manualidades+para+niños&search_type=playlist</jsonrpc>
+<thumbnail>https://i.imgur.com/P90VMS7.jpg</thumbnail>
+<fanart>https://i.imgur.com/P90VMS7.jpg</fanart>
+ <info>[COLOR white][B]Ciencia para los mas pequeños de la casa , sembrar la curiosidad en ellos para que el dia de mañana...[/B][/COLOR]</title></info>
+</item>
+
+
+
+<item>
+<title>[COLOR blue][COLOR white][B] Semillas:[/B][/COLOR][B] Oragamis[/B][/COLOR]</title>
 <link>ignore</link>
 <jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=oragamis+para+niños&search_type=playlist</jsonrpc>
 <thumbnail>https://i.imgur.com/P90VMS7.jpg</thumbnail>
-<fanart>https://i.imgur.com/UZDgTaz.jpg</fanart>
+<fanart>https://i.imgur.com/P90VMS7.jpg</fanart>
+ <info>[COLOR white][B]Ciencia para los mas pequeños de la casa , sembrar la curiosidad en ellos para que el dia de mañana...[/B][/COLOR]</title></info>
 </item>
 
 
-<item>
 
-<title>[COLOR blue][COLOR white][B] Manualidades:[/B][/COLOR][B] Muy Interesante[B][/COLOR]</title>  [/B][/COLOR]</title>
+<item>
+<title>[COLOR blue][COLOR white][B] Semillas:[/B][/COLOR][B] Muy Interesante[B][/COLOR]</title>  
 <link>ignore</link>
 <jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=UUM9ptKzZOJZ--JRSLPlVOcQ&sp=rfT6N95kzgo&search_type=playlist</jsonrpc>
 <thumbnail>https://i.imgur.com/P90VMS7.jpg</thumbnail>
-<fanart>https://i.imgur.com/UZDgTaz.jpg</fanart>
+<fanart>https://i.imgur.com/P90VMS7.jpg</fanart>
+ <info>[COLOR white][B]Ciencia para los mas pequeños de la casa , sembrar la curiosidad en ellos para que el dia de mañana...[/B][/COLOR]</title></info>
 </item>
 
 
 <item>
-
-<title>[COLOR blue][COLOR white][B] Manualidades:[/B][/COLOR][B] El mundo de Beakman [B][/COLOR]</title>  [/B][/COLOR]</title>
+<title>[COLOR blue][COLOR white][B] Semillas:[/B][/COLOR][B] El mundo de Beakman [B][/COLOR]</title> 
 <link>ignore</link>
 <jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=el+mundo+de+beakman+castellano&search_type=playlist</jsonrpc>
 <thumbnail>https://i.imgur.com/P90VMS7.jpg</thumbnail>
 <fanart>https://i.imgur.com/UZDgTaz.jpg</fanart>
+ <info>[COLOR white][B]Ciencia para los mas pequeños de la casa , sembrar la curiosidad en ellos para que el dia de mañana...[/B][/COLOR]</title></info>
 </item>
 
-<item><title>[COLOR blue][B] Buscador de Contenidos: Semillas[/B][/COLOR]</title>
+
+
+
+
+<item>
+<title>[COLOR blue][B] Buscador de Contenidos: Semillas[/B][/COLOR]</title>
 <link>$doregex[makelist]</link>
 <thumbnail>https://i.imgur.com/T2ibdjM.jpg</thumbnail>
  <fanart>https://i.imgur.com/UZDgTaz.jpg</fanart> 
