@@ -2,45 +2,45 @@
 
 <title>[COLOR blue][COLOR white][B] Dibujos:[/B][/COLOR][B] Erase una vez el Cuerpo Humano[B][/COLOR]</title> 
 <link>ignore</link>
-<jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=documentales+de+mentes+brillantes&search_type=playlist</jsonrpc>
+<jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=documentales+de+mentes+brillantes&list=PLaMtngjAPMkGl_npx-pVf0wKt4_gjveub</jsonrpc>
 <thumbnail>https://i.imgur.com/P90VMS7.jpg</thumbnail>
-<fanart>https://i.imgur.com/UZDgTaz.jpg</fanart>
+<fanart>https://i.imgur.com/P90VMS7.jpg</fanart>
 </item>
 
 <item>
 
 <title>[COLOR blue][COLOR white][B] Dibujos:[/B][/COLOR][B] Erase una vez La Vida[B][/COLOR]</title> 
 <link>ignore</link>
-<jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=erase+una+vez+la+vida&search_type=playlist</jsonrpc>
+<jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=erase+una+vez+la+vida&list=PLM3zaEIjzXIXj4nHfxCYh3jxTbcbImw7g</jsonrpc>
 <thumbnail>https://i.imgur.com/P90VMS7.jpg</thumbnail>
-<fanart>https://i.imgur.com/UZDgTaz.jpg</fanart>
+<fanart>https://i.imgur.com/P90VMS7.jpg</fanart>
 </item>
 
 <item>
 
 <title>[COLOR blue][COLOR white][B] Dibujos:[/B][/COLOR][B] Erase una vez El Hombre[B][/COLOR]</title> 
 <link>ignore</link>
-<jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=erase+una+vez+el+hombre&search_type=playlist</jsonrpc>
+<jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=erase+una+vez+el+hombre&list=PLM3zaEIjzXIX0lfjtdMiflymrv2tzS1ph</jsonrpc>
 <thumbnail>https://i.imgur.com/P90VMS7.jpg</thumbnail>
-<fanart>https://i.imgur.com/UZDgTaz.jpg</fanart>
+<fanart>https://i.imgur.com/P90VMS7.jpg</fanart>
 </item>
 
 <item>
 
 <title>[COLOR blue][COLOR white][B] Dibujos:[/B][/COLOR][B] Erase una vez El Espacio[B][/COLOR]</title> 
 <link>ignore</link>
-<jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=erase+una+vez+el+espacio&search_type=playlist</jsonrpc>
+<jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=erase+una+vez+el+espacio&list=PLszetnrCUXJm76e8lCNmrAlDfrhWtrJkT</jsonrpc>
 <thumbnail>https://i.imgur.com/P90VMS7.jpg</thumbnail>
-<fanart>https://i.imgur.com/UZDgTaz.jpg</fanart>
+<fanart>https://i.imgur.com/P90VMS7.jpg</fanart>
 </item>
 
 <item>
 
 <title>[COLOR blue][COLOR white][B] Dibujos:[/B][/COLOR][B] Erase una vez Los inventores[B][/COLOR]</title>  
 <link>ignore</link>
-<jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=erase+una+vez+los+inventores&search_type=playlist</jsonrpc>
+<jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=erase+una+vez+los+inventores&list=PLk3AaB9XwzaB6Obva41TY8IEhIbMDz9tl</jsonrpc>
 <thumbnail>https://i.imgur.com/P90VMS7.jpg</thumbnail>
-<fanart>https://i.imgur.com/UZDgTaz.jpg</fanart>
+<fanart>https://i.imgur.com/P90VMS7.jpg</fanart>
 </item>
 
 <item>
@@ -49,7 +49,7 @@
 <link>ignore</link>
 <jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=sid+el+niño+cientifico&search_type=playlist</jsonrpc>
 <thumbnail>https://i.imgur.com/P90VMS7.jpg</thumbnail>
-<fanart>https://i.imgur.com/UZDgTaz.jpg</fanart>
+<fanart>https://i.imgur.com/P90VMS7.jpg</fanart>
 </item>
 
 <item>
@@ -57,6 +57,6 @@
 <link>ignore</link>
 <externallink>https://bit.ly/2lqcXV2</externallink>
 <thumbnail>https://i.imgur.com/TK6sjvQ.jpg</thumbnail>
-<fanart>https://i.imgur.com/BTXNERT.jpg</fanart>
+<fanart>https://i.imgur.com/zBlww2I.jpg</fanart>
 <info>[COLOR white][B]Volver al Menu Principal...[/B][/COLOR]</title></info>
 </item>
