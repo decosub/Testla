@@ -1,60 +1,6 @@
 <item>
-
-<title>[COLOR blue][COLOR white][B] Dibujos:[/B][/COLOR][B] Erase una vez el Cuerpo Humano[/B][/COLOR]</title> 
-<link>ignore</link>
-<jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=documentales+de+mentes+brillantes&list=PLaMtngjAPMkGl_npx-pVf0wKt4_gjveub</jsonrpc>
-<thumbnail>https://i.imgur.com/P90VMS7.jpg</thumbnail>
-<fanart>https://i.imgur.com/P90VMS7.jpg</fanart>
-</item>
-
-<item>
-
-<title>[COLOR blue][COLOR white][B] Dibujos:[/B][/COLOR][B] Erase una vez La Vida[/B][/COLOR]</title> 
-<link>ignore</link>
-<jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=erase+una+vez+la+vida&list=PLM3zaEIjzXIXj4nHfxCYh3jxTbcbImw7g</jsonrpc>
-<thumbnail>https://i.imgur.com/P90VMS7.jpg</thumbnail>
-<fanart>https://i.imgur.com/P90VMS7.jpg</fanart>
-</item>
-
-<item>
-
-<title>[COLOR blue][COLOR white][B] Dibujos:[/B][/COLOR][B] Erase una vez El Hombre[/B][/COLOR]</title> 
-<link>ignore</link>
-<jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=erase+una+vez+el+hombre&list=PLM3zaEIjzXIX0lfjtdMiflymrv2tzS1ph</jsonrpc>
-<thumbnail>https://i.imgur.com/P90VMS7.jpg</thumbnail>
-<fanart>https://i.imgur.com/P90VMS7.jpg</fanart>
-</item>
-
-<item>
-
-<title>[COLOR blue][COLOR white][B] Dibujos:[/B][/COLOR][B] Erase una vez El Espacio[/B][/COLOR]</title> 
-<link>ignore</link>
-<jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=erase+una+vez+el+espacio&list=PLszetnrCUXJm76e8lCNmrAlDfrhWtrJkT</jsonrpc>
-<thumbnail>https://i.imgur.com/P90VMS7.jpg</thumbnail>
-<fanart>https://i.imgur.com/P90VMS7.jpg</fanart>
-</item>
-
-
-<item>
-
-<title>[COLOR blue][COLOR white][B] Dibujos:[/B][/COLOR][B] prueba[/B][/COLOR]</title> 
-<link><link>plugin://plugin.video.youtube/play/?video_id=PLVsZWZlCMkpudAq37giQ10nOCF6R2kiNq</link>
-<thumbnail>https://i.imgur.com/P90VMS7.jpg</thumbnail>
-<fanart>https://i.imgur.com/P90VMS7.jpg</fanart>
-</item>
-
-
-<item>
-
-<title>[COLOR blue][COLOR white][B] Dibujos:[/B][/COLOR][B] prueba 2[/B][/COLOR]</title> 
-<link>plugin://plugin.video.youtube/play/?video_id=eVFu0-sjuAE&list=PLszetnrCUXJm76e8lCNmrAlDfrhWtrJkT</link>
-<thumbnail>https://i.imgur.com/P90VMS7.jpg</thumbnail>
-<fanart>https://i.imgur.com/P90VMS7.jpg</fanart>
-</item>
-
-<item>
-<title>prueba 3</title>
-<thumbnail>https://i.imgur.com/P90VMS7.jpg</thumbnail>
+<title>[COLOR blue][COLOR white][B] Dibujos:[/B][/COLOR][B] Erase una vez la Vida[/B][/COLOR]</title> 
+<thumbnail>https://i.imgur.com/Ifh34qf.jpg</thumbnail>
 <fanart>https://i.imgur.com/P90VMS7.jpg</fanart>
 <link>$doregex[makelist]</link>
 <regex>
@@ -62,8 +8,45 @@
             <listrepeat><![CDATA[
                         <title>[makelist.param1]</title>
                         <link>plugin://plugin.video.youtube/play/?video_id=[makelist.param2]</link>
-                   <thumbnail>https://i.imgur.com/P90VMS7.jpg</thumbnail>
+                   <thumbnail>https://i.imgur.com/Ifh34qf.jpg</thumbnail>
+<fanart>https://i.imgur.com/zBlww2I.jpg</fanart>
+            ]]></listrepeat>
+            <expres>data-video-title="(.*?)".*?\n.*?\n.*?\n.*?\n.*?&lt;a href="\/watch\?v=(.*?)&amp;</expres>
+            <page>https://www.youtube.com/watch?v=9aK_VYr5xSU&amp;list=PLszetnrCUXJnfjTCt4T_1TcTHHEllPGFP</page>
+             <cookieJar></cookieJar>
+</regex>
+
+<item>
+<title>[COLOR blue][COLOR white][B] Dibujos:[/B][/COLOR][B] Erase una vez El Hombre[/B][/COLOR]</title> 
+<thumbnail>https://i.imgur.com/Xgm59YT.jpg</thumbnail>
+<fanart>https://i.imgur.com/zBlww2I.jpg</fanart>
+<link>$doregex[makelist]</link>
+<regex>
+            <name>makelist</name>
+            <listrepeat><![CDATA[
+                        <title>[makelist.param1]</title>
+                        <link>plugin://plugin.video.youtube/play/?video_id=[makelist.param2]</link>
+                   <thumbnail>https://i.imgur.com/Xgm59YT.jpg</thumbnail>
 <fanart>https://i.imgur.com/P90VMS7.jpg</fanart>
+            ]]></listrepeat>
+            <expres>data-video-title="(.*?)".*?\n.*?\n.*?\n.*?\n.*?&lt;a href="\/watch\?v=(.*?)&amp;</expres>
+            <page>https://www.youtube.com/watch?v=5fwiBZTm1nU&amp;list=PLszetnrCUXJkLiAWIL5qPQ2tRe1PqqsYR</page>
+             <cookieJar></cookieJar>
+</regex>
+
+
+<item>
+<title>[COLOR blue][COLOR white][B] Dibujos:[/B][/COLOR][B] Erase una vez El Espacio[/B][/COLOR]</title> 
+<thumbnail>https://i.imgur.com/C5hkU9a.jpg</thumbnail>
+<fanart>https://i.imgur.com/zBlww2I.jpg</fanart>
+<link>$doregex[makelist]</link>
+<regex>
+            <name>makelist</name>
+            <listrepeat><![CDATA[
+                        <title>[makelist.param1]</title>
+                        <link>plugin://plugin.video.youtube/play/?video_id=[makelist.param2]</link>
+                   <thumbnail>https://i.imgur.com/C5hkU9a.jpg</thumbnail>
+<fanart>https://i.imgur.com/zBlww2I.jpg</fanart>
             ]]></listrepeat>
             <expres>data-video-title="(.*?)".*?\n.*?\n.*?\n.*?\n.*?&lt;a href="\/watch\?v=(.*?)&amp;</expres>
             <page>https://www.youtube.com/watch?v=eVFu0-sjuAE&amp;list=PLszetnrCUXJm76e8lCNmrAlDfrhWtrJkT</page>
@@ -73,16 +56,47 @@
 </item>
 
 <item>
+<title>[COLOR blue][COLOR white][B] Dibujos:[/B][/COLOR][B] Las Americas[/B][/COLOR]</title> 
+<thumbnail>https://i.imgur.com/SzmK1lc.jpg</thumbnail>
+<fanart>https://i.imgur.com/zBlww2I.jpg</fanart>
+<link>$doregex[makelist]</link>
+<regex>
+            <name>makelist</name>
+            <listrepeat><![CDATA[
+                        <title>[makelist.param1]</title>
+                        <link>plugin://plugin.video.youtube/play/?video_id=[makelist.param2]</link>
+                   <thumbnail>https://i.imgur.com/SzmK1lc.jpg</thumbnail>
+<fanart>https://i.imgur.com/zBlww2I.jpg</fanart>
+            ]]></listrepeat>
+            <expres>data-video-title="(.*?)".*?\n.*?\n.*?\n.*?\n.*?&lt;a href="\/watch\?v=(.*?)&amp;</expres>
+            <page>https://www.youtube.com/watch?v=OUNdGPMA3Sw&amp;list=PLszetnrCUXJnj-FJgCtxIAcyGcdGBqiuI</page>
+             <cookieJar></cookieJar>
+</regex>
 
-<title>[COLOR blue][COLOR white][B] Dibujos:[/B][/COLOR][B] Erase una vez Los inventores[/B][/COLOR]</title>  
-<link>ignore</link>
-<jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=erase+una+vez+los+inventores&list=PLk3AaB9XwzaB6Obva41TY8IEhIbMDz9tl</jsonrpc>
-<thumbnail>https://i.imgur.com/P90VMS7.jpg</thumbnail>
-<fanart>https://i.imgur.com/P90VMS7.jpg</fanart>
 </item>
 
 <item>
+<title>[COLOR blue][COLOR white][B] Dibujos:[/B][/COLOR][B] Erase una vez Los inventores[/B][/COLOR]</title>  
+<thumbnail>https://i.imgur.com/VKBH0se.jpg</thumbnail>
+<fanart>https://i.imgur.com/zBlww2I.jpg</fanart>
+<link>$doregex[makelist]</link>
+<regex>
+            <name>makelist</name>
+            <listrepeat><![CDATA[
+                        <title>[makelist.param1]</title>
+                        <link>plugin://plugin.video.youtube/play/?video_id=[makelist.param2]</link>
+  <thumbnail>https://i.imgur.com/VKBH0se.jpg</thumbnail>
+<fanart>https://i.imgur.com/zBlww2I.jpg</fanart>
+            ]]></listrepeat>
+            <expres>data-video-title="(.*?)".*?\n.*?\n.*?\n.*?\n.*?&lt;a href="\/watch\?v=(.*?)&amp;</expres>
+            <page>https://www.youtube.com/watch?v=m0RuxuqcBu4&amp;list=PLk3AaB9XwzaB6Obva41TY8IEhIbMDz9tl</page>
+             <cookieJar></cookieJar>
+</regex>
 
+</item>
+
+
+<item>
 <title>[COLOR blue][COLOR white][B] Dibujos:[/B][/COLOR][B] Sid, El Niño Cientifico[/B][/COLOR]</title>  
 <link>ignore</link>
 <jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=sid+el+niño+cientifico&search_type=playlist</jsonrpc>
