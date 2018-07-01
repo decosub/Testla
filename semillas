@@ -34,21 +34,19 @@
 <title>[COLOR blue][COLOR white][B] Canales:[/B][/COLOR][B] fq-Experimentos  [/B][/COLOR]</title>
 <link>ignore</link>
 <jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=fq+experimentos&list=UUG_R-0u1OkKtFC_Km6sdmOg</jsonrpc>
-<thumbnail>https://i.imgur.com/sFaxWx3.jpg</thumbnail>
-<fanart>https://i.imgur.com/UGq4p8k.jpg</fanart>
-<info>[COLOR white][B][B]Canales Especializados de YouTube donde encontraras las ultimas noticias y contenido exclusivo...[/B][/COLOR]</title></info>
+<thumbnail>https://i.imgur.com/P90VMS7.jpg</thumbnail>
+<fanart>https://i.imgur.com/P90VMS7.jpg</fanart>
+ <info>[COLOR white][B]Ciencia para los mas pequeños de la casa , sembrar la curiosidad en ellos para que el dia de mañana...[/B][/COLOR]</title></info>
 </item>
-
 
 <item>
 <title>[COLOR blue][COLOR white][B] Canales:[/B][/COLOR][B] Cienciabit: Ciencia y Tecnología. [/B][/COLOR]</title>
 <link>ignore</link>
 <jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=cienciabit+ciencia+y+tecnologia&list=UUM7Dwmo0031iRaGdDunPaQw</jsonrpc>
-<thumbnail>https://i.imgur.com/sFaxWx3.jpg</thumbnail>
-<fanart>https://i.imgur.com/UGq4p8k.jpg</fanart>
-<info>[COLOR white][B][B]Canales Especializados de YouTube donde encontraras las ultimas noticias y contenido exclusivo...[/B][/COLOR]</title></info>
+<thumbnail>https://i.imgur.com/P90VMS7.jpg</thumbnail>
+<fanart>https://i.imgur.com/P90VMS7.jpg</fanart>
+ <info>[COLOR white][B]Ciencia para los mas pequeños de la casa , sembrar la curiosidad en ellos para que el dia de mañana...[/B][/COLOR]</title></info>
 </item>
-
 
 <item>
 <title>[COLOR blue][B] Buscador de Contenidos: Semillas[/B][/COLOR]</title>
