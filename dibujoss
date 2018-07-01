@@ -99,24 +99,6 @@
 
 
 <item>
-<title>[COLOR blue][COLOR white][B] Dibujos:[/B][/COLOR][B] prueba[/B][/COLOR]</title> 
-<thumbnail>https://i.imgur.com/SzmK1lc.jpg</thumbnail>
-<fanart>https://i.imgur.com/P90VMS7.jpg</fanart>
-<link>$doregex[makelist]</link>
-<regex>
-            <name>makelist</name>
-            <listrepeat><![CDATA[
-                        <title>[makelist.param1]</title>
-                        <link>plugin://plugin.video.youtube/play/?video_id=[makelist.param2]</link>
-                   <thumbnail>https://i.imgur.com/SzmK1lc.jpg</thumbnail>
-<fanart>https://i.imgur.com/P90VMS7.jpg</fanart>
-            ]]></listrepeat>
-            <expres>data-video-title="(.*?)".*?\n.*?\n.*?\n.*?\n.*?&lt;a href="\/watch\?v=(.*?)&amp;</expres>
-            <page>https://www.youtube.com/watch?v=m0RuxuqcBu4&list=PLszetnrCUXJmUx0z_Rb8k0smvnkBhcNEX</page>
-             <cookieJar></cookieJar>
-</regex>
-
-<item>
 <title>[COLOR blue][B] Volver al Menu Principal...[/B][/COLOR]</title>
 <link>ignore</link>
 <externallink>https://bit.ly/2lqcXV2</externallink>
