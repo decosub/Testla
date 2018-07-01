@@ -402,6 +402,191 @@
 
 
 
+
+
+
+
+
+<item>
+<title>[COLOR blue][B] Canales de Arqueologia:[/B][/COLOR]</title>
+<link>nolink</link>
+<thumbnail>https://i.imgur.com/sFaxWx3.jpg</thumbnail>
+<fanart>https://i.imgur.com/UGq4p8k.jpg</fanart>
+<info>[COLOR white][B][B]Canales Especializados de YouTube donde encontraras las ultimas noticias y contenido exclusivo...[/B][/COLOR]</title></info>
+</item>
+
+<item>
+<title>[COLOR blue][COLOR white][B] Canales:[/B][/COLOR][B] Mega Arqueologia[/B][/COLOR]</title>
+<link>ignore</link>
+<jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=mega+arqueologia&list=UU1YiUYJZqra5s3ti5XktjuQ</jsonrpc>
+<thumbnail>https://i.imgur.com/sFaxWx3.jpg</thumbnail>
+<fanart>https://i.imgur.com/UGq4p8k.jpg</fanart>
+<info>[COLOR white][B][B]Canales Especializados de YouTube donde encontraras las ultimas noticias y contenido exclusivo...[/B][/COLOR]</title></info>
+</item>
+
+<item>
+<title>[COLOR blue][COLOR white][B] Canales:[/B][/COLOR][B] Terrae Antiqvae[/B][/COLOR]</title>
+<link>ignore</link>
+<jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=TerraeAntiqvae&list=UUIAL1NHfhgrCOe5Ho71t61A</jsonrpc>
+<thumbnail>https://i.imgur.com/sFaxWx3.jpg</thumbnail>
+<fanart>https://i.imgur.com/UGq4p8k.jpg</fanart>
+<info>[COLOR white][B][B]Canales Especializados de YouTube donde encontraras las ultimas noticias y contenido exclusivo...[/B][/COLOR]</title></info>
+</item>
+
+<item>
+<title>[COLOR blue][COLOR white][B] Canales:[/B][/COLOR][B] Astrovlog[/B][/COLOR]</title> 
+<link>ignore</link>
+<jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=astrovlog&list=UU-8DZ-sTOoohhzndLNl4w1A</jsonrpc>
+<thumbnail>https://i.imgur.com/sFaxWx3.jpg</thumbnail>
+<fanart>https://i.imgur.com/UGq4p8k.jpg</fanart>
+<info>[COLOR white][B][B]Canales Especializados de YouTube donde encontraras las ultimas noticias y contenido exclusivo...[/B][/COLOR]</title></info>
+</item>
+
+<item>
+<title>[COLOR blue][COLOR white][B] Canales:[/B][/COLOR][B] Museo Arqueológico Nacional de España[/B][/COLOR]</title>
+<link>ignore</link>
+<jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=museo+arqueologico+nacional+de+españa&list=UU-8fRB2ATUbMqZnbx0yjjFg</jsonrpc>
+<thumbnail>https://i.imgur.com/sFaxWx3.jpg</thumbnail>
+<fanart>https://i.imgur.com/UGq4p8k.jpg</fanart>
+<info>[COLOR white][B][B]Canales Especializados de YouTube donde encontraras las ultimas noticias y contenido exclusivo...[/B][/COLOR]</title></info>
+</item>
+
+
+
+<item>
+<title>[COLOR blue][B] Canales de Biologia:[/B][/COLOR]</title>
+<link>nolink</link>
+<thumbnail>https://i.imgur.com/sFaxWx3.jpg</thumbnail>
+<fanart>https://i.imgur.com/UGq4p8k.jpg</fanart>
+<info>[COLOR white][B][B]Canales Especializados de YouTube donde encontraras las ultimas noticias y contenido exclusivo...[/B][/COLOR]</title></info>
+</item>
+
+<item>
+<title>[COLOR blue][COLOR white][B] Canales:[/B][/COLOR][B] Biología Aplicada[/B][/COLOR]</title>
+<link>ignore</link>
+<jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=biologia+aaplicada&list=UU2Jv1hvKj991SUa4GfosZHg</jsonrpc>
+<thumbnail>https://i.imgur.com/sFaxWx3.jpg</thumbnail>
+<fanart>https://i.imgur.com/UGq4p8k.jpg</fanart>
+<info>[COLOR white][B][B]Canales Especializados de YouTube donde encontraras las ultimas noticias y contenido exclusivo...[/B][/COLOR]</title></info>
+</item>
+
+<item>
+<title>[COLOR blue][COLOR white][B] Canales:[/B][/COLOR][B] Flip Your Learning[/B][/COLOR]</title>
+<link>ignore</link>
+<jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=FlipYourLearning&list=PLaFuGNUxUSIuiKnxaUi4aWyaUTs8ENE2I</jsonrpc>
+<thumbnail>https://i.imgur.com/sFaxWx3.jpg</thumbnail>
+<fanart>https://i.imgur.com/UGq4p8k.jpg</fanart>
+<info>[COLOR white][B][B]Canales Especializados de YouTube donde encontraras las ultimas noticias y contenido exclusivo...[/B][/COLOR]</title></info>
+</item>
+
+<item>
+<title>[COLOR blue][COLOR white][B] Canales:[/B][/COLOR][B] Biología[/B][/COLOR]</title> 
+<link>ignore</link>
+<jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=Biología&list=UUo23F3V5Iya5NSMDwUeq5aw</jsonrpc>
+<thumbnail>https://i.imgur.com/sFaxWx3.jpg</thumbnail>
+<fanart>https://i.imgur.com/UGq4p8k.jpg</fanart>
+<info>[COLOR white][B][B]Canales Especializados de YouTube donde encontraras las ultimas noticias y contenido exclusivo...[/B][/COLOR]</title></info>
+</item>
+
+<item>
+<title>[COLOR blue][COLOR white][B] Canales:[/B][/COLOR][B] Biología y Ciencia[/B][/COLOR]</title>
+<link>ignore</link>
+<jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=Biología+y+Ciencia&list=UUICv5rl22L3YKWdDRRHfPoQ</jsonrpc>
+<thumbnail>https://i.imgur.com/sFaxWx3.jpg</thumbnail>
+<fanart>https://i.imgur.com/UGq4p8k.jpg</fanart>
+<info>[COLOR white][B][B]Canales Especializados de YouTube donde encontraras las ultimas noticias y contenido exclusivo...[/B][/COLOR]</title></info>
+</item>
+
+
+
+
+
+<item>
+<title>[COLOR blue][B] Canales de Matematicas:[/B][/COLOR]</title>
+<link>nolink</link>
+<thumbnail>https://i.imgur.com/sFaxWx3.jpg</thumbnail>
+<fanart>https://i.imgur.com/UGq4p8k.jpg</fanart>
+<info>[COLOR white][B][B]Canales Especializados de YouTube donde encontraras las ultimas noticias y contenido exclusivo...[/B][/COLOR]</title></info>
+</item>
+
+<item>
+<title>[COLOR blue][COLOR white][B] Canales:[/B][/COLOR][B] Derivando[/B][/COLOR]</title>
+<link>ignore</link>
+<jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=derivado&list=UUH-Z8ya93m7_RD02WsCSZYA</jsonrpc>
+<thumbnail>https://i.imgur.com/sFaxWx3.jpg</thumbnail>
+<fanart>https://i.imgur.com/UGq4p8k.jpg</fanart>
+<info>[COLOR white][B][B]Canales Especializados de YouTube donde encontraras las ultimas noticias y contenido exclusivo...[/B][/COLOR]</title></info>
+</item>
+
+<item>
+<title>[COLOR blue][COLOR white][B] Canales:[/B][/COLOR][B] Julio Profe[/B][/COLOR]</title>
+<link>ignore</link>
+<jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=julioprofe&list=UUIkCzk3ezlAxX5r2OFlHLaQ</jsonrpc>
+<thumbnail>https://i.imgur.com/sFaxWx3.jpg</thumbnail>
+<fanart>https://i.imgur.com/UGq4p8k.jpg</fanart>
+<info>[COLOR white][B][B]Canales Especializados de YouTube donde encontraras las ultimas noticias y contenido exclusivo...[/B][/COLOR]</title></info>
+</item>
+
+<item>
+<title>[COLOR blue][COLOR white][B] Canales:[/B][/COLOR][B] Matematicas Profe Alex
+[/B][/COLOR]</title> 
+<link>ignore</link>
+<jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=Matematicas+profe+alex&list=UUanMxWvOoiwtjLYm08Bo8QQ</jsonrpc>
+<thumbnail>https://i.imgur.com/sFaxWx3.jpg</thumbnail>
+<fanart>https://i.imgur.com/UGq4p8k.jpg</fanart>
+<info>[COLOR white][B][B]Canales Especializados de YouTube donde encontraras las ultimas noticias y contenido exclusivo...[/B][/COLOR]</title></info>
+</item>
+
+<item>
+<title>[COLOR blue][COLOR white][B] Canales:[/B][/COLOR][B] Las Matematicas.es[/B][/COLOR]</title>
+<link>ignore</link>
+<jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=Biología+y+Ciencia&list=UUtkmpuSfYi9R8Xeq9OrO6GA</jsonrpc>
+<thumbnail>https://i.imgur.com/sFaxWx3.jpg</thumbnail>
+<fanart>https://i.imgur.com/UGq4p8k.jpg</fanart>
+<info>[COLOR white][B][B]Canales Especializados de YouTube donde encontraras las ultimas noticias y contenido exclusivo...[/B][/COLOR]</title></info>
+</item>
+
+
+
+
+
+
+<item>
+<title>[COLOR blue][B] Canales de Historia:[/B][/COLOR]</title>
+<link>nolink</link>
+<thumbnail>https://i.imgur.com/sFaxWx3.jpg</thumbnail>
+<fanart>https://i.imgur.com/UGq4p8k.jpg</fanart>
+<info>[COLOR white][B][B]Canales Especializados de YouTube donde encontraras las ultimas noticias y contenido exclusivo...[/B][/COLOR]</title></info>
+</item>
+
+<item>
+<title>[COLOR blue][COLOR white][B] Canales:[/B][/COLOR][B] The Javi 360[/B][/COLOR]</title>
+<link>ignore</link>
+<jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=THEJAVY360+tu+Canal+de+Historia+y+Estrategia&list=UUrtY49ygqbYoISOFlybqSRQ</jsonrpc>
+<thumbnail>https://i.imgur.com/sFaxWx3.jpg</thumbnail>
+<fanart>https://i.imgur.com/UGq4p8k.jpg</fanart>
+<info>[COLOR white][B][B]Canales Especializados de YouTube donde encontraras las ultimas noticias y contenido exclusivo...[/B][/COLOR]</title></info>
+</item>
+
+<item>
+<title>[COLOR blue][COLOR white][B] Canales:[/B][/COLOR][B] Bully Magnets[/B][/COLOR]</title>
+<link>ignore</link>
+<jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=bully+magnets&list=UU24kleObm1QTJPXqwb33zHg</jsonrpc>
+<thumbnail>https://i.imgur.com/sFaxWx3.jpg</thumbnail>
+<fanart>https://i.imgur.com/UGq4p8k.jpg</fanart>
+<info>[COLOR white][B][B]Canales Especializados de YouTube donde encontraras las ultimas noticias y contenido exclusivo...[/B][/COLOR]</title></info>
+</item>
+
+<item>
+<title>[COLOR blue][COLOR white][B] Canales:[/B][/COLOR][B] Arte Historia[/B][/COLOR]</title> 
+<link>ignore</link>
+<jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=ARTEHISTORIA&list=UUzbvu9XkReYFEYeX8Ys48Ng</jsonrpc>
+<thumbnail>https://i.imgur.com/sFaxWx3.jpg</thumbnail>
+<fanart>https://i.imgur.com/UGq4p8k.jpg</fanart>
+<info>[COLOR white][B][B]Canales Especializados de YouTube donde encontraras las ultimas noticias y contenido exclusivo...[/B][/COLOR]</title></info>
+</item>
+
+
 <item><title>[COLOR blue][B] Volver al Menu Principal...[/B][/COLOR]</title>
 <link>ignore</link>
 <externallink>https://bit.ly/2lqcXV2</externallink>
