@@ -1,4 +1,3 @@
-
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 
 
@@ -813,13 +812,25 @@ https://bit.ly/2toQSdQ
 
 
 
+
+
+
 <item>
 <title>[COLOR white][B] Ciencia Sociales:[/B][/COLOR]</title>
 <link>nolink</link>
-<externallink>https://bit.ly/2In5Ohi</externallink>
+<externallink>https://bit.ly/2Mg36fT</externallink>
    <fanart>https://i.imgur.com/BTXNERT.jpg</fanart> 
   <thumbnail>https://i.imgur.com/FeSit9V.jpg</thumbnail>
  <info>[COLOR white][B]En esta seccion de Ciencias Sociales Encontraras: Sociología, Economía, Ciencias Políticas, Historia Material, Historia de las Ideas....[/B][/COLOR]</title></info>
+</item>
+
+<item>
+<title>[COLOR white][B] Economia:[/B][/COLOR]</title>
+<link>nolink</link>
+<externallink>https://bit.ly/2In5Ohi</externallink>
+   <fanart>https://i.imgur.com/BTXNERT.jpg</fanart> 
+  <thumbnail>https://i.imgur.com/QwZlI69.jpg</thumbnail>
+  <info>[COLOR white][B]En esta seccion de Ciencias Sociales Encontraras: Sociología, Economía, Ciencias Políticas, Historia Material, Historia de las Ideas....[/B][/COLOR]</title></info>
 </item>
 
 
@@ -935,6 +946,10 @@ https://bit.ly/2toQSdQ
   <thumbnail>https://i.imgur.com/QwZlI69.jpg</thumbnail>
  <info>[COLOR white][B]En esta seccion de Ciencias Sociales Encontraras: Sociología, Economía, Ciencias Políticas, Historia Material, Historia de las Ideas....[/B][/COLOR]</title></info>
 </item>
+
+
+
+
 
 <item><title>[COLOR blue][B] Volver al Menu Principal...[/B][/COLOR]</title>
 <link>ignore</link>
