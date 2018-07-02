@@ -4,8 +4,8 @@
 <title>[COLOR blue][COLOR white][B] Fisica Clasica:[/B][/COLOR][B] Mecanica[/B][/COLOR]</title>
 <link>nolink</link>
 <externallink>https://bit.ly/2tLabhO</externallink>
-    <fanart>https://i.imgur.com/3blAZfv.jpg</fanart> 
-  <thumbnail>https://i.imgur.com/FeSit9V.jpg</thumbnail>
+   <fanart>https://i.imgur.com/3blAZfv.jpg</fanart> 
+  <thumbnail>https://i.imgur.com/3blAZfv.jpg</thumbnail>
  <info>[COLOR white][B]En esta seccion de Fisica Clasica Encontraras: Mecánica, Estática, Dinámica, Electricidad. Magnetismo, Electromagnetismo, Termodinámica. ...[/B][/COLOR]</title></info>
 </item>
 
@@ -15,7 +15,7 @@
 <link>nolink</link>
 <externallink></externallink>
    <fanart>https://i.imgur.com/3blAZfv.jpg</fanart> 
-  <thumbnail>https://i.imgur.com/FeSit9V.jpg</thumbnail>
+  <thumbnail>https://i.imgur.com/3blAZfv.jpg</thumbnail>
  <info>[COLOR white][B]En esta seccion de Fisica Clasica Encontraras: Mecánica, Estática, Dinámica, Electricidad. Magnetismo, Electromagnetismo, Termodinámica. ...[/B][/COLOR]</title></info>
 </item>
 
@@ -23,8 +23,8 @@
 <title>[COLOR blue][COLOR white][B] Fisica Clasica:[/B][/COLOR][B] Dinamica [/B][/COLOR]</title>
 <link>nolink</link>
 <externallink></externallink>
-   <fanart>https://i.imgur.com/3blAZfv.jpg</fanart> 
-  <thumbnail>https://i.imgur.com/QwZlI69.jpg</thumbnail>
+    <fanart>https://i.imgur.com/3blAZfv.jpg</fanart> 
+  <thumbnail>https://i.imgur.com/3blAZfv.jpg</thumbnail>
  <info>[COLOR white][B]En esta seccion de Fisica Clasica Encontraras: Mecánica, Estática, Dinámica, Electricidad. Magnetismo, Electromagnetismo, Termodinámica. ...[/B][/COLOR]</title></info>
 </item>
 
@@ -32,8 +32,8 @@
 <title>[COLOR blue][COLOR white][B] Fisica Clasica:[/B][/COLOR][B] Electricidad [/B][/COLOR]</title>
 <link>nolink</link>
 <externallink></externallink>
-<fanart>https://i.imgur.com/3blAZfv.jpg</fanart> 
-  <thumbnail>https://i.imgur.com/QwZlI69.jpg</thumbnail>
+   <fanart>https://i.imgur.com/3blAZfv.jpg</fanart> 
+  <thumbnail>https://i.imgur.com/3blAZfv.jpg</thumbnail>
  <info>[COLOR white][B]En esta seccion de Fisica Clasica Encontraras: Mecánica, Estática, Dinámica, Electricidad. Magnetismo, Electromagnetismo, Termodinámica. ...[/B][/COLOR]</title></info>
 </item>
 
@@ -42,7 +42,7 @@
 <link>nolink</link>
 <externallink></externallink>
    <fanart>https://i.imgur.com/3blAZfv.jpg</fanart> 
-  <thumbnail>https://i.imgur.com/QwZlI69.jpg</thumbnail>
+  <thumbnail>https://i.imgur.com/3blAZfv.jpg</thumbnail>
  <info>[COLOR white][B]En esta seccion de Fisica Clasica Encontraras: Mecánica, Estática, Dinámica, Electricidad. Magnetismo, Electromagnetismo, Termodinámica. ...[/B][/COLOR]</title></info>
 </item>
 
@@ -50,8 +50,8 @@
 <title>[COLOR blue][COLOR white][B] Fisica Clasica:[/B][/COLOR][B] ElectroMagnetismo[/B][/COLOR]</title>
 <link>nolink</link>
 <externallink></externallink>
-   <fanart>https://i.imgur.com/3blAZfv.jpg</fanart> 
-  <thumbnail>https://i.imgur.com/QwZlI69.jpg</thumbnail>
+    <fanart>https://i.imgur.com/3blAZfv.jpg</fanart> 
+  <thumbnail>https://i.imgur.com/3blAZfv.jpg</thumbnail>
  <info>[COLOR white][B]En esta seccion de Fisica Clasica Encontraras: Mecánica, Estática, Dinámica, Electricidad. Magnetismo, Electromagnetismo, Termodinámica. ...[/B][/COLOR]</title></info>
 </item>
 
@@ -59,23 +59,23 @@
 <title>[COLOR blue][COLOR white][B] Fisica Clasica:[/B][/COLOR][B] Termodinamica[/B][/COLOR]</title>
 <link>nolink</link>
 <externallink></externallink>
-  <fanart>https://i.imgur.com/3blAZfv.jpg</fanart> 
-  <thumbnail>https://i.imgur.com/QwZlI69.jpg</thumbnail>
+    <fanart>https://i.imgur.com/3blAZfv.jpg</fanart> 
+  <thumbnail>https://i.imgur.com/3blAZfv.jpg</thumbnail>
  <info>[COLOR white][B]En esta seccion de Fisica Clasica Encontraras: Mecánica, Estática, Dinámica, Electricidad. Magnetismo, Electromagnetismo, Termodinámica. ...[/B][/COLOR]</title></info>
 </item>
 
 <item><title>[COLOR blue][B] Buscador de Contenidos: Fisica Clasica[/B][/COLOR]</title>
 <link>$doregex[makelist]</link>
-<thumbnail>https://i.imgur.com/7FiCZLD.jpg</thumbnail>
- <fanart>https://i.imgur.com/3blAZfv.jpg</fanart> 
+   <fanart>https://i.imgur.com/zBlww2I.jpg</fanart> 
+  <thumbnail>https://i.imgur.com/T2ibdjM.jpg</thumbnail>
  <info>[COLOR white][B]Buscador de Youtube donde podras encontrar todo el contenido relacionado con la Fisica Clasica.[/B][/COLOR]</info>
 <regex>
 <name>makelist</name>
 <listrepeat><![CDATA[
 <title>[COLOR white] Tesla: [/COLOR][COLOR blue][makelist.param2][/COLOR]</title>
 <link>$doregex[resolve]</link>
-<thumbnail>https://i.imgur.com/7FiCZLD.jpg</thumbnail>
- <fanart>https://i.imgur.com/3blAZfv.jpg</fanart> 
+<thumbnail>https://i.imgur.com/T2ibdjM.jpg</thumbnail>
+ <fanart>https://i.imgur.com/zBlww2I.jpg/fanart> 
 ]]></listrepeat>
 <expres>u'(.+?)', u'(.+?)'</expres>
 <page>$doregex[search]</page>
@@ -99,7 +99,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 import requests,xbmcgui,xbmc, re,time, xbmcaddon
 def GetLSProData(page_data,Cookie_Jar,m):
  
- text=takeInputFortext('[COLOR white][B] Tesla [/B][/COLOR] [COLOR blue]Buscar de Contenidos[/COLOR]')
+ text=takeInputFortext('[COLOR white][B] Tesla [/B][/COLOR] [COLOR blue]Buscador de Contenidos[/COLOR]')
  url = 'https://www.youtube.com/results?search_query=Fisica+clasica' + text.replace(' ', '+')
  req = requests.get(url)
  list1 = re.findall('yt-lockup-c.+?a\shref=".watch.v=([^"]+)".+?\s\stitle="([^"]+)"\s', req.text)
