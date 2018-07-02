@@ -22,8 +22,8 @@
             <listrepeat><![CDATA[
                         <title>[makelist.param1]</title>
                         <link>plugin://plugin.video.youtube/play/?video_id=[makelist.param2]</link>
-                   <thumbnail>https://i.imgur.com/Ifh34qf.jpg</thumbnail>
-<fanart>https://i.imgur.com/P90VMS7.jpg</fanart>
+<thumbnail>https://i.imgur.com/3blAZfv.jpg</thumbnail>
+<fanart>https://i.imgur.com/3blAZfv.jpg</fanart>
             ]]></listrepeat>
             <expres>data-video-title="(.*?)".*?\n.*?\n.*?\n.*?\n.*?&lt;a href="\/watch\?v=(.*?)&amp;</expres>
             <page>https://www.youtube.com/watch?v=3sXP82I_qmk&amp;list=PLu11ymT_JYRou9nGsJdV8-5pgLbmMaiNP</page>
@@ -43,8 +43,8 @@
             <listrepeat><![CDATA[
                         <title>[makelist.param1]</title>
                         <link>plugin://plugin.video.youtube/play/?video_id=[makelist.param2]</link>
-                   <thumbnail>https://i.imgur.com/Ifh34qf.jpg</thumbnail>
-<fanart>https://i.imgur.com/P90VMS7.jpg</fanart>
+<thumbnail>https://i.imgur.com/3blAZfv.jpg</thumbnail>
+<fanart>https://i.imgur.com/3blAZfv.jpg</fanart>
             ]]></listrepeat>
             <expres>data-video-title="(.*?)".*?\n.*?\n.*?\n.*?\n.*?&lt;a href="\/watch\?v=(.*?)&amp;</expres>
             <page>https://www.youtube.com/watch?v=Qr2pyZgR3NQ&amp;list=PLUrnkT4JJHt2vVM7rafPGFSmE5Ff8rPt_</page>
@@ -63,8 +63,8 @@
             <listrepeat><![CDATA[
                         <title>[makelist.param1]</title>
                         <link>plugin://plugin.video.youtube/play/?video_id=[makelist.param2]</link>
-                   <thumbnail>https://i.imgur.com/Ifh34qf.jpg</thumbnail>
-<fanart>https://i.imgur.com/P90VMS7.jpg</fanart>
+            <thumbnail>https://i.imgur.com/3blAZfv.jpg</thumbnail>
+<fanart>https://i.imgur.com/3blAZfv.jpg</fanart>
             ]]></listrepeat>
             <expres>data-video-title="(.*?)".*?\n.*?\n.*?\n.*?\n.*?&lt;a href="\/watch\?v=(.*?)&amp;</expres>
             <page>https://www.youtube.com/watch?v=fDz0dffEImo&amp;list=PL-U-GbJEydJPTWMV89fSNs5HLnCjI7c6v</page>
@@ -83,8 +83,8 @@
             <listrepeat><![CDATA[
                         <title>[makelist.param1]</title>
                         <link>plugin://plugin.video.youtube/play/?video_id=[makelist.param2]</link>
-                   <thumbnail>https://i.imgur.com/Ifh34qf.jpg</thumbnail>
-<fanart>https://i.imgur.com/P90VMS7.jpg</fanart>
+<thumbnail>https://i.imgur.com/3blAZfv.jpg</thumbnail>
+<fanart>https://i.imgur.com/3blAZfv.jpg</fanart>
             ]]></listrepeat>
             <expres>data-video-title="(.*?)".*?\n.*?\n.*?\n.*?\n.*?&lt;a href="\/watch\?v=(.*?)&amp;</expres>
             <page>https://www.youtube.com/watch?v=d8FA-AU0WgM&amp;list=PL7iN9p5DxxtoHWOL38BGIw75ht0EN5xJE</page>
@@ -94,7 +94,7 @@
 
 
 <item>
-<title>[COLOR blue][COLOR white][B] Canales:[/B][/COLOR][B] Contenido General[/B][/COLOR]</title>
+<title>[COLOR blue][COLOR white][B] Mecanica:[/B][/COLOR][B] Contenido General[/B][/COLOR]</title>
 <link>ignore</link>
 <jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=fisica+clasica+mecanica&sp=EgIYAkIECAESAA%253D%253D&search_type=playlist</jsonrpc>
 <thumbnail>https://i.imgur.com/3blAZfv.jpg</thumbnail>
