@@ -4,8 +4,8 @@
 <item>
 <title>[COLOR blue][B] Mecanica: [/B][/COLOR]</title>
 <link>nolink</link>
-<thumbnail>https://i.imgur.com/sFaxWx3.jpg</thumbnail>
-<fanart>https://i.imgur.com/UGq4p8k.jpg</fanart>
+<thumbnail>https://i.imgur.com/3blAZfv.jpg</thumbnail>
+<fanart>https://i.imgur.com/3blAZfv.jpg</fanart>
 <info>[COLOR white][B][B]Canales Especializados de YouTube donde encontraras las ultimas noticias y contenido exclusivo...[/B][/COLOR]</title></info>
 </item>
 
@@ -13,8 +13,8 @@
 <title>[COLOR blue][COLOR white][B] Canales:[/B][/COLOR][B] Fisica Mecanica[/B][/COLOR]</title>
 <link>ignore</link>
 <jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=fisica+mecanica&list=PLUrnkT4JJHt2vVM7rafPGFSmE5Ff8rPt_</jsonrpc>
-<thumbnail>https://i.imgur.com/sFaxWx3.jpg</thumbnail>
-<fanart>https://i.imgur.com/UGq4p8k.jpg</fanart>
+<thumbnail>https://i.imgur.com/3blAZfv.jpg</thumbnail>
+<fanart>https://i.imgur.com/3blAZfv.jpg</fanart>
 <info>[COLOR white][B][B]Canales Especializados de YouTube donde encontraras las ultimas noticias y contenido exclusivo...[/B][/COLOR]</title></info>
 </item>
 
@@ -31,8 +31,8 @@
 <title>[COLOR blue][COLOR white][B] Canales:[/B][/COLOR][B] Física Increíble[/B][/COLOR]</title>
 <link>ignore</link>
 <jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=fisica Increible&list=PL-U-GbJEydJN0io6-OReoIHIrbaeue34Z</jsonrpc>
-<thumbnail>https://i.imgur.com/sFaxWx3.jpg</thumbnail>
-<fanart>https://i.imgur.com/UGq4p8k.jpg</fanart>
+<thumbnail>https://i.imgur.com/3blAZfv.jpg</thumbnail>
+<fanart>https://i.imgur.com/3blAZfv.jpg</fanart>
 <info>[COLOR white][B][B]Canales Especializados de YouTube donde encontraras las ultimas noticias y contenido exclusivo...[/B][/COLOR]</title></info>
 </item>
 
@@ -41,7 +41,16 @@
 <title>[COLOR blue][COLOR white][B] Canales:[/B][/COLOR][B] Contenido General[/B][/COLOR]</title>
 <link>ignore</link>
 <jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=fisica+clasica+mecanica&sp=EgIYAkIECAESAA%253D%253D&search_type=playlist</jsonrpc>
-<thumbnail>https://i.imgur.com/sFaxWx3.jpg</thumbnail>
-<fanart>https://i.imgur.com/UGq4p8k.jpg</fanart>
-<info>[COLOR white][B][B]Canales Especializados de YouTube donde encontraras las ultimas noticias y contenido exclusivo...[/B][/COLOR]</title></info>
+<thumbnail>https://i.imgur.com/3blAZfv.jpg</thumbnail>
+<fanart>https://i.imgur.com/3blAZfv.jpg</fanart>
+<info>[COLOR white][B][B]Contenido general del buscador de Youtube...[/B][/COLOR]</title></info>
+</item>
+
+
+<item><title>[COLOR blue][B] Volver al Menu Principal...[/B][/COLOR]</title>
+<link>ignore</link>
+<externallink>https://bit.ly/2lqcXV2</externallink>
+<thumbnail>https://i.imgur.com/TK6sjvQ.jpg</thumbnail>
+<fanart>https://i.imgur.com/zBlww2I.jpg</fanart>
+<info>[COLOR white][B]Volver al Menu Principal...[/B][/COLOR]</title></info>
 </item>
