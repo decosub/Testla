@@ -4,7 +4,7 @@
 <item>
 <title>[COLOR blue][B] Mecanica: [/B][/COLOR]</title>
 <link>nolink</link>
-<thumbnail>https://i.imgur.com/3blAZfv.jpg</thumbnail>
+<thumbnail>https://i.imgur.com/heMpObq.jpg</thumbnail>
 <fanart>https://i.imgur.com/3blAZfv.jpg</fanart>
 <info>[COLOR white][B][B]Fisica Clasica Mecanica...[/B][/COLOR]</title></info>
 </item>
@@ -13,7 +13,7 @@
 
 <item>
 <title>[COLOR blue][COLOR white][B] Mecanica:[/B][/COLOR][B] Universo Mecanico[/B][/COLOR]</title>
-<thumbnail>https://i.imgur.com/3blAZfv.jpg</thumbnail>
+<thumbnail>https://i.imgur.com/heMpObq.jpg</thumbnail>
 <fanart>https://i.imgur.com/3blAZfv.jpg</fanart>
 <info>[COLOR white][B][B]Fisica Clasica Mecanica...[/B][/COLOR]</title></info>
 <link>$doregex[makelist]</link>
@@ -22,7 +22,7 @@
             <listrepeat><![CDATA[
                         <title>[makelist.param1]</title>
                         <link>plugin://plugin.video.youtube/play/?video_id=[makelist.param2]</link>
-<thumbnail>https://i.imgur.com/3blAZfv.jpg</thumbnail>
+<thumbnail>https://i.imgur.com/heMpObq.jpg</thumbnail>
 <fanart>https://i.imgur.com/3blAZfv.jpg</fanart>
             ]]></listrepeat>
             <expres>data-video-title="(.*?)".*?\n.*?\n.*?\n.*?\n.*?&lt;a href="\/watch\?v=(.*?)&amp;</expres>
@@ -34,7 +34,7 @@
 
 <item>
 <title>[COLOR blue][COLOR white][B] Mecanica:[/B][/COLOR][B] Fisica Mecanica[/B][/COLOR]</title>
-<thumbnail>https://i.imgur.com/3blAZfv.jpg</thumbnail>
+<thumbnail>https://i.imgur.com/heMpObq.jpg</thumbnail>
 <fanart>https://i.imgur.com/3blAZfv.jpg</fanart>
 <info>[COLOR white][B][B]Fisica Clasica Mecanica...[/B][/COLOR]</title></info>
 <link>$doregex[makelist]</link>
@@ -43,7 +43,7 @@
             <listrepeat><![CDATA[
                         <title>[makelist.param1]</title>
                         <link>plugin://plugin.video.youtube/play/?video_id=[makelist.param2]</link>
-<thumbnail>https://i.imgur.com/3blAZfv.jpg</thumbnail>
+<thumbnail>https://i.imgur.com/heMpObq.jpg</thumbnail>
 <fanart>https://i.imgur.com/3blAZfv.jpg</fanart>
             ]]></listrepeat>
             <expres>data-video-title="(.*?)".*?\n.*?\n.*?\n.*?\n.*?&lt;a href="\/watch\?v=(.*?)&amp;</expres>
@@ -54,7 +54,7 @@
 
 <item>
 <title>[COLOR blue][COLOR white][B] Mecanica:[/B][/COLOR][B] Fisica Increible[/B][/COLOR]</title>
-<thumbnail>https://i.imgur.com/3blAZfv.jpg</thumbnail>
+<thumbnail>https://i.imgur.com/heMpObq.jpg</thumbnail>
 <fanart>https://i.imgur.com/3blAZfv.jpg</fanart>
 <info>[COLOR white][B][B]Fisica Clasica Mecanica...[/B][/COLOR]</title></info>
 <link>$doregex[makelist]</link>
@@ -63,7 +63,7 @@
             <listrepeat><![CDATA[
                         <title>[makelist.param1]</title>
                         <link>plugin://plugin.video.youtube/play/?video_id=[makelist.param2]</link>
-            <thumbnail>https://i.imgur.com/3blAZfv.jpg</thumbnail>
+<thumbnail>https://i.imgur.com/heMpObq.jpg</thumbnail>
 <fanart>https://i.imgur.com/3blAZfv.jpg</fanart>
             ]]></listrepeat>
             <expres>data-video-title="(.*?)".*?\n.*?\n.*?\n.*?\n.*?&lt;a href="\/watch\?v=(.*?)&amp;</expres>
@@ -74,7 +74,7 @@
 
 <item>
 <title>[COLOR blue][COLOR white][B] Mecanica:[/B][/COLOR][B] Teoria de Fisica Mecanica[/B][/COLOR]</title>
-<thumbnail>https://i.imgur.com/3blAZfv.jpg</thumbnail>
+<thumbnail>https://i.imgur.com/heMpObq.jpg</thumbnail>
 <fanart>https://i.imgur.com/3blAZfv.jpg</fanart>
 <info>[COLOR white][B][B]Fisica Clasica Mecanica...[/B][/COLOR]</title></info>
 <link>$doregex[makelist]</link>
@@ -83,7 +83,7 @@
             <listrepeat><![CDATA[
                         <title>[makelist.param1]</title>
                         <link>plugin://plugin.video.youtube/play/?video_id=[makelist.param2]</link>
-<thumbnail>https://i.imgur.com/3blAZfv.jpg</thumbnail>
+<thumbnail>https://i.imgur.com/heMpObq.jpg</thumbnail>
 <fanart>https://i.imgur.com/3blAZfv.jpg</fanart>
             ]]></listrepeat>
             <expres>data-video-title="(.*?)".*?\n.*?\n.*?\n.*?\n.*?&lt;a href="\/watch\?v=(.*?)&amp;</expres>
@@ -97,7 +97,7 @@
 <title>[COLOR blue][COLOR white][B] Mecanica:[/B][/COLOR][B] Contenido General[/B][/COLOR]</title>
 <link>ignore</link>
 <jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=fisica+clasica+mecanica&sp=EgIYAkIECAESAA%253D%253D&search_type=playlist</jsonrpc>
-<thumbnail>https://i.imgur.com/3blAZfv.jpg</thumbnail>
+<thumbnail>https://i.imgur.com/heMpObq.jpg</thumbnail>
 <fanart>https://i.imgur.com/3blAZfv.jpg</fanart>
 <info>[COLOR white][B][B]Contenido general del buscador de Youtube...[/B][/COLOR]</title></info>
 </item>
