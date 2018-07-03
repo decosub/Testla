@@ -53,26 +53,6 @@
 </item>
 
 <item>
-<title>[COLOR blue][COLOR white][B] Estatica y Dinamica:[/B][/COLOR][B] Universo Mecanico[/B][/COLOR]</title>
-<thumbnail>https://i.imgur.com/60RrAoz.jpg</thumbnail>
-<fanart>https://i.imgur.com/3blAZfv.jpg</fanart>
-<info>[COLOR white][B][B]Fisica Clasica Mecanica...[/B][/COLOR]</title></info>
-<link>$doregex[makelist]</link>
-<regex>
-            <name>makelist</name>
-            <listrepeat><![CDATA[
-                        <title>[makelist.param1]</title>
-                        <link>plugin://plugin.video.youtube/play/?video_id=[makelist.param2]</link>
-<thumbnail>https://i.imgur.com/heMpObq.jpg</thumbnail>
-<fanart>https://i.imgur.com/3blAZfv.jpg</fanart>
-            ]]></listrepeat>
-            <expres>data-video-title="(.*?)".*?\n.*?\n.*?\n.*?\n.*?&lt;a href="\/watch\?v=(.*?)&amp;</expres>
-            <page>https://www.youtube.com/watch?v=Zb9c3LKd1B&amp;list=PLnHdk5xY0AJfdvq4Fg2FDPYgLQBTf061C</page>
-             <cookieJar></cookieJar>
-</regex>
-</item>
-
-<item>
 <title>[COLOR blue][COLOR white][B] Estatica y Dinamica:[/B][/COLOR][B] Estatica y Dinamica de Fluidos en Movimiento[/B][/COLOR]</title>
 <thumbnail>https://i.imgur.com/60RrAoz.jpg</thumbnail>
 <fanart>https://i.imgur.com/3blAZfv.jpg</fanart>
