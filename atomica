@@ -6,7 +6,7 @@
 <link>nolink</link>
 <thumbnail>https://i.imgur.com/xP0Q2sN.jpg</thumbnail>
 <fanart>https://i.imgur.com/3blAZfv.jpg</fanart>
-<info>[COLOR white][B][B]Fisica Cuantica Atomica...[/B][/COLOR]</title></info>
+<info>[COLOR white][B]Fisica Cuantica Atomica...[/B][/COLOR]</title></info>
 </item>
 
 
@@ -15,7 +15,7 @@
 <title>[COLOR blue][COLOR white][B] Atomica:[/B][/COLOR][B] Fisica Atomica[/B][/COLOR]</title>
 <thumbnail>https://i.imgur.com/xP0Q2sN.jpg</thumbnail>
 <fanart>https://i.imgur.com/3blAZfv.jpg</fanart>
-<info>[COLOR white][B][B]Fisica Cuantica ...[/B][/COLOR]</title></info>
+<info>[COLOR white][B]Fisica Cuantica ...[/B][/COLOR]</title></info>
 <link>$doregex[makelist]</link>
 <regex>
             <name>makelist</name>
@@ -36,7 +36,7 @@
 <title>[COLOR blue][COLOR white][B] Atomica:[/B][/COLOR][B] El Atomo[/B][/COLOR]</title>
 <thumbnail>https://i.imgur.com/xP0Q2sN.jpg</thumbnail>
 <fanart>https://i.imgur.com/3blAZfv.jpg</fanart>
-<info>[COLOR white][B][B]Fisica Cuantica Atomica...[/B][/COLOR]</title></info>
+<info>[COLOR white][B]Fisica Cuantica Atomica...[/B][/COLOR]</title></info>
 <link>$doregex[makelist]</link>
 <regex>
             <name>makelist</name>
@@ -58,7 +58,7 @@
 <title>[COLOR blue][COLOR white][B] Atomica:[/B][/COLOR][B] Estructura Atomica[/B][/COLOR]</title>
 <thumbnail>https://i.imgur.com/xP0Q2sN.jpg</thumbnail>
 <fanart>https://i.imgur.com/3blAZfv.jpg</fanart>
-<info>[COLOR white][B][B]Fisica Cuantica ...[/B][/COLOR]</title></info>
+<info>[COLOR white][B]Fisica Cuantica ...[/B][/COLOR]</title></info>
 <link>$doregex[makelist]</link>
 <regex>
             <name>makelist</name>
@@ -78,7 +78,7 @@
 <title>[COLOR blue][COLOR white][B] Atomica:[/B][/COLOR][B] Modelos Atomicos[/B][/COLOR]</title>
 <thumbnail>https://i.imgur.com/xP0Q2sN.jpg</thumbnail>
 <fanart>https://i.imgur.com/3blAZfv.jpg</fanart>
-<info>[COLOR white][B][B]Fisica Cuantica...[/B][/COLOR]</title></info>
+<info>[COLOR white][B]Fisica Cuantica...[/B][/COLOR]</title></info>
 <link>$doregex[makelist]</link>
 <regex>
             <name>makelist</name>
@@ -101,7 +101,7 @@
 <jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=Fisica+Atomica&sp=CAJCBAgBEgA%253D&search_type=playlist</jsonrpc>
 <thumbnail>https://i.imgur.com/xP0Q2sN.jpg</thumbnail>
 <fanart>https://i.imgur.com/3blAZfv.jpg</fanart>
-<info>[COLOR white][B][B]Contenido general del buscador de Youtube...[/B][/COLOR]</title></info>
+<info>[COLOR white][B]Contenido general del buscador de Youtube...[/B][/COLOR]</title></info>
 </item>
 
 <item>
@@ -110,7 +110,7 @@
 <jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=documentales+fisica+Atomica&sp=CAJCBAgBEgA%253D&search_type=playlist</jsonrpc>
 <thumbnail>https://i.imgur.com/xP0Q2sN.jpg</thumbnail>
 <fanart>https://i.imgur.com/3blAZfv.jpg</fanart>
-<info>[COLOR white][B][B]Contenido general del buscador de Youtube...[/B][/COLOR]</title></info>
+<info>[COLOR white][B]Contenido general del buscador de Youtube...[/B][/COLOR]</title></info>
 </item>
 
 
