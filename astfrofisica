@@ -3,8 +3,7 @@
 
 <item>
 <title>[COLOR blue][B] Astrofisica: [/B][/COLOR]</title>
-<link>nolink</link>
-  <fanart>https://i.imgur.com/zBlww2I.jpg</fanart> 
+<link>nolink</link><fanart>https://i.imgur.com/3blAZfv.jpg</fanart> 
   <thumbnail>https://i.imgur.com/24W9FMw.jpg</thumbnail>
 <info>[COLOR white][B]Fisica Cuantica Astrofisica...[/B][/COLOR]</title></info>
 </item>
@@ -14,7 +13,7 @@
 <title>[COLOR blue][COLOR white][B] Astrofisica:[/B][/COLOR][B] El Universo [/B][/COLOR]</title>
 <link>ignore</link>
 <jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=documental+de+UNIVERSO&sp=EgIQAw%253D%253D&search_type=playlist</jsonrpc>
-  <fanart>https://i.imgur.com/zBlww2I.jpg</fanart> 
+  <fanart>https://i.imgur.com/3blAZfv.jpg</fanart> 
   <thumbnail>https://i.imgur.com/24W9FMw.jpg</thumbnail>
   <info>[COLOR white][B]Fisica Cuantica Astrofisica...[/B][/COLOR]</title></info>
 </item>
@@ -23,16 +22,16 @@
 <title>[COLOR blue][COLOR white][B] Astrofisica:[/B][/COLOR][B] El Cosmos Carl Sagan[/B][/COLOR]</title>
 <link>ignore</link>
 <jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=documental+de+El+Cosmos+Carl+Sagan&sp=EgIQAw%253D%253D&search_type=playlist</jsonrpc>
-  <fanart>https://i.imgur.com/zBlww2I.jpg</fanart> 
+ <fanart>https://i.imgur.com/3blAZfv.jpg</fanart> 
   <thumbnail>https://i.imgur.com/24W9FMw.jpg</thumbnail>
   <info>[COLOR white][B]Fisica Cuantica Astrofisica...[/B][/COLOR]</title></info>
  </item>
 
 <item>
-<title>[COLOR blue][COLOR white][B] Astrofisica:[/B][/COLOR][B]El Universo de Stephen Hawking[/B][/COLOR]</title>
+<title>[COLOR blue][COLOR white][B] Astrofisica:[/B][/COLOR][B] El Universo de Stephen Hawking[/B][/COLOR]</title>
 <link>ignore</link>
 <jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=el+universo+de+stephen+hawking&sp=EgIQAw%253D%253D&search_type=playlist</jsonrpc>
-  <fanart>https://i.imgur.com/zBlww2I.jpg</fanart> 
+<fanart>https://i.imgur.com/3blAZfv.jpg</fanart> 
   <thumbnail>https://i.imgur.com/24W9FMw.jpg</thumbnail>
   <info>[COLOR white][B]Fisica Cuantica Astrofisica...[/B][/COLOR]</title></info>
 </item>
@@ -42,7 +41,7 @@
 <title>[COLOR blue][COLOR white][B] Astrofisica:[/B][/COLOR][B] Grandes Misterios Del Universo con Morgan Freeman[/B][/COLOR]</title>
 <link>ignore</link>
 <jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=Grandes+Misterios+Del+Universo+con+Morgan+Freeman&sp=EgIQAw%253D%253D&search_type=playlist</jsonrpc>
-  <fanart>https://i.imgur.com/zBlww2I.jpg</fanart> 
+<fanart>https://i.imgur.com/3blAZfv.jpg</fanart> 
   <thumbnail>https://i.imgur.com/24W9FMw.jpg</thumbnail>
   <info>[COLOR white][B]Fisica Cuantica Astrofisica...[/B][/COLOR]</title></info>
 </item>
@@ -52,17 +51,17 @@
 <title>[COLOR blue][COLOR white][B] Astrofisica:[/B][/COLOR][B] Viajes Espaciales[/B][/COLOR]</title>
 <link>ignore</link>
 <jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=documentales+de+viajes+espaciales&sp=EgIQAw%253D%253D&search_type=playlist</jsonrpc>
-  <fanart>https://i.imgur.com/zBlww2I.jpg</fanart> 
+<fanart>https://i.imgur.com/3blAZfv.jpg</fanart> 
   <thumbnail>https://i.imgur.com/24W9FMw.jpg</thumbnail>
   <info>[COLOR white][B]Fisica Cuantica Astrofisica...[/B][/COLOR]</title></info>
 </item>
 
 
 <item>
-<title>[COLOR blue][COLOR white][B] Astrofisica:[/B][/COLOR][B]Universo: NASA[/B][/COLOR]</title>
+<title>[COLOR blue][COLOR white][B] Astrofisica:[/B][/COLOR][B] NASA[/B][/COLOR]</title>
 <link>ignore</link>
 <jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=documentales+de+NASA&sp=EgIQAw%253D%253D&search_type=playlist</jsonrpc>
-  <fanart>https://i.imgur.com/zBlww2I.jpg</fanart> 
+  <fanart>https://i.imgur.com/3blAZfv.jpg</fanart> 
   <thumbnail>https://i.imgur.com/24W9FMw.jpg</thumbnail>
   <info>[COLOR white][B]Fisica Cuantica Astrofisica...[/B][/COLOR]</title></info>
 </item>
@@ -73,7 +72,7 @@
 <title>[COLOR blue][COLOR white][B] Astrofisica:[/B][/COLOR][B] Universos Paralelos[/B][/COLOR]</title>
 <link>ignore</link>
 <jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=documentales+de+Universos+Paralelos&sp=EgIQAw%253D%253D&search_type=playlist</jsonrpc>
-  <fanart>https://i.imgur.com/zBlww2I.jpg</fanart> 
+<fanart>https://i.imgur.com/3blAZfv.jpg</fanart> 
   <thumbnail>https://i.imgur.com/24W9FMw.jpg</thumbnail>
   <info>[COLOR white][B]Fisica Cuantica Astrofisica...[/B][/COLOR]</title></info>
 </item>
@@ -84,7 +83,7 @@
 <title>[COLOR blue][COLOR white][B] Astrofisica:[/B][/COLOR][B] Universo Inexplicable [/B][/COLOR]</title>
 <link>ignore</link>
 <jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=documentales+de+Universo+inexplicable+con+Neil+deGrasse+Tyson+Isaac&search_type=playlist</jsonrpc>
-  <fanart>https://i.imgur.com/zBlww2I.jpg</fanart> 
+<fanart>https://i.imgur.com/3blAZfv.jpg</fanart> 
   <thumbnail>https://i.imgur.com/24W9FMw.jpg</thumbnail>
   <info>[COLOR white][B]Fisica Cuantica Astrofisica...[/B][/COLOR]</title></info>
 </item>
@@ -94,14 +93,14 @@
 <title>[COLOR blue][COLOR white][B] Astrofisica:[/B][/COLOR][B] ISS Estacion Internacional [/B][/COLOR]</title>
 <link>ignore</link>
 <jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=iss+la+estacion+internacional+castellano&sp=CAISBBABGAJCBAgAEgA%253D&search_type=playlist</jsonrpc>
-  <fanart>https://i.imgur.com/zBlww2I.jpg</fanart> 
+<fanart>https://i.imgur.com/3blAZfv.jpg</fanart> 
   <thumbnail>https://i.imgur.com/24W9FMw.jpg</thumbnail>
   <info>[COLOR white][B]Fisica Cuantica Astrofisica...[/B][/COLOR]</title></info>
 </item>
 
 <item>
 <title>[COLOR blue][COLOR white][B] Astrofisica:[/B][/COLOR][B] Origenes[/B][/COLOR]</title>
-  <fanart>https://i.imgur.com/zBlww2I.jpg</fanart> 
+  <fanart>https://i.imgur.com/3blAZfv.jpg</fanart> 
   <thumbnail>https://i.imgur.com/24W9FMw.jpg</thumbnail>
 <info>[COLOR white][B]Fisica Cuantica...[/B][/COLOR]</title></info>
 <link>$doregex[makelist]</link>
@@ -110,7 +109,7 @@
             <listrepeat><![CDATA[
                         <title>[makelist.param1]</title>
                         <link>plugin://plugin.video.youtube/play/?video_id=[makelist.param2]</link>
-  <fanart>https://i.imgur.com/zBlww2I.jpg</fanart> 
+<fanart>https://i.imgur.com/3blAZfv.jpg</fanart> 
   <thumbnail>https://i.imgur.com/24W9FMw.jpg</thumbnail>
             ]]></listrepeat>
             <expres>data-video-title="(.*?)".*?\n.*?\n.*?\n.*?\n.*?&lt;a href="\/watch\?v=(.*?)&amp;</expres>
@@ -119,29 +118,11 @@
 </regex>
 </item>
 
-<item>
-<title>[COLOR blue][COLOR white][B] Astrofisica:[/B][/COLOR][B] Origenes[/B][/COLOR]</title>
-  <fanart>https://i.imgur.com/zBlww2I.jpg</fanart> 
-  <thumbnail>https://i.imgur.com/24W9FMw.jpg</thumbnail>
-<info>[COLOR white][B]Fisica Cuantica...[/B][/COLOR]</title></info>
-<link>$doregex[makelist]</link>
-<regex>
-            <name>makelist</name>
-            <listrepeat><![CDATA[
-                        <title>[makelist.param1]</title>
-                        <link>plugin://plugin.video.youtube/play/?video_id=[makelist.param2]</link>
-  <fanart>https://i.imgur.com/zBlww2I.jpg</fanart> 
-  <thumbnail>https://i.imgur.com/24W9FMw.jpg</thumbnail>
-            ]]></listrepeat>
-            <expres>data-video-title="(.*?)".*?\n.*?\n.*?\n.*?\n.*?&lt;a href="\/watch\?v=(.*?)&amp;</expres>
-            <page>https://www.youtube.com/watch?v=z9H6DTubBWE&amp;list=PLHvT0jDq3ctM1C0PzNf8xsXs2BXbw86q5</page>
-             <cookieJar></cookieJar>
-</regex>
-</item>
+
 
 <item>
 <title>[COLOR blue][COLOR white][B] Astrofisica:[/B][/COLOR][B] Astrofísica y Astronomía (484 Videos) [/B][/COLOR]</title>
-  <fanart>https://i.imgur.com/zBlww2I.jpg</fanart> 
+<fanart>https://i.imgur.com/3blAZfv.jpg</fanart> 
   <thumbnail>https://i.imgur.com/24W9FMw.jpg</thumbnail>
 <info>[COLOR white][B]Fisica Cuantica...[/B][/COLOR]</title></info>
 <link>$doregex[makelist]</link>
@@ -150,7 +131,7 @@
             <listrepeat><![CDATA[
                         <title>[makelist.param1]</title>
                         <link>plugin://plugin.video.youtube/play/?video_id=[makelist.param2]</link>
-  <fanart>https://i.imgur.com/zBlww2I.jpg</fanart> 
+ <fanart>https://i.imgur.com/3blAZfv.jpg</fanart> 
   <thumbnail>https://i.imgur.com/24W9FMw.jpg</thumbnail>
             ]]></listrepeat>
             <expres>data-video-title="(.*?)".*?\n.*?\n.*?\n.*?\n.*?&lt;a href="\/watch\?v=(.*?)&amp;</expres>
@@ -161,7 +142,7 @@
 
 <item>
 <title>[COLOR blue][COLOR white][B] Astrofisica:[/B][/COLOR][B] Curso Rapido de Astrofisica [/B][/COLOR]</title>
-  <fanart>https://i.imgur.com/zBlww2I.jpg</fanart> 
+ <fanart>https://i.imgur.com/3blAZfv.jpg</fanart> 
   <thumbnail>https://i.imgur.com/24W9FMw.jpg</thumbnail>
 <info>[COLOR white][B]Fisica Cuantica...[/B][/COLOR]</title></info>
 <link>$doregex[makelist]</link>
@@ -170,7 +151,7 @@
             <listrepeat><![CDATA[
                         <title>[makelist.param1]</title>
                         <link>plugin://plugin.video.youtube/play/?video_id=[makelist.param2]</link>
-  <fanart>https://i.imgur.com/zBlww2I.jpg</fanart> 
+<fanart>https://i.imgur.com/3blAZfv.jpg</fanart> 
   <thumbnail>https://i.imgur.com/24W9FMw.jpg</thumbnail>
             ]]></listrepeat>
             <expres>data-video-title="(.*?)".*?\n.*?\n.*?\n.*?\n.*?&lt;a href="\/watch\?v=(.*?)&amp;</expres>
