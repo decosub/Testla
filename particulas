@@ -75,7 +75,7 @@
 <item>
 <title>[COLOR blue][COLOR white][B] Particulas:[/B][/COLOR][B] Documentales[/B][/COLOR]</title>
 <link>ignore</link>
-<jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=documental+fisica+de+particulas&sp=EgIYAkIECAESAA%253D%253D&search_type=playlist</jsonrpc>
+<jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=documentales+fisica+particulas&search_type=playlist</jsonrpc>
 <thumbnail>https://i.imgur.com/F4OqnBl.jpg</thumbnail>
 <fanart>https://i.imgur.com/3blAZfv.jpg</fanart>
 <info>[COLOR white][B]Contenido general del buscador de Youtube...[/B][/COLOR]</title></info>
