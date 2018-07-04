@@ -2,11 +2,11 @@
 
 
 <item>
-<title>[COLOR blue][B] Teoria: [/B][/COLOR]</title>
+<title>[COLOR blue][B] Teorica: [/B][/COLOR]</title>
 <link>nolink</link>
 <thumbnail>https://i.imgur.com/pjoaq8o.jpg</thumbnail>
 <fanart>https://i.imgur.com/3blAZfv.jpg</fanart>
-<info>[COLOR white][B][B]Fisica Teoria ...[/B][/COLOR]</title></info>
+<info>[COLOR white][B][B]Fisica Cuantica Teorica ...[/B][/COLOR]</title></info>
 </item>
 
 
@@ -15,7 +15,7 @@
 <title>[COLOR blue][COLOR white][B] Teorica:[/B][/COLOR][B] Teoria de Cuerdas[/B][/COLOR]</title>
 <thumbnail>https://i.imgur.com/pjoaq8o.jpg</thumbnail>
 <fanart>https://i.imgur.com/3blAZfv.jpg</fanart>
-<info>[COLOR white][B][B]Fisica Cuantica ...[/B][/COLOR]</title></info>
+<info>[COLOR white][B][B]Fisica Cuantica Teorica ...[/B][/COLOR]</title></info>
 <link>$doregex[makelist]</link>
 <regex>
             <name>makelist</name>
@@ -36,7 +36,7 @@
 <title>[COLOR blue][COLOR white][B] Teorica:[/B][/COLOR][B] Teoria del todo[/B][/COLOR]</title>
 <thumbnail>https://i.imgur.com/pjoaq8o.jpg</thumbnail>
 <fanart>https://i.imgur.com/3blAZfv.jpg</fanart>
-<info>[COLOR white][B][B]Fisica Cuantica ...[/B][/COLOR]</title></info>
+<info>[COLOR white][B][B]Fisica Cuantica Teorica ...[/B][/COLOR]</title></info>
 <link>$doregex[makelist]</link>
 <regex>
             <name>makelist</name>
@@ -58,7 +58,7 @@
 <title>[COLOR blue][COLOR white][B] Teorica:[/B][/COLOR][B] Teoria cuantica[/B][/COLOR]</title>
 <thumbnail>https://i.imgur.com/pjoaq8o.jpg</thumbnail>
 <fanart>https://i.imgur.com/3blAZfv.jpg</fanart>
-<info>[COLOR white][B][B]Fisica Cuantica ...[/B][/COLOR]</title></info>
+<info>[COLOR white][B][B]Fisica Cuantica Teorica ...[/B][/COLOR]</title></info>
 <link>$doregex[makelist]</link>
 <regex>
             <name>makelist</name>
@@ -79,7 +79,7 @@
 <title>[COLOR blue][COLOR white][B] Teorica:[/B][/COLOR][B] Las 10 Leyes y Teorías Más Importantes de la Ciencia[/B][/COLOR]</title>
 <thumbnail>https://i.imgur.com/pjoaq8o.jpg</thumbnail>
 <fanart>https://i.imgur.com/3blAZfv.jpg</fanart>
-<info>[COLOR white][B][B]Fisica Cuantica...[/B][/COLOR]</title></info>
+<info>[COLOR white][B][B]Fisica Cuantica Teorica ...[/B][/COLOR]</title></info>
 <link>$doregex[makelist]</link>
 <regex>
             <name>makelist</name>
@@ -100,7 +100,7 @@
 <title>[COLOR blue][COLOR white][B] Teorica:[/B][/COLOR][B] Teorias[/B][/COLOR]</title>
 <thumbnail>https://i.imgur.com/pjoaq8o.jpg</thumbnail>
 <fanart>https://i.imgur.com/3blAZfv.jpg</fanart>
-<info>[COLOR white][B][B]Fisica Cuantica...[/B][/COLOR]</title></info>
+<info>[COLOR white][B][B]Fisica Cuantica Teorica ...[/B][/COLOR]</title></info>
 <link>$doregex[makelist]</link>
 <regex>
             <name>makelist</name>
@@ -123,7 +123,7 @@
 <jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=Fisica+teorica&sp=CAJCBAgBEgA%253D&search_type=playlist</jsonrpc>
 <thumbnail>https://i.imgur.com/pjoaq8o.jpg</thumbnail>
 <fanart>https://i.imgur.com/3blAZfv.jpg</fanart>
-<info>[COLOR white][B][B]Contenido general del buscador de Youtube...[/B][/COLOR]</title></info>
+<info>[COLOR white][B][B]Fisica Cuantica Teorica ...[/B][/COLOR]</title></info>
 </item>
 
 <item>
@@ -132,7 +132,7 @@
 <jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=documentales+fisica+cuantica+teorica&sp=CAJCBAgBEgA%253D&search_type=playlist</jsonrpc>
 <thumbnail>https://i.imgur.com/pjoaq8o.jpg</thumbnail>
 <fanart>https://i.imgur.com/3blAZfv.jpg</fanart>
-<info>[COLOR white][B][B]Contenido general del buscador de Youtube...[/B][/COLOR]</title></info>
+<info>[COLOR white][B][B]Fisica Cuantica Teorica ...[/B][/COLOR]</title></info>
 </item>
 
 
@@ -142,7 +142,7 @@
 <link>$doregex[makelist]</link>
    <fanart>https://i.imgur.com/zBlww2I.jpg</fanart> 
   <thumbnail>https://i.imgur.com/T2ibdjM.jpg</thumbnail>
- <info>[COLOR white][B]Buscador de Youtube donde podras encontrar todo el contenido relacionado con la Fisica Cuantica.[/B][/COLOR]</info>
+ <info>[COLOR white][B]Buscador de Youtube donde podras encontrar todo el contenido relacionado con la Fisica Cuantica Teorica.[/B][/COLOR]</info>
 <regex>
 <name>makelist</name>
 <listrepeat><![CDATA[
