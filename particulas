@@ -48,7 +48,7 @@
 <fanart>https://i.imgur.com/3blAZfv.jpg</fanart>
             ]]></listrepeat>
             <expres>data-video-title="(.*?)".*?\n.*?\n.*?\n.*?\n.*?&lt;a href="\/watch\?v=(.*?)&amp;</expres>
-            <page>https://www.youtube.com/watch?v=kXOQH4CQCU&amp;list=PLB84ABC9D007DA228</page>
+            <page>https://www.youtube.com/watch?v=-kXOQH4CQCU&amp;list=PLB84ABC9D007DA228</page>
              <cookieJar></cookieJar>
 </regex>
 </item>
@@ -75,7 +75,7 @@
 <item>
 <title>[COLOR blue][COLOR white][B] Particulas:[/B][/COLOR][B] Documentales[/B][/COLOR]</title>
 <link>ignore</link>
-<jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=documental+fisica+de+particulassp=sp=EgIYAkIECAESAA%253D%253D&search_type=playlist</jsonrpc>
+<jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=documental+fisica+de+particulassp&sp=EgIYAkIECAESAA%253D%253D&search_type=playlist</jsonrpc>
 <thumbnail>https://i.imgur.com/F4OqnBl.jpg</thumbnail>
 <fanart>https://i.imgur.com/3blAZfv.jpg</fanart>
 <info>[COLOR white][B]Contenido general del buscador de Youtube...[/B][/COLOR]</title></info>
