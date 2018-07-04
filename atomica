@@ -113,7 +113,14 @@
 <info>[COLOR white][B]Contenido general del buscador de Youtube...[/B][/COLOR]</title></info>
 </item>
 
-
+<item>
+<title>[COLOR blue][COLOR white][B] Atomica:[/B][/COLOR][B] Energia Nuclear[/B][/COLOR]</title>
+<link>nolink</link>
+<jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=documentales+energia+nuclear&sp=CAJCBAgBEgA%253D&search_type=playlist</jsonrpc>
+  <fanart>https://i.imgur.com/zBlww2I.jpg</fanart> 
+  <thumbnail>https://i.imgur.com/3blAZfv.jpg</thumbnail>
+ <info>[COLOR white][B]En esta seccion de fisica Encontraras: Fisica Clasica, Fisica Cuantica...[/B][/COLOR]</title></info>
+</item>
 
 
 <item><title>[COLOR blue][B] Buscador de Contenidos: Fisica Cuantica Atomica[/B][/COLOR]</title>
