@@ -82,16 +82,6 @@
 <info>[COLOR white][B]Contenido general del buscador de Youtube...[/B][/COLOR]</title></info>
 </item>
 
-<item>
-<title>[COLOR blue][COLOR white][B] Molecular:[/B][/COLOR][B] Computacion Cuantica Molecular[/B][/COLOR]</title>
-<link>ignore</link>
-<jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=computacion+cuantica+Molecular&sp=CAJCBAgBEgA%253D&search_type=playlist</jsonrpc>
-<thumbnail>https://i.imgur.com/SahqSe0.jpg</thumbnail>
-<fanart>https://i.imgur.com/3blAZfv.jpg</fanart>
-<info>[COLOR white][B]Contenido general del buscador de Youtube...[/B][/COLOR]</title></info>
-</item>
-
-
 
 
 <item><title>[COLOR blue][B] Buscador de Contenidos: Fisica Cuantica Molecular[/B][/COLOR]</title>
