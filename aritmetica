@@ -1,15 +1,4 @@
 
-
-<item>
-<title>[COLOR blue][COLOR white][B] Naturales:[/B][/COLOR][B] Documentales de Naturaleza[/B][/COLOR]</title>
-<link>ignore</link>
-<jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=documentales+de+naturaleza&search_type=playlist</jsonrpc>
-<thumbnail>https://i.imgur.com/k3Z7vcG.jpg</thumbnail>
-<fanart>https://i.imgur.com/BTXNERT.jpg</fanart>
-<info>[COLOR white][B]Ciencias Naturales...[/B][/COLOR]</title></info>
-</item>
-
-
 <item>
 <title>[COLOR blue][COLOR white][B] Aritmetica:[/B][/COLOR][B] Curso de Aritmetica[/B][/COLOR]</title>
 <thumbnail>https://i.imgur.com/k3Z7vcG.jpg</thumbnail>
