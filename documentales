@@ -11,7 +11,7 @@
 </item>
 
 <item>
-<title>[COLOR blue] Documentales:[/B][/COLOR]</title>
+<title>[COLOR blue][B] Documentales:[/B][/COLOR]</title>
 <link>nolink</link>
 <jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=documentales+de+fisica+ciencia&search_type=playlist</jsonrpc>
      <fanart>https://i.imgur.com/Q50BLxY.jpg</fanart> 
@@ -31,7 +31,7 @@
 
 
 <item>
-<title>[COLOR blue][B]Redes Tv (Eduart Punset)[/B][/COLOR]</title>
+<title>[COLOR blue][B] Redes Tv (Eduart Punset)[/B][/COLOR]</title>
 <link>ignore</link>
 <jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=eduard+punset+redes&sp=EgIQAw%253D%253D&search_type=playlist</jsonrpc>
   <fanart>https://i.imgur.com/Q50BLxY.jpg</fanart> 
@@ -76,7 +76,7 @@ import requests,xbmcgui,xbmc, re,time, xbmcaddon
 def GetLSProData(page_data,Cookie_Jar,m):
  
  text=takeInputFortext('[COLOR white][B] Tesla [/B][/COLOR] [COLOR blue]Buscador de Contenidos[/COLOR]')
- url = 'https://www.youtube.com/results?search_query=conferencias' + text.replace(' ', '+')
+ url = 'https://www.youtube.com/results?search_query=Documentales' + text.replace(' ', '+')
  req = requests.get(url)
  list1 = re.findall('yt-lockup-c.+?a\shref=".watch.v=([^"]+)".+?\s\stitle="([^"]+)"\s', req.text)
  
@@ -127,11 +127,11 @@ class InputWindow(xbmcgui.WindowDialog):
 </regex>
 </item>
 <item>
-<item><title>[COLOR blue][B] Buscador de Documentales [/B][/COLOR]</title>
+<item><title>[COLOR blue][B] Buscador de Conferencias [/B][/COLOR]</title>
 <link>$doregex[makelist]</link>
 <thumbnail>https://i.imgur.com/T2ibdjM.jpg</thumbnail>
  <fanart>https://i.imgur.com/3blAZfv.jpg</fanart> 
- <info>[COLOR white][B]Buscador de Youtube donde podras encontrar todo tipo de Documentales[/B][/COLOR]</info>
+ <info>[COLOR white][B]Buscador de Youtube donde podras encontrar todo tipo De Conferencias[/B][/COLOR]</info>
 <regex>
 <name>makelist</name>
 <listrepeat><![CDATA[
@@ -163,7 +163,7 @@ import requests,xbmcgui,xbmc, re,time, xbmcaddon
 def GetLSProData(page_data,Cookie_Jar,m):
  
  text=takeInputFortext('[COLOR white][B] Tesla [/B][/COLOR] [COLOR blue]Buscador de Contenidos[/COLOR]')
- url = 'https://www.youtube.com/results?search_query=Documentales' + text.replace(' ', '+')
+ url = 'https://www.youtube.com/results?search_query=Conferencias' + text.replace(' ', '+')
  req = requests.get(url)
  list1 = re.findall('yt-lockup-c.+?a\shref=".watch.v=([^"]+)".+?\s\stitle="([^"]+)"\s', req.text)
  
