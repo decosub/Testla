@@ -1,0 +1,215 @@
+
+
+<item>
+<title>[COLOR blue][COLOR white][B] Naturales:[/B][/COLOR][B] Documentales de Naturaleza[/B][/COLOR]</title>
+<link>ignore</link>
+<jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=documentales+de+naturaleza&search_type=playlist</jsonrpc>
+<thumbnail>https://i.imgur.com/k3Z7vcG.jpg</thumbnail>
+<fanart>https://i.imgur.com/BTXNERT.jpg</fanart>
+<info>[COLOR white][B]Ciencias Naturales...[/B][/COLOR]</title></info>
+</item>
+
+
+<item>
+<title>[COLOR blue][COLOR white][B] Aritmetica:[/B][/COLOR][B] Curso de Aritmetica[/B][/COLOR]</title>
+<thumbnail>https://i.imgur.com/k3Z7vcG.jpg</thumbnail>
+<fanart>https://i.imgur.com/BTXNERT.jpg</fanart>
+<info>[COLOR white][B] Ciencias Naturales..[/B][/COLOR]</title></info>
+<link>$doregex[makelist]</link>
+<regex>
+            <name>makelist</name>
+            <listrepeat><![CDATA[
+                        <title>[makelist.param1]</title>
+                        <link>plugin://plugin.video.youtube/play/?video_id=[makelist.param2]</link>
+<thumbnail>https://i.imgur.com/k3Z7vcG.jpg</thumbnail>
+<fanart>https://i.imgur.com/BTXNERT.jpg</fanart>
+            ]]></listrepeat>
+            <expres>data-video-title="(.*?)".*?\n.*?\n.*?\n.*?\n.*?&lt;a href="\/watch\?v=(.*?)&amp;</expres>
+            <page>https://www.youtube.com/watch?v=E2MsDCSkxZ4&amp;list=PL9SnRnlzoyX1MVuXSqPt2Q_gxC8RGcIu_</page>
+             <cookieJar></cookieJar>
+</regex>
+</item>
+
+<item>
+<title>[COLOR blue][COLOR white][B] Aritmetica:[/B][/COLOR][B] Aritmetica Modular[/B][/COLOR]</title>
+<thumbnail>https://i.imgur.com/k3Z7vcG.jpg</thumbnail>
+<fanart>https://i.imgur.com/BTXNERT.jpg</fanart>
+<info>[COLOR white][B] Ciencias Naturales..[/B][/COLOR]</title></info>
+<link>$doregex[makelist]</link>
+<regex>
+            <name>makelist</name>
+            <listrepeat><![CDATA[
+                        <title>[makelist.param1]</title>
+                        <link>plugin://plugin.video.youtube/play/?video_id=[makelist.param2]</link>
+<thumbnail>https://i.imgur.com/k3Z7vcG.jpg</thumbnail>
+<fanart>https://i.imgur.com/BTXNERT.jpg</fanart>
+            ]]></listrepeat>
+            <expres>data-video-title="(.*?)".*?\n.*?\n.*?\n.*?\n.*?&lt;a href="\/watch\?v=(.*?)&amp;</expres>
+            <page>https://www.youtube.com/watch?v=9ujeg7c8HVI&amp;list=PLrXFGV88hGBUfsKDX9afEgDzunMYlkByk</page>
+             <cookieJar></cookieJar>
+</regex>
+</item>
+
+<item>
+<title>[COLOR blue][COLOR white][B] Aritmetica:[/B][/COLOR][B] Progresiones Aritméticas y Geométricasritmetica Modular[/B][/COLOR]</title>
+<thumbnail>https://i.imgur.com/k3Z7vcG.jpg</thumbnail>
+<fanart>https://i.imgur.com/BTXNERT.jpg</fanart>
+<info>[COLOR white][B] Ciencias Naturales..[/B][/COLOR]</title></info>
+<link>$doregex[makelist]</link>
+<regex>
+            <name>makelist</name>
+            <listrepeat><![CDATA[
+                        <title>[makelist.param1]</title>
+                        <link>plugin://plugin.video.youtube/play/?video_id=[makelist.param2]</link>
+<thumbnail>https://i.imgur.com/k3Z7vcG.jpg</thumbnail>
+<fanart>https://i.imgur.com/BTXNERT.jpg</fanart>
+            ]]></listrepeat>
+            <expres>data-video-title="(.*?)".*?\n.*?\n.*?\n.*?\n.*?&lt;a href="\/watch\?v=(.*?)&amp;</expres>
+            <page>https://www.youtube.com/watch?v=p1bISrYVtQE&amp;list=PLunRFUHsCA1wlSvNuu6cZvvfbfjTr7kgW</page>
+             <cookieJar></cookieJar>
+</regex>
+</item>
+<item>
+<title>[COLOR blue][COLOR white][B] Aritmetica:[/B][/COLOR][B] Leyes de la Aritmetica[/B][/COLOR]</title>
+<thumbnail>https://i.imgur.com/k3Z7vcG.jpg</thumbnail>
+<fanart>https://i.imgur.com/BTXNERT.jpg</fanart>
+<info>[COLOR white][B] Ciencias Naturales..[/B][/COLOR]</title></info>
+<link>$doregex[makelist]</link>
+<regex>
+            <name>makelist</name>
+            <listrepeat><![CDATA[
+                        <title>[makelist.param1]</title>
+                        <link>plugin://plugin.video.youtube/play/?video_id=[makelist.param2]</link>
+<thumbnail>https://i.imgur.com/k3Z7vcG.jpg</thumbnail>
+<fanart>https://i.imgur.com/BTXNERT.jpg</fanart>
+            ]]></listrepeat>
+            <expres>data-video-title="(.*?)".*?\n.*?\n.*?\n.*?\n.*?&lt;a href="\/watch\?v=(.*?)&amp;</expres>
+            <page>https://www.youtube.com/watch?v=TtwgTeB4Fv0&amp;list=PLVOluR24Fa7W72XoUqdlHRS8k1nrtagFc</page>
+             <cookieJar></cookieJar>
+</regex>
+</item>
+
+<item>
+<title>[COLOR blue][COLOR white][B] Aritmetica:[/B][/COLOR][B] Las Leyes del 9[/B][/COLOR]</title>
+<thumbnail>https://i.imgur.com/k3Z7vcG.jpg</thumbnail>
+<fanart>https://i.imgur.com/BTXNERT.jpg</fanart>
+<info>[COLOR white][B] Ciencias Naturales..[/B][/COLOR]</title></info>
+<link>$doregex[makelist]</link>
+<regex>
+            <name>makelist</name>
+            <listrepeat><![CDATA[
+                        <title>[makelist.param1]</title>
+                        <link>plugin://plugin.video.youtube/play/?video_id=[makelist.param2]</link>
+<thumbnail>https://i.imgur.com/k3Z7vcG.jpg</thumbnail>
+<fanart>https://i.imgur.com/BTXNERT.jpg</fanart>
+            ]]></listrepeat>
+            <expres>data-video-title="(.*?)".*?\n.*?\n.*?\n.*?\n.*?&lt;a href="\/watch\?v=(.*?)&amp;</expres>
+            <page>https://www.youtube.com/watch?v=78LIPmhkdyg&amp;list=PLdDlVRL2dE_5EmXie4jFOUg7d5icwoWZd</page>
+             <cookieJar></cookieJar>
+</regex>
+</item>
+
+
+<item>
+<title>[COLOR blue][COLOR white][B] Aritmetica:[/B][/COLOR][B] Contenido General[/B][/COLOR]</title>
+<link>ignore</link>
+<jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=Aritmetica&sp=EgIQAw%253D%253D&search_type=playlist</jsonrpc>
+<thumbnail>https://i.imgur.com/k3Z7vcG.jpg</thumbnail>
+<fanart>https://i.imgur.com/BTXNERT.jpg</fanart>
+<info>[COLOR white][B]Ciencias Naturales Aritmetica, Busqueda General Youtube..[/B][/COLOR]</title></info>
+</item>
+
+<item><title>[COLOR blue][B] Buscador de Contenidos: Ciencias Naturales Aritmetica[/B][/COLOR]</title>
+<link>$doregex[makelist]</link>
+   <fanart>https://i.imgur.com/zBlww2I.jpg</fanart> 
+  <thumbnail>https://i.imgur.com/T2ibdjM.jpg</thumbnail>
+ <info>[COLOR white][B]Buscador de Youtube donde podras encontrar todo el contenido relacionado con la Ciencias Naturales.[/B][/COLOR]</info>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+<title>[COLOR white] Tesla: [/COLOR][COLOR blue][makelist.param2][/COLOR]</title>
+<link>$doregex[resolve]</link>
+<thumbnail>https://i.imgur.com/T2ibdjM.jpg</thumbnail>
+ <fanart>https://i.imgur.com/zBlww2I.jpg/fanart> 
+]]></listrepeat>
+<expres>u'(.+?)', u'(.+?)'</expres>
+<page>$doregex[search]</page>
+</regex>
+ 
+<regex>
+<name>resolve</name>
+<expres><![CDATA[#$pyFunction
+import urlresolver
+def GetLSProData(page_data,Cookie_Jar,m):
+ url = 'https://www.youtube.com/watch?v=[makelist.param1]'
+ streamLink = urlresolver.resolve(url)
+ return streamLink
+]]></expres>
+<page></page>
+</regex>
+ 
+<regex>
+<name>search</name>
+<expres><![CDATA[#$pyFunction
+import requests,xbmcgui,xbmc, re,time, xbmcaddon
+def GetLSProData(page_data,Cookie_Jar,m):
+ 
+ text=takeInputFortext('[COLOR white][B] Tesla [/B][/COLOR] [COLOR blue]Buscador de Contenidos[/COLOR]')
+ url = 'https://www.youtube.com/results?search_query=Aritmetica' + text.replace(' ', '+')
+ req = requests.get(url)
+ list1 = re.findall('yt-lockup-c.+?a\shref=".watch.v=([^"]+)".+?\s\stitle="([^"]+)"\s', req.text)
+ 
+ count = 50
+ while count > 1:
+   try:
+     url = 'https://www.youtube.com' + re.findall('a href="([^"]+)".+<\/a>\n <\/div>', req.text)[0]
+   except:
+     return list1
+   req = requests.get(url)
+   list2 = re.findall('yt-lockup-c.+?a\shref=".watch.v=([^"]+)".+?\s\stitle="([^"]+)"\s', req.text)
+   list1 = list1 + list2
+   count = count - 1
+ return list1
+ 
+def takeInputFortext(txt):
+ addon = xbmcaddon.Addon('plugin.video.Tesla')
+ addon_version = addon.getAddonInfo('version')
+ profile = xbmc.translatePath(addon.getAddonInfo('profile').decode('utf-8'))
+ 
+ solver = InputWindow( txt=txt)
+ solution = solver.get()
+ return solution
+ 
+class InputWindow(xbmcgui.WindowDialog):
+    def __init__(self, *args, **kwargs):
+       
+        self.txt = kwargs.get('txt','')
+ 
+        xbmcgui.WindowXMLDialog.__init__(self)
+        #self.addControl(self.txt)
+        path = xbmcaddon.Addon().getAddonInfo('path')
+        self.kbd = xbmc.Keyboard()
+        self.kbd.setHeading( self.txt)
+ 
+    def get(self):
+        self.show()
+        time.sleep(2)
+        self.kbd.doModal()
+        if (self.kbd.isConfirmed()):
+            text = self.kbd.getText()
+            self.close()
+            return text
+        self.close()
+        return False
+]]></expres>
+<page></page>
+</regex>
+</item>
+
+<item><title>[COLOR blue][B] Volver al Menu Principal...[/B][/COLOR]</title>
+<link>ignore</link>
+<externallink>https://bit.ly/2lqcXV2</externallink>
+<thumbnail>https://i.imgur.com/TK6sjvQ.jpg</thumbnail>
+<fanart>https://i.imgur.com/BTXNERT.jpg</fanart> 
+<info>[COLOR white][B]Volver al Menu Principal...[/B][/COLOR]</title></info>
+</item>
