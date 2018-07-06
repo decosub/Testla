@@ -1,0 +1,196 @@
+<item>
+<title>[COLOR blue][COLOR white][B] Bioquimica:[/B][/COLOR][B] Lecciones de Bioquimica[/B][/COLOR]</title>
+<thumbnail>https://i.imgur.com/DZ3BsMP.png</thumbnail>
+<fanart>https://i.imgur.com/BTXNERT.jpg</fanart>
+<info>[COLOR white][B] Ciencias Naturales Bioquimica..[/B][/COLOR]</title></info>
+<link>$doregex[makelist]</link>
+<regex>
+            <name>makelist</name>
+            <listrepeat><![CDATA[
+                        <title>[makelist.param1]</title>
+                        <link>plugin://plugin.video.youtube/play/?video_id=[makelist.param2]</link>
+<thumbnail>https://i.imgur.com/DZ3BsMP.png</thumbnail>
+<fanart>https://i.imgur.com/BTXNERT.jpg</fanart>
+            ]]></listrepeat>
+            <expres>data-video-title="(.*?)".*?\n.*?\n.*?\n.*?\n.*?&lt;a href="\/watch\?v=(.*?)&amp;</expres>
+            <page>https://www.youtube.com/watch?v=WR_fBFw7xpU&amp;list=PLClKgnzRFYe6StVjsc3mIobMDXU0eX9JZ</page>
+             <cookieJar></cookieJar>
+</regex>
+</item>
+
+<item>
+<title>[COLOR blue][COLOR white][B] Bioquimica:[/B][/COLOR][B] Bioquimica de los Alimentos[/B][/COLOR]</title>
+<thumbnail>https://i.imgur.com/DZ3BsMP.png</thumbnail>
+<fanart>https://i.imgur.com/BTXNERT.jpg</fanart>
+<info>[COLOR white][B] Ciencias Naturales Bioquimica..[/B][/COLOR]</title></info>
+<link>$doregex[makelist]</link>
+<regex>
+            <name>makelist</name>
+            <listrepeat><![CDATA[
+                        <title>[makelist.param1]</title>
+                        <link>plugin://plugin.video.youtube/play/?video_id=[makelist.param2]</link>
+<thumbnail>https://i.imgur.com/DZ3BsMP.png</thumbnail>
+<fanart>https://i.imgur.com/BTXNERT.jpg</fanart>
+            ]]></listrepeat>
+            <expres>data-video-title="(.*?)".*?\n.*?\n.*?\n.*?\n.*?&lt;a href="\/watch\?v=(.*?)&amp;</expres>
+            <page>https://www.youtube.com/watch?v=DMiazwPD0yw&amp;list=PLlzDA2Tp-IHSNCVoQVNC0GqSOe7mbk28B</page>
+             <cookieJar></cookieJar>
+</regex>
+</item>
+
+<item>
+<title>[COLOR blue][COLOR white][B] Bioquimica:[/B][/COLOR][B] Glucidos[/B][/COLOR]</title>
+<thumbnail>https://i.imgur.com/DZ3BsMP.png</thumbnail>
+<fanart>https://i.imgur.com/BTXNERT.jpg</fanart>
+<info>[COLOR white][B] Ciencias Naturales Bioquimica..[/B][/COLOR]</title></info>
+<link>$doregex[makelist]</link>
+<regex>
+            <name>makelist</name>
+            <listrepeat><![CDATA[
+                        <title>[makelist.param1]</title>
+                        <link>plugin://plugin.video.youtube/play/?video_id=[makelist.param2]</link>
+<thumbnail>https://i.imgur.com/DZ3BsMP.png</thumbnail>
+<fanart>https://i.imgur.com/BTXNERT.jpg</fanart>
+            ]]></listrepeat>
+            <expres>data-video-title="(.*?)".*?\n.*?\n.*?\n.*?\n.*?&lt;a href="\/watch\?v=(.*?)&amp;</expres>
+            <page>https://www.youtube.com/watch?v=6BI2P2RlxEI&amp;list=PL3RwIakfpFWZJD4N3-ba8PrPnNIiA3ot1</page>
+             <cookieJar></cookieJar>
+</regex>
+</item>
+
+<item>
+<title>[COLOR blue][COLOR white][B] Bioquimica:[/B][/COLOR][B] Pre-Bioquimica[/B][/COLOR]</title>
+<thumbnail>https://i.imgur.com/DZ3BsMP.png</thumbnail>
+<fanart>https://i.imgur.com/BTXNERT.jpg</fanart>
+<info>[COLOR white][B] Ciencias Naturales Bioquimica..[/B][/COLOR]</title></info>
+<link>$doregex[makelist]</link>
+<regex>
+            <name>makelist</name>
+            <listrepeat><![CDATA[
+                        <title>[makelist.param1]</title>
+                        <link>plugin://plugin.video.youtube/play/?video_id=[makelist.param2]</link>
+<thumbnail>https://i.imgur.com/DZ3BsMP.png</thumbnail>
+<fanart>https://i.imgur.com/BTXNERT.jpg</fanart>
+            ]]></listrepeat>
+            <expres>data-video-title="(.*?)".*?\n.*?\n.*?\n.*?\n.*?&lt;a href="\/watch\?v=(.*?)&amp;</expres>
+            <page>https://www.youtube.com/watch?v=DMiazwPD0yw&amp;list=PLQ4iWahoj8gmQbFO17csYKhe27BV9moR0</page>
+             <cookieJar></cookieJar>
+</regex>
+</item>
+
+<item>
+<title>[COLOR blue][COLOR white][B]Prueba[/B][/COLOR]</title>
+<link>ignore</link>
+<jsonrpc>plugin://plugin.video.youtube/channel/6BI2P2RlxEI/playlist/PL3RwIakfpFWZJD4N3-ba8PrPnNIiA3ot1/</jsonrpc>
+<thumbnail>https://i.imgur.com/DZ3BsMP.png</thumbnail>
+<fanart>https://i.imgur.com/BTXNERT.jpg</fanart>
+<info>[COLOR white][B]Ciencias Naturales Bioquimica, Busqueda General Youtube..[/B][/COLOR]</title></info>
+</item>
+
+
+
+
+
+<item>
+<title>[COLOR blue][COLOR white][B] Bioquimica:[/B][/COLOR][B] Contenido General[/B][/COLOR]</title>
+<link>ignore</link>
+<jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=Bioquimica&sp=EgIQAw%253D%253D&search_type=playlist</jsonrpc>
+<thumbnail>https://i.imgur.com/DZ3BsMP.png</thumbnail>
+<fanart>https://i.imgur.com/BTXNERT.jpg</fanart>
+<info>[COLOR white][B]Ciencias Naturales Bioquimica, Busqueda General Youtube..[/B][/COLOR]</title></info>
+</item>
+
+<item><title>[COLOR blue][B] Buscador de Contenidos: Ciencias Naturales Bioquimica[/B][/COLOR]</title>
+<link>$doregex[makelist]</link>
+   <fanart>https://i.imgur.com/zBlww2I.jpg</fanart> 
+  <thumbnail>https://i.imgur.com/T2ibdjM.jpg</thumbnail>
+ <info>[COLOR white][B]Buscador de Youtube donde podras encontrar todo el contenido relacionado con la Ciencias Naturales.[/B][/COLOR]</info>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+<title>[COLOR white] Tesla: [/COLOR][COLOR blue][makelist.param2][/COLOR]</title>
+<link>$doregex[resolve]</link>
+<thumbnail>https://i.imgur.com/T2ibdjM.jpg</thumbnail>
+ <fanart>https://i.imgur.com/zBlww2I.jpg/fanart> 
+]]></listrepeat>
+<expres>u'(.+?)', u'(.+?)'</expres>
+<page>$doregex[search]</page>
+</regex>
+ 
+<regex>
+<name>resolve</name>
+<expres><![CDATA[#$pyFunction
+import urlresolver
+def GetLSProData(page_data,Cookie_Jar,m):
+ url = 'https://www.youtube.com/watch?v=[makelist.param1]'
+ streamLink = urlresolver.resolve(url)
+ return streamLink
+]]></expres>
+<page></page>
+</regex>
+ 
+<regex>
+<name>search</name>
+<expres><![CDATA[#$pyFunction
+import requests,xbmcgui,xbmc, re,time, xbmcaddon
+def GetLSProData(page_data,Cookie_Jar,m):
+ 
+ text=takeInputFortext('[COLOR white][B] Tesla [/B][/COLOR] [COLOR blue]Buscador de Contenidos[/COLOR]')
+ url = 'https://www.youtube.com/results?search_query=Bioquimica' + text.replace(' ', '+')
+ req = requests.get(url)
+ list1 = re.findall('yt-lockup-c.+?a\shref=".watch.v=([^"]+)".+?\s\stitle="([^"]+)"\s', req.text)
+ 
+ count = 50
+ while count > 1:
+   try:
+     url = 'https://www.youtube.com' + re.findall('a href="([^"]+)".+<\/a>\n <\/div>', req.text)[0]
+   except:
+     return list1
+   req = requests.get(url)
+   list2 = re.findall('yt-lockup-c.+?a\shref=".watch.v=([^"]+)".+?\s\stitle="([^"]+)"\s', req.text)
+   list1 = list1 + list2
+   count = count - 1
+ return list1
+ 
+def takeInputFortext(txt):
+ addon = xbmcaddon.Addon('plugin.video.Tesla')
+ addon_version = addon.getAddonInfo('version')
+ profile = xbmc.translatePath(addon.getAddonInfo('profile').decode('utf-8'))
+ 
+ solver = InputWindow( txt=txt)
+ solution = solver.get()
+ return solution
+ 
+class InputWindow(xbmcgui.WindowDialog):
+    def __init__(self, *args, **kwargs):
+       
+        self.txt = kwargs.get('txt','')
+ 
+        xbmcgui.WindowXMLDialog.__init__(self)
+        #self.addControl(self.txt)
+        path = xbmcaddon.Addon().getAddonInfo('path')
+        self.kbd = xbmc.Keyboard()
+        self.kbd.setHeading( self.txt)
+ 
+    def get(self):
+        self.show()
+        time.sleep(2)
+        self.kbd.doModal()
+        if (self.kbd.isConfirmed()):
+            text = self.kbd.getText()
+            self.close()
+            return text
+        self.close()
+        return False
+]]></expres>
+<page></page>
+</regex>
+</item>
+
+<item><title>[COLOR blue][B] Volver al Menu Principal...[/B][/COLOR]</title>
+<link>ignore</link>
+<externallink>https://bit.ly/2lqcXV2</externallink>
+<thumbnail>https://i.imgur.com/TK6sjvQ.jpg</thumbnail>
+<fanart>https://i.imgur.com/BTXNERT.jpg</fanart> 
+<info>[COLOR white][B]Volver al Menu Principal...[/B][/COLOR]</title></info>
+</item>
