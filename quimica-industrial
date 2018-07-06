@@ -9,7 +9,7 @@
 <info>[COLOR white][B] Ciencias Naturales Quimico-Fisica..[/B][/COLOR]</title></info>
 <item>
 
-<title>[COLOR blue][COLOR white][B] Quimica Industrial:[/B][/COLOR][B] Industrial Organica [/B][/COLOR]</title>
+<title>[COLOR blue][COLOR white][B] Quimica Industrial:[/B][/COLOR][B] Organica [/B][/COLOR]</title>
 <link>ignore</link>
 <jsonrpc>plugin://plugin.video.youtube/channel/0vES8eJFKjI/playlist/PLYv71E4_smSqkonuhFKceN-88yRH5yoHJ/</jsonrpc>
 <thumbnail>https://i.imgur.com/ZBZMNFT.jpg</thumbnail>
@@ -19,15 +19,15 @@
 
 <title>[COLOR blue][COLOR white][B] Quimica Industrial:[/B][/COLOR][B] Industria Química[/B][/COLOR]</title>
 <link>ignore</link>
-<jsonrpc>plugin://plugin.video.youtube/channel/VlQEOxmtfJs/playlist/PLmMdiHgTTd1QzWvJdVYtxBEcqRg1SCVr9/</jsonrpc>
+<jsonrpc>plugin://plugin.video.youtube/channel/fX1S6LyiC3E/playlist/PLmMdiHgTTd1QzWvJdVYtxBEcqRg1SCVr9/</jsonrpc>
 <thumbnail>https://i.imgur.com/ZBZMNFT.jpg</thumbnail>
 <fanart>https://i.imgur.com/BTXNERT.jpg</fanart>
 <info>[COLOR white][B] Ciencias Naturales Quimico-Fisica..[/B][/COLOR]</title></info>
 <item>
 
-<title>[COLOR blue][COLOR white][B] Quimica Industrial:[/B][/COLOR][B] Prácticas de Laboratorio de Química Física[/B][/COLOR]</title>
+<title>[COLOR blue][COLOR white][B] Quimica Industrial:[/B][/COLOR][B] Ingenieria Quimica Industrial[/B][/COLOR]</title>
 <link>ignore</link>
-<jsonrpc>plugin://plugin.video.youtube/channel/oPpubBS26WE/playlist/PLXK0N71y9-9untgMmLhRDgfot7CMoqoXA/</jsonrpc>
+<jsonrpc>plugin://plugin.video.youtube/channel/oPpubBS26WE/playlist/PLWT9lqqO_0-2Fg9xSPVfs4YuKD8Ovytda/</jsonrpc>
 <thumbnail>https://i.imgur.com/ZBZMNFT.jpg</thumbnail>
 <fanart>https://i.imgur.com/BTXNERT.jpg</fanart>
 <info>[COLOR white][B] Ciencias Naturales Quimica Industrial..[/B][/COLOR]</title></info>
@@ -46,7 +46,7 @@
 
 
 
-<item><title>[COLOR blue][B] Buscador de Contenidos: Quimica Industrial/B][/COLOR]</title>
+<item><title>[COLOR blue][B] Buscador de Contenidos: Quimica Industrial[/B][/COLOR]</title>
 <link>$doregex[makelist]</link>
 <thumbnail>https://i.imgur.com/7FiCZLD.jpg</thumbnail>
  <fanart>https://i.imgur.com/BTXNERT.jpg</fanart> 
