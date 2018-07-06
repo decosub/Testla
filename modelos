@@ -1,0 +1,41 @@
+<item>
+<title>[COLOR blue][COLOR white][B] Bioquimica:[/B][/COLOR][B] Pre-Bioquimica[/B][/COLOR]</title>
+<thumbnail>https://i.imgur.com/DZ3BsMP.png</thumbnail>
+<fanart>https://i.imgur.com/BTXNERT.jpg</fanart>
+<info>[COLOR white][B] Ciencias Naturales Bioquimica..[/B][/COLOR]</title></info>
+<link>$doregex[makelist]</link>
+<regex>
+            <name>makelist</name>
+            <listrepeat><![CDATA[
+                        <title>[makelist.param1]</title>
+                        <link>plugin://plugin.video.youtube/play/?video_id=[makelist.param2]</link>
+<thumbnail>https://i.imgur.com/DZ3BsMP.png</thumbnail>
+<fanart>https://i.imgur.com/BTXNERT.jpg</fanart>
+            ]]></listrepeat>
+            <expres>data-video-title="(.*?)".*?\n.*?\n.*?\n.*?\n.*?&lt;a href="\/watch\?v=(.*?)&amp;</expres>
+            <page>https://www.youtube.com/watch?v=DMiazwPD0yw&amp;list=PLQ4iWahoj8gmQbFO17csYKhe27BV9moR0</page>
+             <cookieJar></cookieJar>
+</regex>
+</item>
+
+<item>
+<title>[COLOR blue][COLOR white][B]Prueba[/B][/COLOR]</title>
+<link>ignore</link>
+<jsonrpc>plugin://plugin.video.youtube/channel/6BI2P2RlxEI/playlist/PL3RwIakfpFWZJD4N3-ba8PrPnNIiA3ot1/</jsonrpc>
+<thumbnail>https://i.imgur.com/DZ3BsMP.png</thumbnail>
+<fanart>https://i.imgur.com/BTXNERT.jpg</fanart>
+<info>[COLOR white][B]Ciencias Naturales Bioquimica, Busqueda General Youtube..[/B][/COLOR]</title></info>
+</item>
+
+
+
+
+
+<item>
+<title>[COLOR blue][COLOR white][B] Bioquimica:[/B][/COLOR][B] Contenido General[/B][/COLOR]</title>
+<link>ignore</link>
+<jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=Bioquimica&sp=EgIQAw%253D%253D&search_type=playlist</jsonrpc>
+<thumbnail>https://i.imgur.com/DZ3BsMP.png</thumbnail>
+<fanart>https://i.imgur.com/BTXNERT.jpg</fanart>
+<info>[COLOR white][B]Ciencias Naturales Bioquimica, Busqueda General Youtube..[/B][/COLOR]</title></info>
+</item>
