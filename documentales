@@ -11,13 +11,23 @@
 </item>
 
 <item>
-<title>[COLOR blue][B] Documentales:[/B][/COLOR]</title>
+<title>[COLOR blue][COLOR white][B] Documentales:[/B][/COLOR][B] Fisica[/B][/COLOR]</title>
 <link>nolink</link>
-<jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=documentales+de+fisica+ciencia&search_type=playlist</jsonrpc>
+<jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=documentales+planeta+ciencia&sp=EgIYAkIECAESAA%253D%253D&search_type=playlist</jsonrpc>
      <fanart>https://i.imgur.com/Q50BLxY.jpg</fanart> 
   <thumbnail>https://i.imgur.com/LwKgqwf.jpg</thumbnail>
 <info>[COLOR white][B]Documentales de calidad ordenados por contenido para mentes inquietas...[/B][/COLOR]</title></info>
 </item>
+
+<item>
+<title>[COLOR blue][COLOR white][B] Documentales:[/B][/COLOR][B] Ciencias[/B][/COLOR]</title>
+<link>nolink</link>
+<jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=documentales+de+fisica&search_type=playlist</jsonrpc>
+     <fanart>https://i.imgur.com/Q50BLxY.jpg</fanart> 
+  <thumbnail>https://i.imgur.com/LwKgqwf.jpg</thumbnail>
+<info>[COLOR white][B]Documentales de calidad ordenados por contenido para mentes inquietas...[/B][/COLOR]</title></info>
+</item>
+
 
 <item>
 <title>[COLOR blue][B] Conferencias:[/B][/COLOR]</title>
