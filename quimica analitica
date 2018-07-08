@@ -4,7 +4,7 @@
 <title>[COLOR blue][COLOR white][B] Quimica Analitica:[/B][/COLOR][B] Quimica Analitica Basica[/B][/COLOR]</title>
 <link>ignore</link>
 <jsonrpc>plugin://plugin.video.youtube/channel/6luDSL9dagU/playlist/PLWfF6Dli9QCP8FCDWW5US1n2CJzz2K62I/</jsonrpc>
-<thumbnail>https://i.imgur.com/ZBZMNFT.jpg</thumbnail>
+<thumbnail>https://i.imgur.com/hDMGQsD.jpg</thumbnail>
 <fanart>https://i.imgur.com/BTXNERT.jpg</fanart>
 <info>[COLOR white][B] Ciencias Naturales Quimico-Fisica..[/B][/COLOR]</title></info>
 <item>
@@ -12,7 +12,7 @@
 <title>[COLOR blue][COLOR white][B] Quimica Analitica:[/B][/COLOR][B] Experimentacion - Analisis Instrumental [/B][/COLOR]</title>
 <link>ignore</link>
 <jsonrpc>plugin://plugin.video.youtube/channel/DS4vk5k7ZaE/playlist/PLSbo9kXA_LcwTBuLYJgN5Uk8XbfXdBKPR/</jsonrpc>
-<thumbnail>https://i.imgur.com/ZBZMNFT.jpg</thumbnail>
+<thumbnail>https://i.imgur.com/hDMGQsD.jpg</thumbnail>
 <fanart>https://i.imgur.com/BTXNERT.jpg</fanart>
 <info>[COLOR white][B] Ciencias Naturales Quimico-Fisica..[/B][/COLOR]</title></info>
 <item>
@@ -20,7 +20,7 @@
 <title>[COLOR blue][COLOR white][B] Quimica Analitica:[/B][/COLOR][B] Quimica Analitica 2[/B][/COLOR]</title>
 <link>ignore</link>
 <jsonrpc>plugin://plugin.video.youtube/channel/k1BYijmvvC8/playlist/PLMjeH8hXBK0uaAPdkSKHrT_eZzTOG9r8l/</jsonrpc>
-<thumbnail>https://i.imgur.com/ZBZMNFT.jpg</thumbnail>
+<thumbnail>https://i.imgur.com/hDMGQsD.jpg</thumbnail>
 <fanart>https://i.imgur.com/BTXNERT.jpg</fanart>
 <info>[COLOR white][B] Ciencias Naturales Quimico-Fisica..[/B][/COLOR]</title></info>
 <item>
@@ -28,7 +28,7 @@
 <title>[COLOR blue][COLOR white][B] Quimica Analitica:[/B][/COLOR][B] Principios Basicos [/B][/COLOR]</title>
 <link>ignore</link>
 <jsonrpc>plugin://plugin.video.youtube/channel/TZcdaza_7tw/playlist/PLU2PdV0_TFe0dJpOSgitmoYeK0tRtoivm/</jsonrpc>
-<thumbnail>https://i.imgur.com/ZBZMNFT.jpg</thumbnail>
+<thumbnail>https://i.imgur.com/hDMGQsD.jpg</thumbnail>
 <fanart>https://i.imgur.com/BTXNERT.jpg</fanart>
 <info>[COLOR white][B] Ciencias Naturales Quimica Analitica..[/B][/COLOR]</title></info>
 <item>
@@ -37,7 +37,7 @@
 <title>[COLOR blue][COLOR white][B] Quimica Analitica:[/B][/COLOR][B] Contenido General[/B][/COLOR]</title>
 <link>ignore</link>
 <jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=quimica+Analitica&sp=EgIQAw%253D%253D&search_type=playlist</jsonrpc>
-<thumbnail>https://i.imgur.com/ZBZMNFT.jpg</thumbnail>
+<thumbnail>https://i.imgur.com/hDMGQsD.jpg</thumbnail>
 <fanart>https://i.imgur.com/BTXNERT.jpg</fanart>
 <info>[COLOR white][B]Ciencias Naturales Quimica Analitica, Busqueda General Youtube..[/B][/COLOR]</title></info>
 </item>
@@ -48,7 +48,7 @@
 
 <item><title>[COLOR blue][B] Buscador de Contenidos: Quimica Analitica[/B][/COLOR]</title>
 <link>$doregex[makelist]</link>
-<thumbnail>https://i.imgur.com/hDMGQsD.jpg</thumbnail>
+<thumbnail>https://i.imgur.com/7FiCZLD.jpg</thumbnail>
  <fanart>https://i.imgur.com/BTXNERT.jpg</fanart> 
  <info>[COLOR white][B]Buscador de Youtube donde podras encontrar todo el contenido relacionado con la Quimica Analitica..[/B][/COLOR]</info>
 <regex>
@@ -56,8 +56,8 @@
 <listrepeat><![CDATA[
 <title>[COLOR white] Tesla: [/COLOR][COLOR blue][makelist.param2][/COLOR]</title>
 <link>$doregex[resolve]</link>
-<thumbnail>https://i.imgur.com/hDMGQsD.jpg</thumbnail>
-  <fanart>https://i.imgur.com/6E60Hfb.jpg</fanart> 
+<thumbnail>https://i.imgur.com/7FiCZLD.jpg</thumbnail>
+ <fanart>https://i.imgur.com/BTXNERT.jpg</fanart> 
 ]]></listrepeat>
 <expres>u'(.+?)', u'(.+?)'</expres>
 <page>$doregex[search]</page>
