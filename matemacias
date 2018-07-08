@@ -46,6 +46,16 @@
  <info>[COLOR white][B]En esta seccion de Ciencias Naturales Encontraras: Matematicas, Química, Psicología Individual...[/B][/COLOR]</title></info>
 </item>
 
+<item>
+<title>[COLOR blue][COLOR white][B] Matimaticas:[/B][/COLOR][B] Documentales [/B][/COLOR]</title>
+<link>nolink</link>
+<jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=matematicas+documental&sp=CAISAhgCQgQIABIA&search_type=playlist</jsonrpc>
+   <fanart>https://i.imgur.com/BTXNERT.jpg</fanart> 
+  <thumbnail>https://i.imgur.com/QwZlI69.jpg</thumbnail>
+ <info>[COLOR white][B]En esta seccion de Ciencias Naturales Encontraras: Matematicas, Química, Psicología Individual...[/B][/COLOR]</title></info>
+</item>
+
+
 <item><title>[COLOR blue][B] Buscador de Contenidos: Matematicas[/B][/COLOR]</title>
 <link>$doregex[makelist]</link>
 <thumbnail>https://i.imgur.com/T2ibdjM.jpg</thumbnail>
