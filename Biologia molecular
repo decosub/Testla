@@ -42,9 +42,10 @@
 <info>[COLOR white][B]Ciencias Naturales Biologia Molecular, Busqueda General Youtube..[/B][/COLOR]</title></info>
 </item>
 
+<item>
 <title>[COLOR blue][COLOR white][B] Biologia Molecular:[/B][/COLOR][B] Documentales[/B][/COLOR]</title>
 <link>ignore</link>
-<jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=biologia+celular+documental&sp=EgIYAkIECAESAA%253D%253D&search_type=playlist</jsonrpc>
+<jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=Quimica+documental&sp=CAISAhgCQgQIABIA&search_type=playlist</jsonrpc>
 <thumbnail>https://i.imgur.com/O8et2Pj.jpg</thumbnail>
 <fanart>https://i.imgur.com/BTXNERT.jpg</fanart>
 <info>[COLOR white][B]Ciencias Naturales Biologia Molecular, Busqueda General Youtube..[/B][/COLOR]</title></info>
