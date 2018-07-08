@@ -1,0 +1,149 @@
+  <item>
+
+
+<title>[COLOR blue][COLOR white][B] Biologia Molecular:[/B][/COLOR][B] Clases de Biologia Molecular [/B][/COLOR]</title>
+<link>ignore</link>
+<jsonrpc>plugin://plugin.video.youtube/channel/DASfZHmcYBI/playlist/PLXJ9NtHhSHL0y7P_sGGi3qsepDjmumw0y/</jsonrpc>
+<thumbnail>https://i.imgur.com/O8et2Pj.jpg</thumbnail>
+<fanart>https://i.imgur.com/BTXNERT.jpg</fanart>
+<info>[COLOR white][B] Ciencias Naturales Biologia Molecular..[/B][/COLOR]</title></info>
+<item>
+
+<title>[COLOR blue][COLOR white][B] Biologia Molecular:[/B][/COLOR][B] Dogma Central de la Biologia Molecular[/B][/COLOR]</title>
+<link>ignore</link>
+<jsonrpc>plugin://plugin.video.youtube/channel/YqjbmrQcyfM/playlist/PLdjEau49zHWN5NMVlcm5PYZXBzxOoWZCh/</jsonrpc>
+<thumbnail>https://i.imgur.com/O8et2Pj.jpg</thumbnail>
+<fanart>https://i.imgur.com/BTXNERT.jpg</fanart>
+<info>[COLOR white][B] Ciencias Naturales Biologia Molecular..[/B][/COLOR]</title></info>
+<item>
+
+<title>[COLOR blue][COLOR white][B] Biologia Molecular:[/B][/COLOR][B] Biologia Celular[/B][/COLOR]</title>
+<link>ignore</link>
+<jsonrpc>plugin://plugin.video.youtube/channel/MJ6p9IUlMSg/playlist/PL1167aDAYE9FIhkzhujAyd99Px9YJuUi0/</jsonrpc>
+<thumbnail>https://i.imgur.com/O8et2Pj.jpg</thumbnail>
+<fanart>https://i.imgur.com/BTXNERT.jpg</fanart>
+<info>[COLOR white][B] Ciencias Naturales Biologia Molecular..[/B][/COLOR]</title></info>
+<item>
+
+<title>[COLOR blue][COLOR white][B] Biologia Molecular:[/B][/COLOR][B] Biologia Celular y Molecular[/B][/COLOR]</title>
+<link>ignore</link>
+<jsonrpc>plugin://plugin.video.youtube/channel/J4tWDh-HaTg/playlist/PLSkJjc8yeQG4AaW58wowVAJclZArtm45O/</jsonrpc>
+<thumbnail>https://i.imgur.com/O8et2Pj.jpg</thumbnail>
+<fanart>https://i.imgur.com/BTXNERT.jpg</fanart>
+<info>[COLOR white][B] Ciencias Naturales Biologia Molecular..[/B][/COLOR]</title></info>
+<item>
+
+<item>
+<title>[COLOR blue][COLOR white][B] Biologia Molecular:[/B][/COLOR][B] Contenido General[/B][/COLOR]</title>
+<link>ignore</link>
+<jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=biologia+molecular&sp=EgIQAw%253D%253D&search_type=playlist</jsonrpc>
+<thumbnail>https://i.imgur.com/O8et2Pj.jpg</thumbnail>
+<fanart>https://i.imgur.com/BTXNERT.jpg</fanart>
+<info>[COLOR white][B]Ciencias Naturales Biologia Molecular, Busqueda General Youtube..[/B][/COLOR]</title></info>
+</item>
+
+<title>[COLOR blue][COLOR white][B] Biologia Molecular:[/B][/COLOR][B] Documentales[/B][/COLOR]</title>
+<link>ignore</link>
+<jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=biologia+celular+documental&sp=EgIYAkIECAESAA%253D%253D&search_type=playlist</jsonrpc>
+<thumbnail>https://i.imgur.com/O8et2Pj.jpg</thumbnail>
+<fanart>https://i.imgur.com/BTXNERT.jpg</fanart>
+<info>[COLOR white][B]Ciencias Naturales Biologia Molecular, Busqueda General Youtube..[/B][/COLOR]</title></info>
+</item>
+
+
+
+
+<item><title>[COLOR blue][B] Buscador de Contenidos: Biologia Molecular[/B][/COLOR]</title>
+<link>$doregex[makelist]</link>
+<thumbnail>https://i.imgur.com/7FiCZLD.jpg</thumbnail>
+ <fanart>https://i.imgur.com/BTXNERT.jpg</fanart> 
+ <info>[COLOR white][B]Buscador de Youtube donde podras encontrar todo el contenido relacionado con la Biologia Molecular..[/B][/COLOR]</info>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+<title>[COLOR white] Tesla: [/COLOR][COLOR blue][makelist.param2][/COLOR]</title>
+<link>$doregex[resolve]</link>
+<thumbnail>https://i.imgur.com/7FiCZLD.jpg</thumbnail>
+  <fanart>https://i.imgur.com/6E60Hfb.jpg</fanart> 
+]]></listrepeat>
+<expres>u'(.+?)', u'(.+?)'</expres>
+<page>$doregex[search]</page>
+</regex>
+ 
+<regex>
+<name>resolve</name>
+<expres><![CDATA[#$pyFunction
+import urlresolver
+def GetLSProData(page_data,Cookie_Jar,m):
+ url = 'https://www.youtube.com/watch?v=[makelist.param1]'
+ streamLink = urlresolver.resolve(url)
+ return streamLink
+]]></expres>
+<page></page>
+</regex>
+ 
+<regex>
+<name>search</name>
+<expres><![CDATA[#$pyFunction
+import requests,xbmcgui,xbmc, re,time, xbmcaddon
+def GetLSProData(page_data,Cookie_Jar,m):
+ 
+ text=takeInputFortext('[COLOR white][B] Tesla [/B][/COLOR] [COLOR blue]Buscador de Contenidos[/COLOR]')
+ url = 'https://www.youtube.com/results?search_query=biologia+molecular' + text.replace(' ', '+')
+ req = requests.get(url)
+ list1 = re.findall('yt-lockup-c.+?a\shref=".watch.v=([^"]+)".+?\s\stitle="([^"]+)"\s', req.text)
+ 
+ count = 50
+ while count > 1:
+   try:
+     url = 'https://www.youtube.com' + re.findall('a href="([^"]+)".+<\/a>\n <\/div>', req.text)[0]
+   except:
+     return list1
+   req = requests.get(url)
+   list2 = re.findall('yt-lockup-c.+?a\shref=".watch.v=([^"]+)".+?\s\stitle="([^"]+)"\s', req.text)
+   list1 = list1 + list2
+   count = count - 1
+ return list1
+ 
+def takeInputFortext(txt):
+ addon = xbmcaddon.Addon('plugin.video.Tesla')
+ addon_version = addon.getAddonInfo('version')
+ profile = xbmc.translatePath(addon.getAddonInfo('profile').decode('utf-8'))
+ 
+ solver = InputWindow( txt=txt)
+ solution = solver.get()
+ return solution
+ 
+class InputWindow(xbmcgui.WindowDialog):
+    def __init__(self, *args, **kwargs):
+       
+        self.txt = kwargs.get('txt','')
+ 
+        xbmcgui.WindowXMLDialog.__init__(self)
+        #self.addControl(self.txt)
+        path = xbmcaddon.Addon().getAddonInfo('path')
+        self.kbd = xbmc.Keyboard()
+        self.kbd.setHeading( self.txt)
+ 
+    def get(self):
+        self.show()
+        time.sleep(2)
+        self.kbd.doModal()
+        if (self.kbd.isConfirmed()):
+            text = self.kbd.getText()
+            self.close()
+            return text
+        self.close()
+        return False
+]]></expres>
+<page></page>
+</regex>
+</item>
+
+<item><title>[COLOR blue][B] Volver al Menu Principal...[/B][/COLOR]</title>
+<link>ignore</link>
+<externallink>https://bit.ly/2lqcXV2</externallink>
+<thumbnail>https://i.imgur.com/TK6sjvQ.jpg</thumbnail>
+<fanart>https://i.imgur.com/BTXNERT.jpg</fanart>
+<info>[COLOR white][B]Volver al Menu Principal...[/B][/COLOR]</title></info>
+</item>
