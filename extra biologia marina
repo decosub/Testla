@@ -1,7 +1,7 @@
 
 
 <item>
-<title>[COLOR blue][COLOR white][B] Biologia Marina:[/B][/COLOR][B] Documentales: Jacques-Yves Cousteau [/B][/COLOR]</title>
+<title>[COLOR blue][COLOR white][B] Biologia Marina:[/B][/COLOR][B] Jacques-Yves Cousteau [/B][/COLOR]</title>
 <link>ignore</link>
 <jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=documentales+de+Jacques-Yves+Cousteau&sp=EgIQAw%253D%253D&search_type=playlist</jsonrpc>
 <thumbnail>https://i.imgur.com/6YtiHvd.jpg</thumbnail>
@@ -10,7 +10,7 @@
 </item>
 
 <item>
-<title>[COLOR blue][COLOR white][B] Biologia Marina:[/B][/COLOR][B] Documentales: Fauna y Flora Marina [/B][/COLOR]</title>
+<title>[COLOR blue][COLOR white][B] Biologia Marina:[/B][/COLOR][B] Fauna y Flora Marina [/B][/COLOR]</title>
 <link>ignore</link>
 <jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=documental+de+fauna+y+flora+marina&sp=EgIQAw%253D%253D&search_type=playlist</jsonrpc>
 <thumbnail>https://i.imgur.com/6YtiHvd.jpg</thumbnail>
@@ -18,17 +18,9 @@
 <info>[COLOR white][B] Ciencias Naturales Biologia Marina..[/B][/COLOR]</title></info>
 </item>
 
-<item>
-<title>[COLOR blue][COLOR white][B] Biologia Marina:[/B][/COLOR][B] Documentales: NUestros Mares (capsulas Informativas) [/B][/COLOR]</title>
-<link>ignore</link>
-<jsonrpc>plugin://plugin.video.youtube/channel/mUOK4UodY7c/playlist/PL2IkfUmOy6FtN_VKTZfXfYONwnusCKOPz/</jsonrpc>
-<thumbnail>https://i.imgur.com/6YtiHvd.jpg</thumbnail>
-<fanart>https://i.imgur.com/BTXNERT.jpg</fanart>
-<info>[COLOR white][B] Ciencias Naturales Biologia Marina..[/B][/COLOR]</title></info>
-</item>
 
 <item>
-<title>[COLOR blue][COLOR white][B] Biologia Marina:[/B][/COLOR][B] Documentales: MOnstruos Marinos [/B][/COLOR]</title>
+<title>[COLOR blue][COLOR white][B] Biologia Marina:[/B][/COLOR][B] Monstruos Marinos [/B][/COLOR]</title>
 <link>ignore</link>
 <jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=documental+monstruos+de+las+profundidades&sp=EgIQAw%253D%253D&search_type=playlist</jsonrpc>
 <thumbnail>https://i.imgur.com/6YtiHvd.jpg</thumbnail>
@@ -37,7 +29,7 @@
 </item>
 
 <item>
-<title>[COLOR blue][COLOR white][B] Biologia Marina:[/B][/COLOR][B] Documentales: Profundidades en Peligro (BBC) [/B][/COLOR]</title>
+<title>[COLOR blue][COLOR white][B] Biologia Marina:[/B][/COLOR][B] Profundidades en Peligro (BBC) [/B][/COLOR]</title>
 <link>ignore</link>
 <jsonrpc>plugin://plugin.video.youtube/channel/rY9hMu7tocU/playlist/PL8K2t05jfrnj947ZtAOaixJp-mlfgywOh/</jsonrpc>
 <thumbnail>https://i.imgur.com/6YtiHvd.jpg</thumbnail>
@@ -46,7 +38,7 @@
 </item>
 
 <item>
-<title>[COLOR blue][COLOR white][B] Biologia Marina:[/B][/COLOR][B] Documentales: Planeta Azul II (BBC) [/B][/COLOR]</title>
+<title>[COLOR blue][COLOR white][B] Biologia Marina:[/B][/COLOR][B] Planeta Azul II (BBC) [/B][/COLOR]</title>
 <link>ignore</link>
 <jsonrpc>plugin://plugin.video.youtube/channel/DPCm98DVEeY/playlist/PLSXGfg6XHVB6cUo56VBQVVRWxg8yqRUjy/</jsonrpc>
 <thumbnail>https://i.imgur.com/6YtiHvd.jpg</thumbnail>
@@ -55,7 +47,7 @@
 </item>
 
 <item>
-<title>[COLOR blue][COLOR white][B] Biologia Marina:[/B][/COLOR][B] Documentales: NUestros Mares (capsulas Informativas) [/B][/COLOR]</title>
+<title>[COLOR blue][COLOR white][B] Biologia Marina:[/B][/COLOR][B] NUestros Mares (capsulas Informativas) [/B][/COLOR]</title>
 <link>ignore</link>
 <jsonrpc>plugin://plugin.video.youtube/channel/mUOK4UodY7c/playlist/PL2IkfUmOy6FtN_VKTZfXfYONwnusCKOPz/</jsonrpc>
 <thumbnail>https://i.imgur.com/6YtiHvd.jpg</thumbnail>
@@ -63,12 +55,10 @@
 <info>[COLOR white][B] Ciencias Naturales Biologia Marina..[/B][/COLOR]</title></info>
 </item>
 
-
-
 <item>
-<title>[COLOR blue][COLOR white][B] Biologia Marina:[/B][/COLOR][B] Documentales: NUestros Mares (capsulas Informativas) [/B][/COLOR]</title>
+<title>[COLOR blue][COLOR white][B] Biologia Marina:[/B][/COLOR][B] La Magia del Gran Azul [/B][/COLOR]</title>
 <link>ignore</link>
-<jsonrpc>plugin://plugin.video.youtube/channel/mUOK4UodY7c/playlist/PL2IkfUmOy6FtN_VKTZfXfYONwnusCKOPz/</jsonrpc>
+<jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=documentales+la+magia+del+gran+azul&search_type=playlist</jsonrpc>
 <thumbnail>https://i.imgur.com/6YtiHvd.jpg</thumbnail>
 <fanart>https://i.imgur.com/BTXNERT.jpg</fanart>
 <info>[COLOR white][B] Ciencias Naturales Biologia Marina..[/B][/COLOR]</title></info>
@@ -76,7 +66,17 @@
 
 
 <item>
-<title>[COLOR blue][COLOR white][B] Biologia Marina:[/B][/COLOR][B] Documentales: Caminando entre dinosaurios. Especial parte 1. [/B][/COLOR]</title>
+<title>[COLOR blue][COLOR white][B] Biologia Marina:[/B][/COLOR][B] Oceanos [/B][/COLOR]</title>
+<link>ignore</link>
+<jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=6pmojzdks3Q&search_type=playlist</jsonrpc>
+<thumbnail>https://i.imgur.com/6YtiHvd.jpg</thumbnail>
+<fanart>https://i.imgur.com/BTXNERT.jpg</fanart>
+<info>[COLOR white][B] Ciencias Naturales Biologia Marina..[/B][/COLOR]</title></info>
+</item>
+
+
+<item>
+<title>[COLOR blue][COLOR white][B] Biologia Marina:[/B][/COLOR][B] Caminando entre dinosaurios. Especial parte 1. [/B][/COLOR]</title>
 <link>ignore</link>
 <jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=nMdhNwyYKl8&search_type=playlist</jsonrpc>
 <thumbnail>https://i.imgur.com/6YtiHvd.jpg</thumbnail>
@@ -88,7 +88,7 @@
 
 
 <item>
-<title>[COLOR blue][COLOR white][B] Biologia Marina:[/B][/COLOR][B] Documentales: Caminando entre dinosaurios. Especial parte 2. [/B][/COLOR]</title>
+<title>[COLOR blue][COLOR white][B] Biologia Marina:[/B][/COLOR][B] Caminando entre dinosaurios. Especial parte 2. [/B][/COLOR]</title>
 <link>ignore</link>
 <jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=BNE1K7fBWdc&search_type=playlist</jsonrpc>
 <thumbnail>https://i.imgur.com/6YtiHvd.jpg</thumbnail>
