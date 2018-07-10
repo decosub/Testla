@@ -1,8 +1,7 @@
-
 <item>
 <title>[COLOR blue][COLOR white][B] Neuropsicología[/B][/COLOR][B] Contenido General[/B][/COLOR]</title>
 <link>ignore</link>
-<jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=Neuropsicología&sp=EgIQAw%253D%253D&search_type=playlist</jsonrpc>
+<jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=neuropsicologia&sp=EgIQAw%253D%253D&search_type=playlist</jsonrpc>
 <thumbnail>https://i.imgur.com/MQGfkpQ.jpg</thumbnail>
 <fanart>https://i.imgur.com/BTXNERT.jpg</fanart>
 <info>[COLOR white][B]Ciencias Naturales Neuropsicología, Busqueda General Youtube..[/B][/COLOR]</title></info>
@@ -11,7 +10,7 @@
 <item>
 <title>[COLOR blue][COLOR white][B] Neuropsicología[/B][/COLOR][B] Conferencias[/B][/COLOR]</title>
 <link>ignore</link>
-<jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=Neuropsicología+conferencia&sp=CAISAhgCQgQIABIA&search_type=playlist</jsonrpc>
+<jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=Neuropsicologia+conferencia&sp=CAISAhgCQgQIABIA&search_type=playlist</jsonrpc>
 <thumbnail>https://i.imgur.com/MQGfkpQ.jpg</thumbnail>
 <fanart>https://i.imgur.com/BTXNERT.jpg</fanart>
 <info>[COLOR white][B]Ciencias Naturales Neuropsicología, Busqueda General Youtube..[/B][/COLOR]</title></info>
@@ -20,7 +19,7 @@
 <item>
 <title>[COLOR blue][COLOR white][B] Neuropsicología[/B][/COLOR][B] Documentales Especificos[/B][/COLOR]</title>
 <link>ignore</link>
-<jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=Neuropsicología+documental&sp=CAISAhgCQgQIABIA&search_type=playlist</jsonrpc>
+<jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=Neuropsicologia+documental&sp=CAISAhgCQgQIABIA&search_type=playlist</jsonrpc>
 <thumbnail>https://i.imgur.com/MQGfkpQ.jpg</thumbnail>
 <fanart>https://i.imgur.com/BTXNERT.jpg</fanart>
 <info>[COLOR white][B]Ciencias Naturales Neuropsicología, Busqueda General Youtube..[/B][/COLOR]</title></info>
@@ -65,7 +64,7 @@ import requests,xbmcgui,xbmc, re,time, xbmcaddon
 def GetLSProData(page_data,Cookie_Jar,m):
  
  text=takeInputFortext('[COLOR white][B] Tesla [/B][/COLOR] [COLOR blue]Buscador de Contenidos[/COLOR]')
- url = 'https://www.youtube.com/results?search_query=Neuropsicología' + text.replace(' ', '+')
+ url = 'https://www.youtube.com/results?search_query=Neuropsicologia' + text.replace(' ', '+')
  req = requests.get(url)
  list1 = re.findall('yt-lockup-c.+?a\shref=".watch.v=([^"]+)".+?\s\stitle="([^"]+)"\s', req.text)
  
