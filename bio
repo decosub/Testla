@@ -69,20 +69,21 @@
 <item>
 <title>[COLOR blue][COLOR white][B] Biologia:[/B][/COLOR][B] Botánica [/B][/COLOR]</title>
 <link>nolink</link>
-<externallink></externallink>
+<externallink>https://bit.ly/2zt1yO2</externallink>
    <fanart>https://i.imgur.com/BTXNERT.jpg</fanart> 
-  <thumbnail>https://i.imgur.com/QwZlI69.jpg</thumbnail>
+<thumbnail>https://i.imgur.com/sMLOosY.jpg</thumbnail>
  <info>[COLOR white][B]En esta seccion de Ciencias Naturales Encontraras: Matematicas, Química, Biologia, Psicología Individual...[/B][/COLOR]</title></info>
 </item>
 
 <item>
 <title>[COLOR blue][COLOR white][B] Biologia:[/B][/COLOR][B] Ecologia  [/B][/COLOR]</title>
 <link>nolink</link>
-<externallink></externallink>
+<externallink>https://bit.ly/2zy8NEC</externallink>
    <fanart>https://i.imgur.com/BTXNERT.jpg</fanart> 
-  <thumbnail>https://i.imgur.com/QwZlI69.jpg</thumbnail>
+<thumbnail>https://i.imgur.com/3HmGTRz.jpg</thumbnail>
  <info>[COLOR white][B]En esta seccion de Ciencias Naturales Encontraras: Matematicas, Química, Biologia, Psicología Individual...[/B][/COLOR]</title></info>
 </item>
+
 
 <item><title>[COLOR blue][B] Buscador de Contenidos:Biologia[/B][/COLOR]</title>
 <link>$doregex[makelist]</link>
