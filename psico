@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 
 <item>
-<title>[COLOR blue][COLOR white][B] Psicologia:[/B][/COLOR][B]  Psicología de las organizaciones y del trabajo[/B][/COLOR]</title>
+<title>[COLOR blue][COLOR white][B] Psicologia:[/B][/COLOR][B] Psicología de las organizaciones y del trabajo[/B][/COLOR]</title>
 <link>nolink</link>
-<externallink>https://bit.ly/2MXvVPs</externallink>
+<externallink>https://bit.ly/2m9zoye</externallink>
   <fanart>https://i.imgur.com/BTXNERT.jpg</fanart> 
-  <thumbnail>https://i.imgur.com/zWyRS9Y.jpg</thumbnail>
+<thumbnail>https://i.imgur.com/2of65wq.jpg</thumbnail>
  <info>[COLOR white][B]En esta seccion de Ciencias Naturales Encontraras: Matematicas, Química, Psicología Individual...[/B][/COLOR]</title></info>
 </item>
 
@@ -13,26 +13,26 @@
 <item>
 <title>[COLOR blue][COLOR white][B] Psicologia:[/B][/COLOR][B] Psicología del marketing y del consumidor[/B][/COLOR]</title>
 <link>nolink</link>
-<externallink></externallink>
+<externallink>https://bit.ly/2Jc2wO6</externallink>
    <fanart>https://i.imgur.com/BTXNERT.jpg</fanart> 
-  <thumbnail>https://i.imgur.com/FeSit9V.jpg</thumbnail>
+<thumbnail>https://i.imgur.com/Hwkk2YA.jpg</thumbnail>
  <info>[COLOR white][B]En esta seccion de Ciencias Naturales Encontraras: Matematicas, Química, Psicología Individual...[/B][/COLOR]</title></info>
 </item>
 
 <item>
 <title>[COLOR blue][COLOR white][B] Psicologia:[/B][/COLOR][B] Psicología clínica y de la salud [/B][/COLOR]</title>
 <link>nolink</link>
-<externallink></externallink>
+<externallink>https://bit.ly/2KY2kqU</externallink>
    <fanart>https://i.imgur.com/BTXNERT.jpg</fanart> 
-  <thumbnail>https://i.imgur.com/QwZlI69.jpg</thumbnail>
+  <thumbnail>https://i.imgur.com/mOkBnVH.jpg</thumbnail>
  <info>[COLOR white][B]En esta seccion de Ciencias Naturales Encontraras: Matematicas, Química, Psicología Individual...[/B][/COLOR]</title></info>
 </item>
 
 <item>
 <title>[COLOR blue][COLOR white][B] Psicologia:[/B][/COLOR][B] Sexología  [/B][/COLOR]</title>
 <link>nolink</link>
-<externallink></externallink>
-   <fanart>https://i.imgur.com/BTXNERT.jpg</fanart> 
+<externallink>https://bit.ly/2uhlWM4</externallink>
+   <fanart>https://i.imgur.com/c5h1nNE.jpg</fanart> 
   <thumbnail>https://i.imgur.com/QwZlI69.jpg</thumbnail>
  <info>[COLOR white][B]En esta seccion de Ciencias Naturales Encontraras: Matematicas, Química, Psicología Individual...[/B][/COLOR]</title></info>
 </item>
@@ -40,17 +40,17 @@
 <item>
 <title>[COLOR blue][COLOR white][B] Psicologia:[/B][/COLOR][B] Neuropsicología[/B][/COLOR]</title>
 <link>nolink</link>
-<externallink>https://bit.ly/2MXvVPs</externallink>
-  <fanart>https://i.imgur.com/BTXNERT.jpg</fanart> 
+<externallink>https://bit.ly/2L6BA4r</externallink>
+  <fanart>https://i.imgur.com/MQGfkpQ.jpg</fanart> 
   <thumbnail>https://i.imgur.com/zWyRS9Y.jpg</thumbnail>
  <info>[COLOR white][B]En esta seccion de Ciencias Naturales Encontraras: Matematicas, Química, Psicología Individual...[/B][/COLOR]</title></info>
 </item>
 
 
 <item>
-<title>[COLOR blue][COLOR white][B] Psicologia:[/B][/COLOR][B] Psicología forense[/B][/COLOR]</title>
+<title>[COLOR blue][COLOR white][B] Psicologia:[/B][/COLOR][B] Psicología Forense[/B][/COLOR]</title>
 <link>nolink</link>
-<externallink></externallink>
+<externallink>https://bit.ly/2L8KaiS</externallink>
    <fanart>https://i.imgur.com/BTXNERT.jpg</fanart> 
   <thumbnail>https://i.imgur.com/FeSit9V.jpg</thumbnail>
  <info>[COLOR white][B]En esta seccion de Ciencias Naturales Encontraras: Matematicas, Química, Psicología Individual...[/B][/COLOR]</title></info>
@@ -59,9 +59,9 @@
 <item>
 <title>[COLOR blue][COLOR white][B] Psicologia:[/B][/COLOR][B] Psicología de la educación y del desarrollo [/B][/COLOR]</title>
 <link>nolink</link>
-<externallink></externallink>
+<externallink>https://bit.ly/2L9Pt1q</externallink>
    <fanart>https://i.imgur.com/BTXNERT.jpg</fanart> 
-  <thumbnail>https://i.imgur.com/QwZlI69.jpg</thumbnail>
+  <thumbnail>https://i.imgur.com/3ZJuJ09.jpg</thumbnail>
  <info>[COLOR white][B]En esta seccion de Ciencias Naturales Encontraras: Matematicas, Química, Psicología Individual...[/B][/COLOR]</title></info>
 </item>
 
@@ -109,6 +109,10 @@
   <thumbnail>https://i.imgur.com/QwZlI69.jpg</thumbnail>
  <info>[COLOR white][B]En esta seccion de Ciencias Naturales Encontraras: Matematicas, Química, Psicología Individual...[/B][/COLOR]</title></info>
 </item>
+
+
+
+
 
 <item><title>[COLOR blue][B] Buscador de Contenidos: Psicologia[/B][/COLOR]</title>
 <link>$doregex[makelist]</link>
