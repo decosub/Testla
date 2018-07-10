@@ -1,5 +1,5 @@
 <item>
-<title>[COLOR blue][COLOR white][B] Psicologia de Pareja[/B][/COLOR][B] Contenido General[/B][/COLOR]</title>
+<title>[COLOR blue][COLOR white][B] Psicologia de Preja y Familiar[/B][/COLOR][B] Contenido General[/B][/COLOR]</title>
 <link>ignore</link>
 <jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=psicologia+de+pareja+y+familiar&sp=EgIQAw%253D%253D&search_type=playlist</jsonrpc>
 <thumbnail>https://i.imgur.com/1Sgspaz.jpg</thumbnail>
@@ -8,7 +8,7 @@
 </item>
 
 <item>
-<title>[COLOR blue][COLOR white][B] Psicologia Comunitaria[/B][/COLOR][B] Conferencias[/B][/COLOR]</title>
+<title>[COLOR blue][COLOR white][B] Psicologia de Preja y Familiar[/B][/COLOR][B] Conferencias[/B][/COLOR]</title>
 <link>ignore</link>
 <jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=psicologia+de+pareja+y+familiar+conferencia&sp=CAISAhgCQgQIABIA&search_type=playlist</jsonrpc>
 <thumbnail>https://i.imgur.com/nRQpB1m.jpg</thumbnail>
@@ -17,7 +17,7 @@
 </item>
 
 <item>
-<title>[COLOR blue][COLOR white][B] Psicologia Comunitaria[/B][/COLOR][B] Documentales Especificos[/B][/COLOR]</title>
+<title>[COLOR blue][COLOR white][B] Psicologia de Preja y Familiar[/B][/COLOR][B] Documentales Especificos[/B][/COLOR]</title>
 <link>ignore</link>
 <jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=psicologia+de+pareja+y+familiar+documental&sp=CAISAhgCQgQIABIA&search_type=playlist</jsonrpc>
 <thumbnail>https://i.imgur.com/nRQpB1m.jpg</thumbnail>
@@ -29,7 +29,7 @@
 
 
 <item><title>[COLOR blue][B] Buscador de Contenidos: Psicologia Comunitaria[/B][/COLOR]</title>
-<link>$doregex[makelist]</link>
+<link>$doregex[makelist]</link>Psicologia de Preja y Familiar
 <thumbnail>https://i.imgur.com/T2ibdjM.jpg</thumbnail>
  <fanart>https://i.imgur.com/BTXNERT.jpg</fanart> 
  <info>[COLOR white][B]Buscador de Youtube donde podras encontrar todo el contenido relacionado con la Psicologia Comunitaria..[/B][/COLOR]</info>
