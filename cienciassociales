@@ -56,7 +56,7 @@
 </item>
 
 <item>
-<title>[COLOR blue][COLOR white][B] Ciencias Sociales:[/B][/COLOR][B] Conferencias[/B][/COLOR]</title>
+<title>[COLOR blue][COLOR white][B] Ciencia Sociales:[/B][/COLOR][B] Conferencias[/B][/COLOR]</title>
 <link>ignore</link>
 <jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=ciencia+sociales+conferencia&sp=CAISAhgCQgQIABIA&search_type=playlist</jsonrpc>
 <thumbnail>https://i.imgur.com/FVkfXaR.jpg</thumbnail>
@@ -65,7 +65,7 @@
 </item>
 
 <item>
-<title>[COLOR blue][COLOR white][B] Ciencias Sociales:[/B][/COLOR][B] Documentales Especificos[/B][/COLOR]</title>
+<title>[COLOR blue][COLOR white][B] Ciencia Sociales:[/B][/COLOR][B] Documentales Especificos[/B][/COLOR]</title>
 <link>ignore</link>
 <jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=ciencia+sociales+documental&sp=CAISAhgCQgQIABIA&search_type=playlist</jsonrpc>
 <thumbnail>https://i.imgur.com/FVkfXaR.jpg</thumbnail>
