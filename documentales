@@ -56,7 +56,7 @@
 
 
 <item>
-<title>[COLOR blue][COLOR white][B] Conferencias:[/B][/COLOR][B] Fisica[/B][/COLOR]</title>
+<title>[COLOR blue][B] Fisica[/B][/COLOR]</title>
 <link>nolink</link>
 <jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=fisica+conferencia&search_type=playlist</jsonrpc>
   <fanart>https://i.imgur.com/Q50BLxY.jpg</fanart> 
@@ -65,7 +65,7 @@
 </item>
 
 <item>
-<title>[COLOR blue][COLOR white][B] Conferencias:[/B][/COLOR][B] Ciencia[/B][/COLOR]</title>
+<title>[COLOR blue][B] Ciencia[/B][/COLOR]</title>
 <link>nolink</link>
 <jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=ciencias+conferencia&search_type=playlist</jsonrpc>
   <fanart>https://i.imgur.com/Q50BLxY.jpg</fanart> 
@@ -74,7 +74,15 @@
 </item>
 
 <item>
-<title>[COLOR blue][COLOR white][B] Peliculas:[/B][/COLOR][B] Ciencias y fisica[/B][/COLOR]</title>
+<title>[COLOR white][B] Peliculas:[/B][/COLOR]</title>
+<link>nolink</link>
+<externallink></externallink>
+  <fanart>https://i.imgur.com/Q50BLxY.jpg</fanart> 
+  <thumbnail>https://i.imgur.com/LwKgqwf.jpg</thumbnail>
+<info>[COLOR white][B]Peliculas de Ciencias del buscador Generico de Youtube.[/B][/COLOR]</title></info>
+</item>
+<item>
+<title>[COLOR blue][B] Ciencias y fisica[/B][/COLOR]</title>
 <link>nolink</link>
 <jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=ciencias+fisica+pelicula&sp=EgIYAkIECAESAA%253D%253D&search_type=playlist</jsonrpc>
   <fanart>https://i.imgur.com/Q50BLxY.jpg</fanart> 
