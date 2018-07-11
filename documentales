@@ -7,47 +7,74 @@
 <externallink></externallink>
    <fanart>https://i.imgur.com/Q50BLxY.jpg</fanart> 
   <thumbnail>https://i.imgur.com/LwKgqwf.jpg</thumbnail>
- <info>[COLOR white][B]En esta seccion de Fisica Cuantica Encontraras: Física teórica, física atómica y molecular,física de partículas, astrofísica.[/B][/COLOR]</title></info>
+ <info>[COLOR white][B]En esta seccion encontraras documentales de Fisica genericos de Youtube.[/B][/COLOR]</title></info>
+</item>
+
+<item>
+<title>[COLOR blue][COLOR white][B] Documentales:[/B][/COLOR][B] El Genio de Tesla[/B][/COLOR]</title>
+<link>ignore</link>
+<jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=documentales+de+nikola+tesla&search_type=playlist</jsonrpc>
+  <fanart>https://i.imgur.com/Q50BLxY.jpg</fanart> 
+  <thumbnail>https://i.imgur.com/LwKgqwf.jpg</thumbnail>
+ <info>[COLOR white][B]Redes Tv divulgacion del mundo cientifico con Eduart Punset..[/B][/COLOR]</title></info>
 </item>
 
 <item>
 <title>[COLOR blue][COLOR white][B] Documentales:[/B][/COLOR][B] Fisica[/B][/COLOR]</title>
 <link>nolink</link>
-<jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=documentales+planeta+ciencia&sp=EgIYAkIECAESAA%253D%253D&search_type=playlist</jsonrpc>
+<jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=fisica+documentales&sp=EgIYAkIECAESAA%253D%253D&search_type=playlist</jsonrpc>
      <fanart>https://i.imgur.com/Q50BLxY.jpg</fanart> 
   <thumbnail>https://i.imgur.com/LwKgqwf.jpg</thumbnail>
-<info>[COLOR white][B]Documentales de calidad ordenados por contenido para mentes inquietas...[/B][/COLOR]</title></info>
+ <info>[COLOR white][B]En esta seccion encontraras documentales de Fisica genericos de Youtube.[/B][/COLOR]</title></info>
 </item>
 
 <item>
 <title>[COLOR blue][COLOR white][B] Documentales:[/B][/COLOR][B] Ciencias[/B][/COLOR]</title>
 <link>nolink</link>
-<jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=documentales+de+fisica&search_type=playlist</jsonrpc>
+<jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=ciencia+documental&search_type=playlist</jsonrpc>
      <fanart>https://i.imgur.com/Q50BLxY.jpg</fanart> 
   <thumbnail>https://i.imgur.com/LwKgqwf.jpg</thumbnail>
-<info>[COLOR white][B]Documentales de calidad ordenados por contenido para mentes inquietas...[/B][/COLOR]</title></info>
+ <info>[COLOR white][B]En esta seccion encontraras documentales sobre Ciencia genericos de Youtube.[/B][/COLOR]</title></info>
 </item>
-
-
 <item>
-<title>[COLOR blue][B] Conferencias:[/B][/COLOR]</title>
-<link>nolink</link>
-<jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=Conferencias+sobre+ciencia+y+fisica&search_type=playlist</jsonrpc>
-  <fanart>https://i.imgur.com/Q50BLxY.jpg</fanart> 
-  <thumbnail>https://i.imgur.com/LwKgqwf.jpg</thumbnail>
- <info>[COLOR white][B]Documentales de calidad ordenados por contenido para mentes inquietas...[/B][/COLOR]</title></info>
-</item>
-
-
-
-<item>
-<title>[COLOR blue][B] Redes Tv (Eduart Punset)[/B][/COLOR]</title>
+<title>[COLOR blue][COLOR white][B] Documentales:[/B][/COLOR][B] Redes Tv (Eduart Punset)[/B][/COLOR]</title>
 <link>ignore</link>
 <jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=eduard+punset+redes&sp=EgIQAw%253D%253D&search_type=playlist</jsonrpc>
   <fanart>https://i.imgur.com/Q50BLxY.jpg</fanart> 
   <thumbnail>https://i.imgur.com/LwKgqwf.jpg</thumbnail>
- <info>[COLOR white][B]Documentales de calidad ordenados por contenido para mentes inquietas...[/B][/COLOR]</title></info>
+ <info>[COLOR white][B]Redes Tv divulgacion del mundo cientifico con Eduart Punset..[/B][/COLOR]</title></info>
 </item>
+
+
+
+
+<item>
+<title>[COLOR blue][COLOR white][B] Conferencias:[/B][/COLOR][B] Fisica[/B][/COLOR]</title>
+<link>nolink</link>
+<jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=fisica+conferencia&search_type=playlist</jsonrpc>
+  <fanart>https://i.imgur.com/Q50BLxY.jpg</fanart> 
+  <thumbnail>https://i.imgur.com/LwKgqwf.jpg</thumbnail>
+ <info>[COLOR white][B]En esta seccion encontraras Conferencias sobre fisica genericos de Youtube.[/B][/COLOR]</title></info>
+</item>
+
+<item>
+<title>[COLOR blue][COLOR white][B] Conferencias:[/B][/COLOR][B] Ciencias[/B][/COLOR]</title>
+<link>nolink</link>
+<jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=ciencias+conferencia&search_type=playlist</jsonrpc>
+  <fanart>https://i.imgur.com/Q50BLxY.jpg</fanart> 
+  <thumbnail>https://i.imgur.com/LwKgqwf.jpg</thumbnail>
+ <info>[COLOR white][B]En esta seccion encontraras Conferencias sobre Ciencia genericos de Youtube.[/B][/COLOR]</title></info>
+</item>
+
+<item>
+<title>[COLOR blue][COLOR white][B] Peliculas:[/B][/COLOR][B] Ciencias y fisica[/B][/COLOR]</title>
+<link>nolink</link>
+<jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=ciencias+fisica+pelicula&sp=EgIYAkIECAESAA%253D%253D&search_type=playlist</jsonrpc>
+  <fanart>https://i.imgur.com/Q50BLxY.jpg</fanart> 
+  <thumbnail>https://i.imgur.com/LwKgqwf.jpg</thumbnail>
+ <info>[COLOR white][B]Peliculas de Ciencias del buscador Generico de Youtube.[/B][/COLOR]</title></info>
+</item>
+
 
 <item>
 <item><title>[COLOR blue][B] Buscador de Documentales [/B][/COLOR]</title>
@@ -136,6 +163,9 @@ class InputWindow(xbmcgui.WindowDialog):
 <page></page>
 </regex>
 </item>
+
+
+
 <item>
 <item><title>[COLOR blue][B] Buscador de Conferencias [/B][/COLOR]</title>
 <link>$doregex[makelist]</link>
