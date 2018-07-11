@@ -29,7 +29,7 @@
 <item>
 <title>[COLOR blue][COLOR white][B] Ecologia:[/B][/COLOR][B] Viviendas Ecologicas [/B][/COLOR]</title>
 <link>ignore</link>
-<jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=casa+ecologica&search_type=playlist</jsonrpc>
+<jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=casa+ecologica+español&sp=CAESAhgCQgQIARIA</jsonrpc>
 <thumbnail>https://i.imgur.com/3HmGTRz.jpg</thumbnail>
 <fanart>https://i.imgur.com/BTXNERT.jpg</fanart>
 <info>[COLOR white][B] Ciencias Naturales Ecologia..[/B][/COLOR]</title></info>
