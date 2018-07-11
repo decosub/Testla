@@ -3,9 +3,9 @@
 <item>
 <title>[COLOR blue][COLOR white][B] Ciencia Biosocial:[/B][/COLOR][B] Antropologia[/B][/COLOR]</title>
 <link>nolink</link>
-<externallink></externallink>
+<externallink>https://bit.ly/2L9cTnU</externallink>
   <fanart>https://i.imgur.com/BTXNERT.jpg</fanart> 
-  <thumbnail>https://i.imgur.com/zWyRS9Y.jpg</thumbnail>
+  <thumbnail>https://i.imgur.com/kXOKZjp.jpg</thumbnail>
  <info>[COLOR white][B]En esta seccion de Ciencias Biosociales Encontraras: Antropología, Demografía, Psicología social, Bioeconomia...[/B][/COLOR]</title></info>
 </item>
 
@@ -13,27 +13,27 @@
 <item>
 <title>[COLOR blue][COLOR white][B] Ciencia Biosocial:[/B][/COLOR][B] Demografia[/B][/COLOR]</title>
 <link>nolink</link>
-<externallink></externallink>
+<externallink>https://bit.ly/2Je8aze</externallink>
    <fanart>https://i.imgur.com/BTXNERT.jpg</fanart> 
-  <thumbnail>https://i.imgur.com/FeSit9V.jpg</thumbnail>
+  <thumbnail>https://i.imgur.com/FVkfXaR.jpg</thumbnail>
  <info>[COLOR white][B]En esta seccion de Ciencias Biosociales Encontraras: Antropología, Demografía, Psicología social, Bioeconomia...[/B][/COLOR]</title></info>
 </item>
 
 <item>
 <title>[COLOR blue][COLOR white][B] Ciencia Biosocial:[/B][/COLOR][B] Psicologia Social [/B][/COLOR]</title>
 <link>nolink</link>
-<externallink></externallink>
+<externallink>https://bit.ly/2N6bKOl</externallink>
    <fanart>https://i.imgur.com/BTXNERT.jpg</fanart> 
-  <thumbnail>https://i.imgur.com/QwZlI69.jpg</thumbnail>
+  <thumbnail>https://i.imgur.com/GOR9xG2.jpg</thumbnail>
  <info>[COLOR white][B]En esta seccion de Ciencias Biosociales Encontraras: Antropología, Demografía, Psicología social, Bioeconomia...[/B][/COLOR]</title></info>
 </item>
 
 <item>
 <title>[COLOR blue][COLOR white][B] Ciencia Biosocial:[/B][/COLOR][B] Bioeconomia  [/B][/COLOR]</title>
 <link>nolink</link>
-<externallink></externallink>
+<externallink>https://bit.ly/2L57Gk2</externallink>
    <fanart>https://i.imgur.com/BTXNERT.jpg</fanart> 
-  <thumbnail>https://i.imgur.com/QwZlI69.jpg</thumbnail>
+  <thumbnail>https://i.imgur.com/VBXyoWb.jpg</thumbnail>
  <info>[COLOR white][B]En esta seccion de Ciencias Biosociales Encontraras: Antropología, Demografía, Psicología social, Bioeconomia...[/B][/COLOR]</title></info>
 </item>
 
@@ -72,7 +72,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 import requests,xbmcgui,xbmc, re,time, xbmcaddon
 def GetLSProData(page_data,Cookie_Jar,m):
  
- text=takeInputFortext('[COLOR white][B] Tesla [/B][/COLOR] [COLOR blue]Buscar de Contenidos[/COLOR]')
+ text=takeInputFortext('[COLOR white][B] Tesla [/B][/COLOR] [COLOR blue]Buscador de Contenidos[/COLOR]')
  url = 'https://www.youtube.com/results?search_query=Ciencia+biosocial' + text.replace(' ', '+')
  req = requests.get(url)
  list1 = re.findall('yt-lockup-c.+?a\shref=".watch.v=([^"]+)".+?\s\stitle="([^"]+)"\s', req.text)
