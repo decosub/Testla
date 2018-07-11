@@ -62,7 +62,7 @@ import requests,xbmcgui,xbmc, re,time, xbmcaddon
 def GetLSProData(page_data,Cookie_Jar,m):
  
  text=takeInputFortext('[COLOR white][B] Tesla [/B][/COLOR] [COLOR blue]Buscardor de Contenidos[/COLOR]')
- url = 'https://www.youtube.com/results?search_query=microeconomia' + text.replace(' ', '+')
+ url = 'https://www.youtube.com/results?search_query=macroeconomia' + text.replace(' ', '+')
  req = requests.get(url)
  list1 = re.findall('yt-lockup-c.+?a\shref=".watch.v=([^"]+)".+?\s\stitle="([^"]+)"\s', req.text)
  
