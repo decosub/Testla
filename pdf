@@ -1,40 +1,18 @@
-<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-
-
 <item>
-<title>[COLOR blue][COLOR white][B] Prueba 3:[/B][/COLOR][B] Pdf[/B][/COLOR]</title>
-<url>https://www.dropbox.com/s/9l58snz12ylrjfv/stva-base.zip?dl=1</url>
-<thumbnail>https://i.imgur.com/VBXyoWb.jpg</thumbnail>
-<fanart>https://i.imgur.com/BTXNERT.jpg</fanart>
-<info>[COLOR white][B]Ciencias Naturales Bioeconomia, Busqueda General Youtube..[/B][/COLOR]</title></info>
-</item>
-
-<item>
-<name>[COLOR blue][COLOR white][B] Prueba 3:[/B][/COLOR][B] Pdf[COLOR blue][COLOR white][B] 
-<url>https://www.dropbox.com/s/9l58snz12ylrjfv/stva-base.zip?dl=1</url>
-<thumbnail>https://i.imgur.com/VBXyoWb.jpg</thumbnail>
-<fanart>https://i.imgur.com/BTXNERT.jpg</fanart>
-<info>[COLOR white][B]Ciencias Naturales Bioeconomia, Busqueda General Youtube..[/B][/COLOR]</title></info>
+<title>[COLOR blue][COLOR white][B] Tesla:[/B][/COLOR][B] Las Semillas de la Ciencia [/B][/COLOR]</title>
+<link>https://www.dropbox.com/s/yiza1vryabhp6y9/181-18-soloscoter-byneon.pdf?dl=1</link>
+<externallink>https://www.dropbox.com/s/yiza1vryabhp6y9/181-18-soloscoter-byneon.pdf?dl=1</externallink>
+    <fanart>https://i.imgur.com/zBlww2I.jpg</fanart> 
+  <thumbnail>https://i.imgur.com/P90VMS7.jpg</thumbnail>
+ <info>[COLOR white][B]Ciencia para los mas pequeños de la casa , sembrar la curiosidad en ellos para que el dia de mañana...[/B][/COLOR]</title></info>
 </item>
 
 
-name=[COLOR blue][COLOR white][B]" prueba : (original)"[COLOR blue][COLOR white][B] 
-url="https://www.dropbox.com/s/9l58snz12ylrjfv/stva-base.zip?dl=1" 
-img="http://bit.ly/2qpXTsL"
-fanart="https://i.imgur.com/xYuRKhR.jpg"
-description="STVA 2.0"
-
-
-name="prueba 2"
-url="https://www.dropbox.com/s/9l58snz12ylrjfv/stva-base.zip?dl=1" 
-img="http://bit.ly/2qpXTsL"
-fanart="https://i.imgur.com/xYuRKhR.jpg"
-description="STVA 2.0"
-
 <item>
-<title>[COLOR blue][COLOR white][B] Prueba 3:[/B][/COLOR][B] Pdf[/B][/COLOR]</title>
-<url>https://www.dropbox.com/s/9l58snz12ylrjfv/stva-base.zip?dl=1</url>
-<thumbnail>https://i.imgur.com/VBXyoWb.jpg</thumbnail>
-<fanart>https://i.imgur.com/BTXNERT.jpg</fanart>
-<info>[COLOR white][B]Ciencias Naturales Bioeconomia, Busqueda General Youtube..[/B][/COLOR]</title></info>
+<title>[COLOR blue][COLOR white][B] Tesla:[/B][/COLOR][B] Las Semillas de la Ciencia [/B][/COLOR]</title>
+<urlresolver>https://www.dropbox.com/s/yiza1vryabhp6y9/181-18-soloscoter-byneon.pdf?dl=1</urlresolver>
+<externallink>https://www.dropbox.com/s/yiza1vryabhp6y9/181-18-soloscoter-byneon.pdf?dl=1</externallink>
+    <fanart>https://i.imgur.com/zBlww2I.jpg</fanart> 
+  <thumbnail>https://i.imgur.com/P90VMS7.jpg</thumbnail>
+ <info>[COLOR white][B]Ciencia para los mas pequeños de la casa , sembrar la curiosidad en ellos para que el dia de mañana...[/B][/COLOR]</title></info>
 </item>
