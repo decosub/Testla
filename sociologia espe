@@ -3,9 +3,9 @@
 <item>
 <title>[COLOR blue][COLOR white][B] Especializaciones Sociologia:[/B][/COLOR][B] Marketing..[/B][/COLOR]</title>
 <link>nolink</link>
-<externallink>https://bit.ly/2MXvVPs</externallink>
-  <fanart>https://i.imgur.com/BTXNERT.jpg</fanart> 
-  <thumbnail>https://i.imgur.com/zWyRS9Y.jpg</thumbnail>
+<jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=marketing&sp=CAISAhgCQgQIABIA&search_type=playlist</jsonrpc>
+   <fanart>https://i.imgur.com/BTXNERT.jpg</fanart> 
+  <thumbnail>https://i.imgur.com/FVkfXaR.jpg</thumbnail>
  <info>[COLOR white][B]En esta seccion de Ciencias Naturales Encontraras: Matematicas, Química, Psicología Individual...[/B][/COLOR]</title></info>
 </item>
 
@@ -13,34 +13,34 @@
 <item>
 <title>[COLOR blue][COLOR white][B] Especializaciones Sociologia:[/B][/COLOR][B] Técnicas de investigación social cualitativas.[/B][/COLOR]</title>
 <link>nolink</link>
-<externallink></externallink>
+<jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=tecnicas+de+investigacion+social+cualitativa&sp=CAISAhgCQgQIABIA&search_type=playlist</jsonrpc>
    <fanart>https://i.imgur.com/BTXNERT.jpg</fanart> 
-  <thumbnail>https://i.imgur.com/FeSit9V.jpg</thumbnail>
+  <thumbnail>https://i.imgur.com/FVkfXaR.jpg</thumbnail>
  <info>[COLOR white][B]En esta seccion de Ciencias Naturales Encontraras: Matematicas, Química, Psicología Individual...[/B][/COLOR]</title></info>
 </item>
 
 <item>
 <title>[COLOR blue][COLOR white][B] Especializaciones Sociologia:[/B][/COLOR][B] Investigación de mercados.[/B][/COLOR]</title>
 <link>nolink</link>
-<externallink></externallink>
+<jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=investigacion+de+mercados&sp=CAISAhgCQgQIABIA&search_type=playlist</jsonrpc>
    <fanart>https://i.imgur.com/BTXNERT.jpg</fanart> 
-  <thumbnail>https://i.imgur.com/QwZlI69.jpg</thumbnail>
+  <thumbnail>https://i.imgur.com/FVkfXaR.jpg</thumbnail>
  <info>[COLOR white][B]En esta seccion de Ciencias Naturales Encontraras: Matematicas, Química, Psicología Individual...[/B][/COLOR]</title></info>
 </item>
 
 <item>
 <title>[COLOR blue][COLOR white][B] Especializaciones Sociologia:[/B][/COLOR][B] Estadística aplicada a las ciencias sociales. [/B][/COLOR]</title>
 <link>nolink</link>
-<externallink></externallink>
+<jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=Estadstica+aplicada+ciencias+socialess&sp=CAISAhgCQgQIABIA&search_type=playlist</jsonrpc>
    <fanart>https://i.imgur.com/BTXNERT.jpg</fanart> 
-  <thumbnail>https://i.imgur.com/QwZlI69.jpg</thumbnail>
+  <thumbnail>https://i.imgur.com/FVkfXaR.jpg</thumbnail>
  <info>[COLOR white][B]En esta seccion de Ciencias Naturales Encontraras: Matematicas, Química, Psicología Individual...[/B][/COLOR]</title></info>
 </item>
 
 <item>
 <title>[COLOR blue][COLOR white][B] Especializaciones Sociologia:[/B][/COLOR][B] Evaluación de organizaciones y políticas públicas.. [/B][/COLOR]</title>
 <link>nolink</link>
-<externallink></externallink>
+<jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=Evaluación+de+organizaciones+políticas+públicas&sp=CAISAhgCQgQIABIA&search_type=playlist</jsonrpc>
    <fanart>https://i.imgur.com/BTXNERT.jpg</fanart> 
   <thumbnail>https://i.imgur.com/QwZlI69.jpg</thumbnail>
  <info>[COLOR white][B]En esta seccion de Ciencias Naturales Encontraras: Matematicas, Química, Psicología Individual...[/B][/COLOR]</title></info>
