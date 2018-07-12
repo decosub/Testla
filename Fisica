@@ -33,9 +33,11 @@
 <link>nolink</link>
 <jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=fisica+conferencias&sp=EgIQAw%253D%253D&search_type=playlist</jsonrpc>
    <fanart>https://i.imgur.com/3blAZfv.jpg</fanart> 
-  <thumbnail>https://i.imgur.com/T2ibdjM.jpg</thumbnail>
+  <thumbnail>https://i.imgur.com/2XTGZyw.jpg</thumbnail>
  <info>[COLOR white][B]En esta seccion de Fisica Encontraras: Física Teórica, Física Atómica, Fisica Molecular, Física de Partículas, Astrofísica....[/B][/COLOR]</title></info>
 </item>
+
+
 
 <item><title>[COLOR blue][B] Buscador de Contenidos: Fisica General[/B][/COLOR]</title>
 <link>$doregex[makelist]</link>
