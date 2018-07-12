@@ -161,7 +161,27 @@
 </item>
 
 
-<item><title>[COLOR blue][B] Buscador de Contenidos: Fisica Cuantica Astrofisica [/B][/COLOR]</title>
+<item>
+<title>[COLOR blue][COLOR white][B] Astrofisica:[/B][/COLOR][B]  Documentales [/B][/COLOR]</title>
+<link>nolink</link>
+<jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=astrofisica+documental&sp=CAISAhgCQgQIABIA&search_type=playlist</jsonrpc>
+   <fanart>https://i.imgur.com/BTXNERT.jpg</fanart> 
+  <thumbnail>https://i.imgur.com/QbxMl9U.jpg</thumbnail>
+ <info>[COLOR white][B]En esta seccion de Ciencias Naturales Encontraras: Matematicas, Química, Psicología Individual...[/B][/COLOR]</title></info>
+</item>
+
+<item>
+<title>[COLOR blue][COLOR white][B] Astrofisica:[/B][/COLOR][B]  Conferencias [/B][/COLOR]</title>
+<link>nolink</link>
+<jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=astrofisica+conferencias&sp=CAISAhgCQgQIABIA&search_type=playlist</jsonrpc>
+   <fanart>https://i.imgur.com/BTXNERT.jpg</fanart> 
+  <thumbnail>https://i.imgur.com/QbxMl9U.jpg</thumbnail>
+ <info>[COLOR white][B]En esta seccion de Ciencias Naturales Encontraras: Matematicas, Química, Psicología Individual...[/B][/COLOR]</title></info>
+</item>
+
+
+
+<item><title>[COLOR blue][B] Buscador de Contenidos: Astrofisica [/B][/COLOR]</title>
 <link>$doregex[makelist]</link>
    <fanart>https://i.imgur.com/zBlww2I.jpg</fanart> 
   <thumbnail>https://i.imgur.com/T2ibdjM.jpg</thumbnail>
