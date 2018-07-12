@@ -19,7 +19,23 @@
  <info>[COLOR white][B]En esta seccion de Ciencias Sociales Encontraras: Sociología, Economía, Ciencias Políticas, Historia Material, Historia de las Ideas....[/B][/COLOR]</title></info>
 </item>
 
+<item>
+<title>[COLOR blue][COLOR white][B] Ciencias Economicas:[/B][/COLOR][B] Documentales [/B][/COLOR]</title>
+<link>nolink</link>
+<jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=economia+documental&sp=CAISAhgCQgQIABIA&search_type=playlist</jsonrpc>
+   <fanart>https://i.imgur.com/BTXNERT.jpg</fanart> 
+  <thumbnail>https://i.imgur.com/lb2J9Gl.jpg</thumbnail>
+ <info>[COLOR white][B]En esta seccion de Ciencias Naturales Encontraras: Matematicas, Química, Psicología Individual...[/B][/COLOR]</title></info>
+</item>
 
+<item>
+<title>[COLOR blue][COLOR white][B] Ciencias Economicas:[/B][/COLOR][B] Conferencias [/B][/COLOR]</title>
+<link>nolink</link>
+<jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=economicas+conferencias&sp=CAISAhgCQgQIABIA&search_type=playlist</jsonrpc>
+   <fanart>https://i.imgur.com/BTXNERT.jpg</fanart> 
+  <thumbnail>https://i.imgur.com/lb2J9Gl.jpg</thumbnail>
+ <info>[COLOR white][B]En esta seccion de Ciencias Naturales Encontraras: Matematicas, Química, Psicología Individual...[/B][/COLOR]</title></info>
+</item>
 
 <item><title>[COLOR blue][B] Buscador de Contenidos: Ciencias Economicas[/B][/COLOR]</title>
 <link>$doregex[makelist]</link>
