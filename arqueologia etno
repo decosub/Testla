@@ -1,6 +1,6 @@
 
 <item>
-<title>[COLOR blue][B] Aruqeologia Etnoarqueología:[/B][/COLOR]</title>
+<title>[COLOR blue][B] Arqueologia Etnoarqueología:[/B][/COLOR]</title>
 <link>nolink</link>
 <externallink></externallink>
 <thumbnail>https://i.imgur.com/Ym0YjIs.jpg</thumbnail>
@@ -11,7 +11,7 @@
 <item>
 <title>[COLOR blue][COLOR white][B] Arqueologia Etnoarqueología:[/B][/COLOR][B] Contenido General[/B][/COLOR]</title>
 <link>ignore</link>
-<jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=Arqueologia+Etnoarqueología&sp=EgIQAw%253D%253D&search_type=playlist</jsonrpc>
+<jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=Arqueologia+Etnoarqueologia&sp=EgIQAw%253D%253D&search_type=playlist</jsonrpc>
 <thumbnail>https://i.imgur.com/Ym0YjIs.jpg</thumbnail>
 <fanart>https://i.imgur.com/BTXNERT.jpg</fanart>
 <info>[COLOR white][B]Ciencias Naturales Arqueologia Etnoarqueología, Busqueda General Youtube..[/B][/COLOR]</title></info>
@@ -20,7 +20,7 @@
 <item>
 <title>[COLOR blue][COLOR white][B] Arqueologia Etnoarqueología:[/B][/COLOR][B] Conferencias[/B][/COLOR]</title>
 <link>ignore</link>
-<jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=Arqueologia+Etnoarqueología+conferencia&sp=CAISAhgCQgQIABIA&search_type=playlist</jsonrpc>
+<jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=Arqueologia+Etnoarqueologia+conferencia&sp=CAISAhgCQgQIABIA&search_type=playlist</jsonrpc>
 <thumbnail>https://i.imgur.com/Ym0YjIs.jpg</thumbnail>
 <fanart>https://i.imgur.com/BTXNERT.jpg</fanart>
 <info>[COLOR white][B]Ciencias Naturales Arqueologia Etnoarqueología, Busqueda General Youtube..[/B][/COLOR]</title></info>
@@ -29,7 +29,7 @@
 <item>
 <title>[COLOR blue][COLOR white][B] Arqueologia Etnoarqueología:[/B][/COLOR][B] Documentales Especificos[/B][/COLOR]</title>
 <link>ignore</link>
-<jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=Arqueologia+Etnoarqueología+documental&sp=CAISAhgCQgQIABIA&search_type=playlist</jsonrpc>
+<jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=Arqueologia+Etnoarqueologia+documental&sp=CAISAhgCQgQIABIA&search_type=playlist</jsonrpc>
 <thumbnail>https://i.imgur.com/Ym0YjIs.jpg</thumbnail>
 <fanart>https://i.imgur.com/BTXNERT.jpg</fanart>
 <info>[COLOR white][B]Ciencias Naturales Arqueologia Etnoarqueología, Busqueda General Youtube..[/B][/COLOR]</title></info>
@@ -74,7 +74,7 @@ import requests,xbmcgui,xbmc, re,time, xbmcaddon
 def GetLSProData(page_data,Cookie_Jar,m):
  
  text=takeInputFortext('[COLOR white][B] Tesla [/B][/COLOR] [COLOR blue]Buscador de Contenidos[/COLOR]')
- url = 'https://www.youtube.com/results?search_query=Arqueologia+Etnoarqueología' + text.replace(' ', '+')
+ url = 'https://www.youtube.com/results?search_query=Arqueologia+Etnoarqueologia' + text.replace(' ', '+')
  req = requests.get(url)
  list1 = re.findall('yt-lockup-c.+?a\shref=".watch.v=([^"]+)".+?\s\stitle="([^"]+)"\s', req.text)
  
