@@ -82,7 +82,23 @@
 <info>[COLOR white][B]Contenido general del buscador de Youtube...[/B][/COLOR]</title></info>
 </item>
 
+<item>
+<title>[COLOR blue][COLOR white][B] Molecular:[/B][/COLOR][B] Documentales[/B][/COLOR]</title>
+<link>ignore</link>
+<jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=Fisica+Molecular+documentales&sp=CAJCBAgBEgA%253D&search_type=playlist</jsonrpc>
+<thumbnail>https://i.imgur.com/SahqSe0.jpg</thumbnail>
+<fanart>https://i.imgur.com/3blAZfv.jpg</fanart>
+<info>[COLOR white][B]Contenido general del buscador de Youtube...[/B][/COLOR]</title></info>
+</item>
 
+<item>
+<title>[COLOR blue][COLOR white][B] Molecular:[/B][/COLOR][B] Conferencias[/B][/COLOR]</title>
+<link>ignore</link>
+<jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=Fisica+Molecular+conferencia&sp=CAJCBAgBEgA%253D&search_type=playlist</jsonrpc>
+<thumbnail>https://i.imgur.com/SahqSe0.jpg</thumbnail>
+<fanart>https://i.imgur.com/3blAZfv.jpg</fanart>
+<info>[COLOR white][B]Contenido general del buscador de Youtube...[/B][/COLOR]</title></info>
+</item>
 
 <item><title>[COLOR blue][B] Buscador de Contenidos: Fisica Cuantica Molecular[/B][/COLOR]</title>
 <link>$doregex[makelist]</link>
