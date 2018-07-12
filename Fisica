@@ -23,14 +23,24 @@
 <link>nolink</link>
 <jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=fisica+documentales&sp=EgIQAw%253D%253D&search_type=playlist</jsonrpc>
    <fanart>https://i.imgur.com/3blAZfv.jpg</fanart> 
-  <thumbnail>https://i.imgur.com/3blAZfv.jpg</thumbnail>
+  <thumbnail>https://i.imgur.com/2XTGZyw.jpg</thumbnail>
+ <info>[COLOR white][B]En esta seccion de Fisica Encontraras: Física Teórica, Física Atómica, Fisica Molecular, Física de Partículas, Astrofísica....[/B][/COLOR]</title></info>
+</item>
+
+
+<item>
+<title>[COLOR blue][COLOR white][B] Fisica:[/B][/COLOR][B] Conferencias [/B][/COLOR]</title>
+<link>nolink</link>
+<jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=fisica+conferencias&sp=EgIQAw%253D%253D&search_type=playlist</jsonrpc>
+   <fanart>https://i.imgur.com/3blAZfv.jpg</fanart> 
+  <thumbnail>https://i.imgur.com/T2ibdjM.jpg</thumbnail>
  <info>[COLOR white][B]En esta seccion de Fisica Encontraras: Física Teórica, Física Atómica, Fisica Molecular, Física de Partículas, Astrofísica....[/B][/COLOR]</title></info>
 </item>
 
 <item><title>[COLOR blue][B] Buscador de Contenidos: Fisica General[/B][/COLOR]</title>
 <link>$doregex[makelist]</link>
    <fanart>https://i.imgur.com/3blAZfv.jpg</fanart> 
-  <thumbnail>https://i.imgur.com/3blAZfv.jpg</thumbnail>
+  <thumbnail>https://i.imgur.com/T2ibdjM.jpg</thumbnail>
  <info>[COLOR white][B]Buscador de Youtube donde podras encontrar todo el contenido relacionado con la Fisica...[/B][/COLOR]</info>
 <regex>
 <name>makelist</name>
@@ -62,7 +72,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 import requests,xbmcgui,xbmc, re,time, xbmcaddon
 def GetLSProData(page_data,Cookie_Jar,m):
  
- text=takeInputFortext('[COLOR white][B] Tesla [/B][/COLOR] [COLOR blue]Buscar de Contenidos[/COLOR]')
+ text=takeInputFortext('[COLOR white][B] Tesla [/B][/COLOR] [COLOR blue]Buscardor de Contenidos[/COLOR]')
  url = 'https://www.youtube.com/results?search_query=Fisica' + text.replace(' ', '+')
  req = requests.get(url)
  list1 = re.findall('yt-lockup-c.+?a\shref=".watch.v=([^"]+)".+?\s\stitle="([^"]+)"\s', req.text)
