@@ -1,4 +1,3 @@
-<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <item>
 <title>[COLOR blue][B] Sociologia:[/B][/COLOR]</title>
 <link>nolink</link>
@@ -22,8 +21,8 @@
 <title>[COLOR blue][COLOR white][B] Sociologia:[/B][/COLOR][B] Sociología de la educación[/B][/COLOR]</title>
 <link>nolink</link>
 <jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=sociologia+de+la+educacion&sp=CAISAhgCQgQIABIA&search_type=playlist</jsonrpc>
-   <fanart>https://i.imgur.com/BTXNERT.jpg</fanart> 
-  <thumbnail>https://i.imgur.com/FeSit9V.jpg</thumbnail>
+  <fanart>https://i.imgur.com/BTXNERT.jpg</fanart> 
+  <thumbnail>https://i.imgur.com/qMmXnjo.jpg</thumbnail>
  <info>[COLOR white][B]En esta seccion de Ciencias Naturales Encontraras: Matematicas, Química, Psicología Individual...[/B][/COLOR]</title></info>
 </item>
 
@@ -31,8 +30,8 @@
 <title>[COLOR blue][COLOR white][B] Sociologia:[/B][/COLOR][B] Sociología de la desviación [/B][/COLOR]</title>
 <link>nolink</link>
 <jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=sociologia+de+la+desviacion&sp=CAISAhgCQgQIABIA&search_type=playlist</jsonrpc>
-   <fanart>https://i.imgur.com/BTXNERT.jpg</fanart> 
-  <thumbnail>https://i.imgur.com/QwZlI69.jpg</thumbnail>
+  <fanart>https://i.imgur.com/BTXNERT.jpg</fanart> 
+  <thumbnail>https://i.imgur.com/qMmXnjo.jpg</thumbnail>
  <info>[COLOR white][B]En esta seccion de Ciencias Naturales Encontraras: Matematicas, Química, Psicología Individual...[/B][/COLOR]</title></info>
 </item>
 
@@ -41,7 +40,7 @@
 <link>nolink</link>
 <jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=sociologia+politica&sp=CAISAhgCQgQIABIA&search_type=playlist</jsonrpc>
    <fanart>https://i.imgur.com/BTXNERT.jpg</fanart> 
-  <thumbnail>https://i.imgur.com/QwZlI69.jpg</thumbnail>
+  <thumbnail>https://i.imgur.com/qMmXnjo.jpg</thumbnail>
  <info>[COLOR white][B]En esta seccion de Ciencias Naturales Encontraras: Matematicas, Química, Psicología Individual...[/B][/COLOR]</title></info>
 </item>
 
@@ -58,8 +57,8 @@
 <item>
 <title>[COLOR blue][COLOR white][B] Sociologia:[/B][/COLOR][B] Sociología del trabajo[/B][/COLOR]</title>
 <jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=sociologia+de+trabajo&sp=CAISAhgCQgQIABIA&search_type=playlist</jsonrpc>
-   <fanart>https://i.imgur.com/BTXNERT.jpg</fanart> 
-  <thumbnail>https://i.imgur.com/FeSit9V.jpg</thumbnail>
+  <fanart>https://i.imgur.com/BTXNERT.jpg</fanart> 
+  <thumbnail>https://i.imgur.com/qMmXnjo.jpg</thumbnail>
  <info>[COLOR white][B]En esta seccion de Ciencias Naturales Encontraras: Matematicas, Química, Psicología Individual...[/B][/COLOR]</title></info>
 </item>
 
@@ -67,8 +66,8 @@
 <title>[COLOR blue][COLOR white][B] Sociologia:[/B][/COLOR][B] Sociología de la cultura  [/B][/COLOR]</title>
 <link>nolink</link>
 <jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=sociologia+de+la+cultura&sp=CAISAhgCQgQIABIA&search_type=playlist</jsonrpc>
-   <fanart>https://i.imgur.com/BTXNERT.jpg</fanart> 
-  <thumbnail>https://i.imgur.com/QwZlI69.jpg</thumbnail>
+  <fanart>https://i.imgur.com/BTXNERT.jpg</fanart> 
+  <thumbnail>https://i.imgur.com/qMmXnjo.jpg</thumbnail>
  <info>[COLOR white][B]En esta seccion de Ciencias Naturales Encontraras: Matematicas, Química, Psicología Individual...[/B][/COLOR]</title></info>
 </item>
 
@@ -77,7 +76,7 @@
 <link>nolink</link>
 <jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=sociologia+del+medio+ambiente&sp=CAISAhgCQgQIABIA&search_type=playlist</jsonrpc>
    <fanart>https://i.imgur.com/BTXNERT.jpg</fanart> 
-  <thumbnail>https://i.imgur.com/QwZlI69.jpg</thumbnail>
+<thumbnail>https://i.imgur.com/qMmXnjo.jpg</thumbnail>
  <info>[COLOR white][B]En esta seccion de Ciencias Naturales Encontraras: Matematicas, Química, Psicología Individual...[/B][/COLOR]</title></info>
 </item>
 
@@ -86,7 +85,7 @@
 <link>nolink</link>
 <jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=sociologia+urbana&sp=CAISAhgCQgQIABIA&search_type=playlist</jsonrpc>
    <fanart>https://i.imgur.com/BTXNERT.jpg</fanart> 
-  <thumbnail>https://i.imgur.com/QwZlI69.jpg</thumbnail>
+<thumbnail>https://i.imgur.com/qMmXnjo.jpg</thumbnail>
  <info>[COLOR white][B]En esta seccion de Ciencias Naturales Encontraras: Matematicas, Química, Psicología Individual...[/B][/COLOR]</title></info>
 </item>
 
@@ -95,7 +94,7 @@
 <link>nolink</link>
 <jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=sociologia+de+la+desigualdad&sp=CAISAhgCQgQIABIA&search_type=playlist</jsonrpc>
    <fanart>https://i.imgur.com/BTXNERT.jpg</fanart> 
-  <thumbnail>https://i.imgur.com/QwZlI69.jpg</thumbnail>
+<thumbnail>https://i.imgur.com/qMmXnjo.jpg</thumbnail>
  <info>[COLOR white][B]En esta seccion de Ciencias Naturales Encontraras: Matematicas, Química, Psicología Individual...[/B][/COLOR]</title></info>
 </item>
 
@@ -104,7 +103,7 @@
 <link>nolink</link>
 <jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=sociologia+de+arte&search_type=playlist</jsonrpc>
    <fanart>https://i.imgur.com/BTXNERT.jpg</fanart> 
-  <thumbnail>https://i.imgur.com/QwZlI69.jpg</thumbnail>
+<thumbnail>https://i.imgur.com/qMmXnjo.jpg</thumbnail>
  <info>[COLOR white][B]En esta seccion de Ciencias Naturales Encontraras: Matematicas, Química, Psicología Individual...[/B][/COLOR]</title></info>
 </item>
 
@@ -127,7 +126,7 @@
 <link>nolink</link>
 <jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=sociologia+de+genero&search_type=playlist</jsonrpc>
    <fanart>https://i.imgur.com/BTXNERT.jpg</fanart> 
-  <thumbnail>https://i.imgur.com/FeSit9V.jpg</thumbnail>
+  <thumbnail>https://i.imgur.com/qMmXnjo.jpg</thumbnail>
  <info>[COLOR white][B]En esta seccion de Ciencias Naturales Encontraras: Matematicas, Química, Psicología Individual...[/B][/COLOR]</title></info>
 </item>
 
@@ -136,7 +135,7 @@
 <link>nolink</link>
 <jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=sociologia+de+la+salud&search_type=playlist</jsonrpc>
    <fanart>https://i.imgur.com/BTXNERT.jpg</fanart> 
-  <thumbnail>https://i.imgur.com/QwZlI69.jpg</thumbnail>
+<thumbnail>https://i.imgur.com/qMmXnjo.jpg</thumbnail>
  <info>[COLOR white][B]En esta seccion de Ciencias Naturales Encontraras: Matematicas, Química, Psicología Individual...[/B][/COLOR]</title></info>
 </item>
 
@@ -145,7 +144,7 @@
 <link>nolink</link>
 <jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=sociologia+de+inmigracion&search_type=playlist</jsonrpc>
    <fanart>https://i.imgur.com/BTXNERT.jpg</fanart> 
-  <thumbnail>https://i.imgur.com/QwZlI69.jpg</thumbnail>
+<thumbnail>https://i.imgur.com/qMmXnjo.jpg</thumbnail>
  <info>[COLOR white][B]En esta seccion de Ciencias Naturales Encontraras: Matematicas, Química, Psicología Individual...[/B][/COLOR]</title></info>
 </item>
 
@@ -164,7 +163,7 @@
 <link>nolink</link>
 <jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=sociologia+del+conocimiento&search_type=playlist</jsonrpc>
    <fanart>https://i.imgur.com/BTXNERT.jpg</fanart> 
-  <thumbnail>https://i.imgur.com/FeSit9V.jpg</thumbnail>
+  <thumbnail>https://i.imgur.com/qMmXnjo.jpg</thumbnail>
  <info>[COLOR white][B]En esta seccion de Ciencias Naturales Encontraras: Matematicas, Química, Psicología Individual...[/B][/COLOR]</title></info>
 </item>
 
@@ -173,7 +172,7 @@
 <link>nolink</link>
 <jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=sociologia+rural&search_type=playlist</jsonrpc>
    <fanart>https://i.imgur.com/BTXNERT.jpg</fanart> 
-  <thumbnail>https://i.imgur.com/QwZlI69.jpg</thumbnail>
+<thumbnail>https://i.imgur.com/qMmXnjo.jpg</thumbnail>
  <info>[COLOR white][B]En esta seccion de Ciencias Naturales Encontraras: Matematicas, Química, Psicología Individual...[/B][/COLOR]</title></info>
 </item>
 
@@ -182,7 +181,7 @@
 <link>nolink</link>
 <jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=sociologia+de+la+comunicacion&search_type=playlist</jsonrpc>
    <fanart>https://i.imgur.com/BTXNERT.jpg</fanart> 
-  <thumbnail>https://i.imgur.com/QwZlI69.jpg</thumbnail>
+<thumbnail>https://i.imgur.com/qMmXnjo.jpg</thumbnail>
  <info>[COLOR white][B]En esta seccion de Ciencias Naturales Encontraras: Matematicas, Química, Psicología Individual...[/B][/COLOR]</title></info>
 </item>
 
@@ -191,7 +190,7 @@
 <link>nolink</link>
 <jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=sociologia+del+consumo&search_type=playlist</jsonrpc>
    <fanart>https://i.imgur.com/BTXNERT.jpg</fanart> 
-  <thumbnail>https://i.imgur.com/QwZlI69.jpg</thumbnail>
+<thumbnail>https://i.imgur.com/qMmXnjo.jpg</thumbnail>
  <info>[COLOR white][B]En esta seccion de Ciencias Naturales Encontraras: Matematicas, Química, Psicología Individual...[/B][/COLOR]</title></info>
 </item>
 
@@ -200,7 +199,7 @@
 <link>nolink</link>
 <jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=sociologia+de+la+empresa&search_type=playlist</jsonrpc>
    <fanart>https://i.imgur.com/BTXNERT.jpg</fanart> 
-  <thumbnail>https://i.imgur.com/QwZlI69.jpg</thumbnail>
+<thumbnail>https://i.imgur.com/qMmXnjo.jpg</thumbnail>
  <info>[COLOR white][B]En esta seccion de Ciencias Naturales Encontraras: Matematicas, Química, Psicología Individual...[/B][/COLOR]</title></info>
 </item>
 
@@ -209,16 +208,7 @@
 <link>nolink</link>
 <externallink>https://bit.ly/2tqzoxQ</externallink>
    <fanart>https://i.imgur.com/BTXNERT.jpg</fanart> 
-  <thumbnail>https://i.imgur.com/QwZlI69.jpg</thumbnail>
- <info>[COLOR white][B]En esta seccion de Ciencias Naturales Encontraras: Matematicas, Química, Psicología Individual...[/B][/COLOR]</title></info>
-</item>
-
-<item>
-<title>[COLOR blue][COLOR white][B] Sociologia:[/B][/COLOR][B] Documentales [/B][/COLOR]</title>
-<link>nolink</link>
-<jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=sociologia+documental+español&search_type=playlist</jsonrpc>
-   <fanart>https://i.imgur.com/BTXNERT.jpg</fanart> 
-  <thumbnail>https://i.imgur.com/FVkfXaR.jpg</thumbnail>
+<thumbnail>https://i.imgur.com/qMmXnjo.jpg</thumbnail>
  <info>[COLOR white][B]En esta seccion de Ciencias Naturales Encontraras: Matematicas, Química, Psicología Individual...[/B][/COLOR]</title></info>
 </item>
 
@@ -231,6 +221,14 @@
  <info>[COLOR white][B]En esta seccion de Ciencias Naturales Encontraras: Matematicas, Química, Psicología Individual...[/B][/COLOR]</title></info>
 </item>
 
+<item>
+<title>[COLOR blue][COLOR white][B] Sociologia:[/B][/COLOR][B] Documentales  [/B][/COLOR]</title>
+<link>nolink</link>
+<jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=sociologia+documental&search_type=playlist</jsonrpc>
+   <fanart>https://i.imgur.com/BTXNERT.jpg</fanart> 
+  <thumbnail>https://i.imgur.com/FVkfXaR.jpg</thumbnail>
+ <info>[COLOR white][B]En esta seccion de Ciencias Naturales Encontraras: Matematicas, Química, Psicología Individual...[/B][/COLOR]</title></info>
+</item>
 
 <item><title>[COLOR blue][B] Buscador de Contenidos: Sociologia[/B][/COLOR]</title>
 <link>$doregex[makelist]</link>
