@@ -127,15 +127,23 @@
 </item>
 
 <item>
-<title>[COLOR blue][COLOR white][B] Teorica:[/B][/COLOR][B] Documentales Fisica Cuantica Teorica[/B][/COLOR]</title>
+<title>[COLOR blue][COLOR white][B] Teorica:[/B][/COLOR][B] Documentales [/B][/COLOR]</title>
 <link>ignore</link>
-<jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=documentales+fisica+cuantica+teorica&sp=CAJCBAgBEgA%253D&search_type=playlist</jsonrpc>
+<jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=documental+fisica+teorica&sp=CAJCBAgBEgA%253D&search_type=playlist</jsonrpc>
 <thumbnail>https://i.imgur.com/pjoaq8o.jpg</thumbnail>
 <fanart>https://i.imgur.com/3blAZfv.jpg</fanart>
 <info>[COLOR white][B][B]Fisica Cuantica Teorica ...[/B][/COLOR]</title></info>
 </item>
 
 
+<item>
+<title>[COLOR blue][COLOR white][B] Teorica:[/B][/COLOR][B] Conferencias[/B][/COLOR]</title>
+<link>ignore</link>
+<jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=conferencia+fisica+teorica&sp=CAJCBAgBEgA%253D&search_type=playlist</jsonrpc>
+<thumbnail>https://i.imgur.com/pjoaq8o.jpg</thumbnail>
+<fanart>https://i.imgur.com/3blAZfv.jpg</fanart>
+<info>[COLOR white][B][B]Fisica Cuantica Teorica ...[/B][/COLOR]</title></info>
+</item>
 
 
 <item><title>[COLOR blue][B] Buscador de Contenidos: Fisica Cuantica Teorica[/B][/COLOR]</title>
@@ -174,7 +182,7 @@ import requests,xbmcgui,xbmc, re,time, xbmcaddon
 def GetLSProData(page_data,Cookie_Jar,m):
  
  text=takeInputFortext('[COLOR white][B] Tesla [/B][/COLOR] [COLOR blue]Buscador de Contenidos[/COLOR]')
- url = 'https://www.youtube.com/results?search_query=Fisica+Cuantica+teorica' + text.replace(' ', '+')
+ url = 'https://www.youtube.com/results?search_query=Fisica+teorica' + text.replace(' ', '+')
  req = requests.get(url)
  list1 = re.findall('yt-lockup-c.+?a\shref=".watch.v=([^"]+)".+?\s\stitle="([^"]+)"\s', req.text)
  
