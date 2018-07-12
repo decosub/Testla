@@ -84,6 +84,24 @@
  <info>[COLOR white][B]En esta seccion de Ciencias Naturales Encontraras: Matematicas, Química, Biologia, Psicología Individual...[/B][/COLOR]</title></info>
 </item>
 
+<item>
+<title>[COLOR blue][COLOR white][B] Biologia:[/B][/COLOR][B] Documentales [/B][/COLOR]</title>
+<link>ignore</link>
+<jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=biologia+documental&sp=EgIYAkIECAESAA%253D%253D&search_type=playlist</jsonrpc>
+   <fanart>https://i.imgur.com/BTXNERT.jpg</fanart> 
+<thumbnail>https://i.imgur.com/3HmGTRz.jpg</thumbnail>
+ <info>[COLOR white][B]En esta seccion de Ciencias Naturales Encontraras: Matematicas, Química, Biologia, Psicología Individual...[/B][/COLOR]</title></info>
+</item>
+
+<item>
+<title>[COLOR blue][COLOR white][B] Biologia:[/B][/COLOR][B] Conferencias  [/B][/COLOR]</title>
+<link>ignore</link>
+<jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=biologia+conferencia&sp=EgIYAkIECAESAA%253D%253D&search_type=playlist</jsonrpc>
+   <fanart>https://i.imgur.com/BTXNERT.jpg</fanart> 
+<thumbnail>https://i.imgur.com/3HmGTRz.jpg</thumbnail>
+ <info>[COLOR white][B]En esta seccion de Ciencias Naturales Encontraras: Matematicas, Química, Biologia, Psicología Individual...[/B][/COLOR]</title></info>
+</item>
+
 
 <item><title>[COLOR blue][B] Buscador de Contenidos:Biologia[/B][/COLOR]</title>
 <link>$doregex[makelist]</link>
