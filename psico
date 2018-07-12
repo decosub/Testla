@@ -109,7 +109,23 @@
   <thumbnail>https://i.imgur.com/XkwDK5M.jpg</thumbnail>
  <info>[COLOR white][B]En esta seccion de Ciencias Naturales Encontraras: Matematicas, Química, Psicología Individual...[/B][/COLOR]</title></info>
 </item>
+<item>
+<title>[COLOR blue][COLOR white][B] Psicologia:[/B][/COLOR][B] Documentales  [/B][/COLOR]</title>
+<link>nolink</link>
+<jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=psicologia+documental&sp=CAISAhgCQgQIABIA&search_type=playlist</jsonrpc>
+   <fanart>https://i.imgur.com/BTXNERT.jpg</fanart> 
+  <thumbnail>https://i.imgur.com/QbxMl9U.jpg</thumbnail>
+ <info>[COLOR white][B]En esta seccion de Ciencias Naturales Encontraras: Matematicas, Química, Psicología Individual...[/B][/COLOR]</title></info>
+</item>
 
+<item>
+<title>[COLOR blue][COLOR white][B] Psicologia:[/B][/COLOR][B] Conferencias  [/B][/COLOR]</title>
+<link>nolink</link>
+<jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=Psicologia+conferencias&sp=CAISAhgCQgQIABIA&search_type=playlist</jsonrpc>
+   <fanart>https://i.imgur.com/BTXNERT.jpg</fanart> 
+  <thumbnail>https://i.imgur.com/QbxMl9U.jpg</thumbnail>
+ <info>[COLOR white][B]En esta seccion de Ciencias Naturales Encontraras: Matematicas, Química, Psicología Individual...[/B][/COLOR]</title></info>
+</item>
 
 
 
@@ -149,7 +165,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 import requests,xbmcgui,xbmc, re,time, xbmcaddon
 def GetLSProData(page_data,Cookie_Jar,m):
  
- text=takeInputFortext('[COLOR white][B] Tesla [/B][/COLOR] [COLOR blue]Buscar de Contenidos[/COLOR]')
+ text=takeInputFortext('[COLOR white][B] Tesla [/B][/COLOR] [COLOR blue]Buscardor de Contenidos[/COLOR]')
  url = 'https://www.youtube.com/results?search_query=Psicologia' + text.replace(' ', '+')
  req = requests.get(url)
  list1 = re.findall('yt-lockup-c.+?a\shref=".watch.v=([^"]+)".+?\s\stitle="([^"]+)"\s', req.text)
