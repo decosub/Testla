@@ -122,6 +122,14 @@
 <info>[COLOR white][B]Contenido general del buscador de Youtube documentales Energia Nuclear...[/B][/COLOR]</title></info>
 </item>
 
+<item>
+<title>[COLOR blue][COLOR white][B] Atomica:[/B][/COLOR][B] Conferencias [/B][/COLOR]</title>
+<link>nolink</link>
+<jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=fisica+atomica+conferencias&sp=CAISAhgCQgQIABIA&search_type=playlist</jsonrpc>
+  <fanart>https://i.imgur.com/zBlww2I.jpg</fanart> 
+  <thumbnail>https://i.imgur.com/3blAZfv.jpg</thumbnail>
+<info>[COLOR white][B]Contenido general del buscador de Youtube conferencias Energia Nuclear...[/B][/COLOR]</title></info>
+</item>
 
 <item><title>[COLOR blue][B] Buscador de Contenidos: Fisica Cuantica Atomica[/B][/COLOR]</title>
 <link>$doregex[makelist]</link>
