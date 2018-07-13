@@ -31,7 +31,7 @@
 </item>
 
 <item>
-<title>[COLOR blue][COLOR white][B] Canales:[/B][/COLOR][B] fq-Experimentos  [/B][/COLOR]</title>
+<title>[COLOR blue][COLOR white][B] Semillas:[/B][/COLOR][B] Fq-Experimentos  [/B][/COLOR]</title>
 <link>ignore</link>
 <jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=fq+experimentos&list=UUG_R-0u1OkKtFC_Km6sdmOg</jsonrpc>
 <thumbnail>https://i.imgur.com/P90VMS7.jpg</thumbnail>
@@ -40,7 +40,7 @@
 </item>
 
 <item>
-<title>[COLOR blue][COLOR white][B] Canales:[/B][/COLOR][B] Cienciabit: Ciencia y Tecnología. [/B][/COLOR]</title>
+<title>[COLOR blue][COLOR white][B] Semillas:[/B][/COLOR][B] Cienciabit: Ciencia y Tecnología. [/B][/COLOR]</title>
 <link>ignore</link>
 <jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=cienciabit+ciencia+y+tecnologia&list=UUM7Dwmo0031iRaGdDunPaQw</jsonrpc>
 <thumbnail>https://i.imgur.com/P90VMS7.jpg</thumbnail>
@@ -48,6 +48,41 @@
  <info>[COLOR white][B]Ciencia para los mas pequeños de la casa , sembrar la curiosidad en ellos para que el dia de mañana...[/B][/COLOR]</title></info>
 </item>
 
+<item>
+<title>[COLOR blue][COLOR white][B] Semillas:[/B][/COLOR][B] Contenido General  [/B][/COLOR]</title>
+<link>ignore</link>
+<jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=ciencia+para+niños&search_type=playlist</jsonrpc>
+<thumbnail>https://i.imgur.com/P90VMS7.jpg</thumbnail>
+<fanart>https://i.imgur.com/P90VMS7.jpg</fanart>
+ <info>[COLOR white][B]Ciencia para los mas pequeños de la casa , sembrar la curiosidad en ellos para que el dia de mañana...[/B][/COLOR]</title></info>
+</item>
+
+<item>
+<title>[COLOR blue][COLOR white][B] Semillas:[/B][/COLOR][B] Experimentos Cientificos para Niños  [/B][/COLOR]</title>
+<link>ignore</link>
+<jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=experimentos+para+niños&search_type=playlist</jsonrpc>
+<thumbnail>https://i.imgur.com/P90VMS7.jpg</thumbnail>
+<fanart>https://i.imgur.com/P90VMS7.jpg</fanart>
+ <info>[COLOR white][B]Ciencia para los mas pequeños de la casa , sembrar la curiosidad en ellos para que el dia de mañana...[/B][/COLOR]</title></info>
+</item>
+
+<item>
+<title>[COLOR blue][COLOR white][B] Semillas:[/B][/COLOR][B] Ciencias Naturales   [/B][/COLOR]</title>
+<link>ignore</link>
+<jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=ciencia+naturales+para+niños&search_type=playlist</jsonrpc>
+<thumbnail>https://i.imgur.com/P90VMS7.jpg</thumbnail>
+<fanart>https://i.imgur.com/P90VMS7.jpg</fanart>
+ <info>[COLOR white][B]Ciencia para los mas pequeños de la casa , sembrar la curiosidad en ellos para que el dia de mañana...[/B][/COLOR]</title></info>
+</item>
+
+<item>
+<title>[COLOR blue][COLOR white][B] Semillas:[/B][/COLOR][B] Astronomia   [/B][/COLOR]</title>
+<link>ignore</link>
+<jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=astronomia+para+niños&search_type=playlist</jsonrpc>
+<thumbnail>https://i.imgur.com/P90VMS7.jpg</thumbnail>
+<fanart>https://i.imgur.com/P90VMS7.jpg</fanart>
+ <info>[COLOR white][B]Ciencia para los mas pequeños de la casa , sembrar la curiosidad en ellos para que el dia de mañana...[/B][/COLOR]</title></info>
+</item>
 <item>
 <title>[COLOR blue][B] Buscador de Contenidos: Semillas[/B][/COLOR]</title>
 <link>$doregex[makelist]</link>
