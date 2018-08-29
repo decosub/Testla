@@ -111,6 +111,14 @@ def GetLSProData(page_data,Cookie_Jar,m):
 </item>
 
 <item>
+<title>[COLOR blue][COLOR white][B] Tesla:[/B][/COLOR][B] Otros Addons del mismo Creador [/B][/COLOR]</title>
+<link>ignore</link>
+<externallink>https://bit.ly/2ySm62j</externallink>
+<thumbnail>https://i.imgur.com/x3DhbGo.jpg</thumbnail>
+   <fanart>https://i.imgur.com/zBlww2I.jpg</fanart> 
+  <info>[COLOR white][B]Otros Addons Tematicos del Mismo Creador...[/B][/COLOR]</title></info>
+</item>
+<item>
 <title>[COLOR blue][B] Agradecimientos... [/B][/COLOR]</title>
 <link>$doregex[openDialog]</link>
 <regex>
