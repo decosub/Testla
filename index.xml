@@ -25,7 +25,14 @@ def GetLSProData(page_data,Cookie_Jar,m):
 
 <info>[COLOR blue[B]Importante leer para el buen fincionamiento del Addon.[/B][/COLOR]</info>
 </item>
-
+<item>
+<title>[COLOR white][COLOR blue][B] Añadida:[/B][/COLOR][B] Seccion Otros Addons del mismo Creador[/B][/COLOR]</title>
+<link>nolink</link>
+<externallink>https://bit.ly/2Kc6GLj</externallink>
+  <fanart>https://i.imgur.com/zBlww2I.jpg</fanart> 
+  <thumbnail>https://bit.ly/2Myqq8X</thumbnail>
+ <info>[COLOR white][B]En esta seccion de fisica Encontraras: Fisica Clasica, Fisica Cuantica...[/B][/COLOR]</title></info>
+</item>
 
 <item>
 <title>[COLOR blue][COLOR white][B] Tesla:[/B][/COLOR][B] Indice de Contenido[/B][/COLOR]</title>
