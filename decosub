@@ -19,9 +19,9 @@
 
 
 <item>
-<title>[COLOR red][B] Mundo Oscuro[/B][/COLOR][COLOR white][B] (Proximamente)[/B][/COLOR]</title>
+<title>[COLOR red][B] Mundo [/B][/COLOR][COLOR white][B]Oscuro[/B][/COLOR]</title>
 <link>ignorme</link>
-<externallink></externallink>
+<jsonrpc>plugin://plugin.video.MundoOscuro</jsonrpc>
   <fanart>https://i.imgur.com/x3DhbGo.jpg</fanart> 
   <thumbnail>https://i.imgur.com/Nmycnug.jpg</thumbnail>
  <info>[COLOR white][B]Proximamente...[/B][/COLOR]</title></info>
